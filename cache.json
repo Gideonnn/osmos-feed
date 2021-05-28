@@ -6,148 +6,238 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "id": "https://news.ycombinator.com/item?id=27310586",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "publishedOn": "2021-05-27T01:01:11.000Z",
-          "wordCount": 48,
-          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Product Designers and CSM"
+          "link": "https://news.ycombinator.com/item?id=27310586",
+          "publishedOn": "2021-05-28T01:00:14.000Z",
+          "wordCount": 224,
+          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
         },
         {
-          "id": "https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions",
+          "id": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions",
-          "publishedOn": "2021-05-27T00:38:24.000Z",
-          "wordCount": 1149,
-          "title": "LA pays $2600 per homeless tent, per month"
+          "link": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
+          "publishedOn": "2021-05-28T00:25:49.000Z",
+          "wordCount": 709,
+          "title": "QUIC is now RFC 9000"
         },
         {
-          "id": "https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/",
+          "id": "https://twitter.com/nateliason/status/1397719837204418561",
           "author": null,
           "description": "Comments",
-          "link": "https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/",
-          "publishedOn": "2021-05-26T23:07:15.000Z",
-          "wordCount": 2131,
-          "title": "I still like C and strongly dislike C++"
+          "link": "https://twitter.com/nateliason/status/1397719837204418561",
+          "publishedOn": "2021-05-28T00:25:13.000Z",
+          "wordCount": 196,
+          "title": "A six figure meme making job at a legit company"
         },
         {
-          "id": "https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/",
+          "id": "https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/",
-          "publishedOn": "2021-05-26T22:32:26.000Z",
-          "wordCount": 1569,
-          "title": "When scientific orthodoxy resembles religious dogma"
+          "link": "https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html",
+          "publishedOn": "2021-05-28T00:05:28.000Z",
+          "wordCount": 1225,
+          "title": "Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)"
         },
         {
-          "id": "https://skreen.site/",
+          "id": "https://macwright.com/2020/05/10/spa-fatigue.html",
           "author": null,
           "description": "Comments",
-          "link": "https://skreen.site/",
-          "publishedOn": "2021-05-26T21:47:45.000Z",
-          "wordCount": 624,
-          "title": "SKreen: Human Centric Smartphones for Everyone"
+          "link": "https://macwright.com/2020/05/10/spa-fatigue.html",
+          "publishedOn": "2021-05-27T21:48:11.000Z",
+          "wordCount": 1966,
+          "title": "Second-guessing the modern web (2020)"
         },
         {
-          "id": "https://waseem.substack.com/p/you-cant-have-too-many-angels",
+          "id": "https://stopa.io/post/265?repost=true",
           "author": null,
           "description": "Comments",
-          "link": "https://waseem.substack.com/p/you-cant-have-too-many-angels",
-          "publishedOn": "2021-05-26T21:26:35.000Z",
-          "wordCount": 1059,
-          "title": "You can't have too many angels"
+          "link": "https://stopa.io/post/265?repost=true",
+          "publishedOn": "2021-05-27T19:50:33.000Z",
+          "wordCount": 2907,
+          "title": "An Intuition for Lisp Syntax"
         },
         {
-          "id": "https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext",
+          "id": "https://www.slowboring.com/p/the-medias-lab-leak-fiasco",
           "author": null,
           "description": "Comments",
-          "link": "https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext",
-          "publishedOn": "2021-05-26T20:49:16.000Z",
-          "wordCount": null,
-          "title": "Collusion rings threaten the integrity of computer science research"
+          "link": "https://www.slowboring.com/p/the-medias-lab-leak-fiasco",
+          "publishedOn": "2021-05-27T19:34:05.000Z",
+          "wordCount": 4863,
+          "title": "The media's lab leak fiasco"
         },
         {
-          "id": "https://pasquale.cool/internet-mob",
+          "id": "https://jsonlogic.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://pasquale.cool/internet-mob",
-          "publishedOn": "2021-05-26T19:56:46.000Z",
-          "wordCount": 935,
-          "title": "Life after an internet mob attack"
+          "link": "https://jsonlogic.com/",
+          "publishedOn": "2021-05-27T18:16:58.000Z",
+          "wordCount": 601,
+          "title": "JsonLogic"
         },
         {
-          "id": "https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/",
+          "id": "https://www.bbc.com/news/science-environment-57244708",
           "author": null,
           "description": "Comments",
-          "link": "https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/",
-          "publishedOn": "2021-05-26T19:21:28.000Z",
-          "wordCount": 1152,
-          "title": "Why and how GitHub is adopting OpenTelemetry"
+          "link": "https://www.bbc.com/news/science-environment-57244708",
+          "publishedOn": "2021-05-27T17:29:00.000Z",
+          "wordCount": 1338,
+          "title": "New dark matter map reveals cosmic mystery"
         },
         {
-          "id": "https://oxide.computer",
+          "id": "https://stacked-git.github.io/",
           "author": null,
           "description": "Comments",
-          "link": "https://oxide.computer",
-          "publishedOn": "2021-05-26T18:45:35.000Z",
-          "wordCount": 762,
-          "title": "Servers as they should be – shipping early 2022"
+          "link": "https://stacked-git.github.io/",
+          "publishedOn": "2021-05-27T17:17:51.000Z",
+          "wordCount": 843,
+          "title": "Stacked Git – manage commits as a stack of patches"
         },
         {
-          "id": "https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly",
+          "id": "https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly",
-          "publishedOn": "2021-05-26T18:39:40.000Z",
-          "wordCount": 1325,
-          "title": "A new algorithm for graph crossings, hiding in plain sight (2020)"
+          "link": "https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/",
+          "publishedOn": "2021-05-27T16:47:03.000Z",
+          "wordCount": 1093,
+          "title": "Manifest v3 Update"
         },
         {
-          "id": "https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm",
+          "id": "https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm",
-          "publishedOn": "2021-05-26T18:35:43.000Z",
-          "wordCount": 768,
-          "title": "Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer"
+          "link": "https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/",
+          "publishedOn": "2021-05-27T16:37:04.000Z",
+          "wordCount": 1395,
+          "title": "Egyptian Circumnavigation of Africa ~600 BC"
         },
         {
-          "id": "https://www.findareddit.com/",
+          "id": "https://v8.dev/blog/sparkplug",
           "author": null,
           "description": "Comments",
-          "link": "https://www.findareddit.com/",
-          "publishedOn": "2021-05-26T17:59:47.000Z",
-          "wordCount": 1839,
-          "title": "Show HN: Find Subreddits for Your Niche"
+          "link": "https://v8.dev/blog/sparkplug",
+          "publishedOn": "2021-05-27T16:19:02.000Z",
+          "wordCount": 2398,
+          "title": "V8 Sparkplug – A non-optimizing JavaScript compiler"
         },
         {
-          "id": "https://openai.com/fund/",
+          "id": "https://antiqueradio.org/welcome.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://openai.com/fund/",
-          "publishedOn": "2021-05-26T17:43:06.000Z",
-          "wordCount": 440,
-          "title": "OpenAI Announces Funding for Startups"
+          "link": "https://antiqueradio.org/welcome.htm",
+          "publishedOn": "2021-05-27T14:54:37.000Z",
+          "wordCount": 156,
+          "title": "Phil's Old Radios"
         },
         {
-          "id": "https://mux.com/blog/your-browser-and-my-browser-see-different-colors/",
+          "id": "https://github.com/nocodb/nocodb",
           "author": null,
           "description": "Comments",
-          "link": "https://mux.com/blog/your-browser-and-my-browser-see-different-colors/",
-          "publishedOn": "2021-05-26T17:13:58.000Z",
-          "wordCount": 2098,
-          "title": "Different browsers see different colors"
+          "link": "https://github.com/nocodb/nocodb",
+          "publishedOn": "2021-05-27T14:47:14.000Z",
+          "wordCount": 1238,
+          "title": "Show HN: NocoDB – The Open Source Airtable Alternative"
         },
         {
-          "id": "https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/",
+          "id": "https://convect.ml",
           "author": null,
           "description": "Comments",
-          "link": "https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/",
-          "publishedOn": "2021-05-26T17:03:16.000Z",
-          "wordCount": 703,
-          "title": "Using NetBSD’s pkgsrc everywhere I can"
+          "link": "https://convect.ml",
+          "publishedOn": "2021-05-27T14:39:28.000Z",
+          "wordCount": 17,
+          "title": "Show HN: Convect – Instant Serverless Deployment of ML Models"
+        },
+        {
+          "id": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
+          "publishedOn": "2021-05-27T14:01:04.000Z",
+          "wordCount": 1964,
+          "title": "Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S"
+        },
+        {
+          "id": "https://developer.mozilla.org/en/plus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en/plus",
+          "publishedOn": "2021-05-27T13:16:50.000Z",
+          "wordCount": 54,
+          "title": "MDN Plus"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27302195",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27302195",
+          "publishedOn": "2021-05-27T12:29:09.000Z",
+          "wordCount": 7814,
+          "title": "Ask HN: Favorite Blogs by Individuals?"
+        },
+        {
+          "id": "https://twitter.com/Kristy_Viers/status/1287189581926981634",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/Kristy_Viers/status/1287189581926981634",
+          "publishedOn": "2021-05-27T12:16:10.000Z",
+          "wordCount": 196,
+          "title": "How I, as someone who is visually impaired, use my iPhone (2020)"
+        },
+        {
+          "id": "http://wndr.xyz",
+          "author": null,
+          "description": "Comments",
+          "link": "http://wndr.xyz",
+          "publishedOn": "2021-05-27T11:07:00.000Z",
+          "wordCount": 621,
+          "title": "Show HN: I made a free blogging/bookmarking platform with discussions/discovery"
+        },
+        {
+          "id": "https://twitter.com/esraefe/status/1397842160607711232",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/esraefe/status/1397842160607711232",
+          "publishedOn": "2021-05-27T10:28:55.000Z",
+          "wordCount": 196,
+          "title": "Klarna users are being signed in to random accounts"
+        },
+        {
+          "id": "https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext",
+          "publishedOn": "2021-05-27T09:23:39.000Z",
+          "wordCount": 2896,
+          "title": "Roots of 'Program' Revisited"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "publishedOn": "2021-05-27T08:18:17.000Z",
+          "wordCount": 1869,
+          "title": "Blog about what you've struggled with"
+        },
+        {
+          "id": "https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525",
+          "publishedOn": "2021-05-27T05:01:17.000Z",
+          "wordCount": 2768,
+          "title": "Mathematicians Find Long-Sought Building Blocks for Special Polynomials"
+        },
+        {
+          "id": "https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html",
+          "publishedOn": "2021-05-27T03:25:09.000Z",
+          "wordCount": 1657,
+          "title": "Eric Carle has died"
         },
         {
           "id": "https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code",
@@ -159,121 +249,31 @@
           "title": "Have you ever hurt yourself from your own code?"
         },
         {
-          "id": "https://crispgm.com/page/neovim-is-overpowering.html",
+          "id": "https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/",
           "author": null,
           "description": "Comments",
-          "link": "https://crispgm.com/page/neovim-is-overpowering.html",
-          "publishedOn": "2021-05-26T14:56:41.000Z",
-          "wordCount": 1034,
-          "title": "Neovim 0.5 is overpowering"
+          "link": "https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/",
+          "publishedOn": "2021-05-26T11:59:27.000Z",
+          "wordCount": 706,
+          "title": "First Tasmanian Devils born in the wild of Australia mainland in 3k years"
         },
         {
-          "id": "https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/",
+          "id": "https://www.osti.gov/opennet/servlets/purl/969352.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/",
-          "publishedOn": "2021-05-26T13:00:11.000Z",
-          "wordCount": 1375,
-          "title": "Amazon acquires MGM for $8.5B"
+          "link": "https://www.osti.gov/opennet/servlets/purl/969352.pdf",
+          "publishedOn": "2021-05-26T06:10:28.000Z",
+          "wordCount": 262230,
+          "title": "Battlefield of the Cold War: Nevada Test Site 1951 - 1963 [pdf]"
         },
         {
-          "id": "https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch",
+          "id": "https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/",
           "author": null,
           "description": "Comments",
-          "link": "https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch",
-          "publishedOn": "2021-05-26T11:43:58.000Z",
-          "wordCount": 44,
-          "title": "Build a RISC-V CPU from scratch"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41467-021-23014-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41467-021-23014-1",
-          "publishedOn": "2021-05-26T10:51:35.000Z",
-          "wordCount": 10394,
-          "title": "Analysis of blood markers predicts human lifespan limit"
-        },
-        {
-          "id": "https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr",
-          "publishedOn": "2021-05-26T10:09:46.000Z",
-          "wordCount": 773,
-          "title": "USB-C is about to go from 100W to 240W, enough to power beefier laptops"
-        },
-        {
-          "id": "https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543",
-          "publishedOn": "2021-05-26T10:03:57.000Z",
-          "wordCount": 1236,
-          "title": "The only Buddhist region in Europe"
-        },
-        {
-          "id": "https://www.sciencealert.com/enigmatic-designs-found-in-india-may-be-the-largest-images-ever-made-by-human-hands",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sciencealert.com/enigmatic-designs-found-in-india-may-be-the-largest-images-ever-made-by-human-hands",
-          "publishedOn": "2021-05-26T09:55:47.000Z",
-          "wordCount": 1037,
-          "title": "Enigmatic designs found in India may be the largest images made by human hands"
-        },
-        {
-          "id": "https://kean.blog/post/lets-build-regex",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kean.blog/post/lets-build-regex",
-          "publishedOn": "2021-05-26T08:52:54.000Z",
-          "wordCount": 696,
-          "title": "Let's Build a Regex Engine"
-        },
-        {
-          "id": "https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9",
-          "publishedOn": "2021-05-26T07:03:59.000Z",
-          "wordCount": 4190,
-          "title": "After a decade of VC influence at Stanford, what’s next?"
-        },
-        {
-          "id": "https://www.hakaimagazine.com/features/that-time-hitlers-girlfriend-visited-iceland-and-the-british-invaded/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hakaimagazine.com/features/that-time-hitlers-girlfriend-visited-iceland-and-the-british-invaded/",
-          "publishedOn": "2021-05-26T01:08:04.000Z",
-          "wordCount": 5193,
-          "title": "Iceland played an unexpected and crucial role in the Second World War"
-        },
-        {
-          "id": "https://twitter.com/mesh_ide/status/984122863878680576",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/mesh_ide/status/984122863878680576",
-          "publishedOn": "2021-05-25T21:52:23.000Z",
-          "wordCount": 196,
-          "title": "Benefits of 2D code layouts (2018)"
-        },
-        {
-          "id": "https://github.com/robert-strandh/SICL",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/robert-strandh/SICL",
-          "publishedOn": "2021-05-25T21:19:00.000Z",
-          "wordCount": 844,
-          "title": "SICL: A New Common Lisp Implementation"
-        },
-        {
-          "id": "https://pidtuner.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pidtuner.com/",
-          "publishedOn": "2021-05-25T06:21:10.000Z",
-          "wordCount": 547,
-          "title": "Tune Your PID Controller"
+          "link": "https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/",
+          "publishedOn": "2021-05-26T02:31:57.000Z",
+          "wordCount": 1740,
+          "title": "Persian legends and their Western counterparts (2020)"
         }
       ]
     }
