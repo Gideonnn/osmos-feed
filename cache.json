@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27310586",
+          "id": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27310586",
-          "publishedOn": "2021-05-28T01:00:14.000Z",
-          "wordCount": 224,
-          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
+          "link": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead",
+          "publishedOn": "2021-05-29T01:00:15.000Z",
+          "wordCount": 939,
+          "title": "Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers"
         },
         {
-          "id": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
+          "id": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
-          "publishedOn": "2021-05-28T00:25:49.000Z",
-          "wordCount": 709,
-          "title": "QUIC is now RFC 9000"
+          "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
+          "publishedOn": "2021-05-28T23:39:34.000Z",
+          "wordCount": 3433,
+          "title": "Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer"
         },
         {
-          "id": "https://twitter.com/nateliason/status/1397719837204418561",
+          "id": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/nateliason/status/1397719837204418561",
-          "publishedOn": "2021-05-28T00:25:13.000Z",
-          "wordCount": 196,
-          "title": "A six figure meme making job at a legit company"
+          "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
+          "publishedOn": "2021-05-28T23:35:29.000Z",
+          "wordCount": 2161,
+          "title": "Pwned passwords, open source in the .NET foundation and working with the FBI"
         },
         {
-          "id": "https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html",
+          "id": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html",
-          "publishedOn": "2021-05-28T00:05:28.000Z",
-          "wordCount": 1225,
-          "title": "Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)"
+          "link": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
+          "publishedOn": "2021-05-28T22:43:25.000Z",
+          "wordCount": 2251,
+          "title": "Apple has a decade-long lead in wearables"
         },
         {
-          "id": "https://macwright.com/2020/05/10/spa-fatigue.html",
+          "id": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
           "author": null,
           "description": "Comments",
-          "link": "https://macwright.com/2020/05/10/spa-fatigue.html",
-          "publishedOn": "2021-05-27T21:48:11.000Z",
-          "wordCount": 1966,
-          "title": "Second-guessing the modern web (2020)"
+          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+          "publishedOn": "2021-05-28T20:14:00.000Z",
+          "wordCount": 4079,
+          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
         },
         {
-          "id": "https://stopa.io/post/265?repost=true",
+          "id": "https://unixgame.io/unix50",
           "author": null,
           "description": "Comments",
-          "link": "https://stopa.io/post/265?repost=true",
-          "publishedOn": "2021-05-27T19:50:33.000Z",
-          "wordCount": 2907,
-          "title": "An Intuition for Lisp Syntax"
+          "link": "https://unixgame.io/unix50",
+          "publishedOn": "2021-05-28T19:31:02.000Z",
+          "wordCount": 264,
+          "title": "The Unix Game"
         },
         {
-          "id": "https://www.slowboring.com/p/the-medias-lab-leak-fiasco",
+          "id": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.slowboring.com/p/the-medias-lab-leak-fiasco",
-          "publishedOn": "2021-05-27T19:34:05.000Z",
-          "wordCount": 4863,
-          "title": "The media's lab leak fiasco"
+          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
+          "publishedOn": "2021-05-28T19:23:34.000Z",
+          "wordCount": 3482,
+          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
         },
         {
-          "id": "https://jsonlogic.com/",
+          "id": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
           "author": null,
           "description": "Comments",
-          "link": "https://jsonlogic.com/",
-          "publishedOn": "2021-05-27T18:16:58.000Z",
-          "wordCount": 601,
-          "title": "JsonLogic"
+          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
+          "publishedOn": "2021-05-28T18:48:34.000Z",
+          "wordCount": 1488,
+          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
         },
         {
-          "id": "https://www.bbc.com/news/science-environment-57244708",
+          "id": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.com/news/science-environment-57244708",
-          "publishedOn": "2021-05-27T17:29:00.000Z",
-          "wordCount": 1338,
-          "title": "New dark matter map reveals cosmic mystery"
+          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+          "publishedOn": "2021-05-28T18:46:39.000Z",
+          "wordCount": 911,
+          "title": "Overwork killed more than 745k people in a year, WHO study finds"
         },
         {
-          "id": "https://stacked-git.github.io/",
+          "id": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
           "author": null,
           "description": "Comments",
-          "link": "https://stacked-git.github.io/",
-          "publishedOn": "2021-05-27T17:17:51.000Z",
-          "wordCount": 843,
-          "title": "Stacked Git – manage commits as a stack of patches"
+          "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
+          "publishedOn": "2021-05-28T18:34:51.000Z",
+          "wordCount": 360,
+          "title": "PID Controller: A Simple Control Loop Mechanism"
         },
         {
-          "id": "https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/",
+          "id": "https://www.anthropic.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/",
-          "publishedOn": "2021-05-27T16:47:03.000Z",
-          "wordCount": 1093,
-          "title": "Manifest v3 Update"
+          "link": "https://www.anthropic.com/",
+          "publishedOn": "2021-05-28T17:25:17.000Z",
+          "wordCount": 9,
+          "title": "Anthropic AI"
         },
         {
-          "id": "https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/",
+          "id": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/",
-          "publishedOn": "2021-05-27T16:37:04.000Z",
-          "wordCount": 1395,
-          "title": "Egyptian Circumnavigation of Africa ~600 BC"
+          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
+          "publishedOn": "2021-05-28T17:02:28.000Z",
+          "wordCount": 1644,
+          "title": "Why Russians do not smile (2002)"
         },
         {
-          "id": "https://v8.dev/blog/sparkplug",
+          "id": "https://librefoodpantry.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://v8.dev/blog/sparkplug",
-          "publishedOn": "2021-05-27T16:19:02.000Z",
-          "wordCount": 2398,
-          "title": "V8 Sparkplug – A non-optimizing JavaScript compiler"
+          "link": "https://librefoodpantry.org/",
+          "publishedOn": "2021-05-28T16:51:34.000Z",
+          "wordCount": 263,
+          "title": "LibreFoodPantry – a community building FOSS for food pantries"
         },
         {
-          "id": "https://antiqueradio.org/welcome.htm",
+          "id": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
           "author": null,
           "description": "Comments",
-          "link": "https://antiqueradio.org/welcome.htm",
-          "publishedOn": "2021-05-27T14:54:37.000Z",
-          "wordCount": 156,
-          "title": "Phil's Old Radios"
+          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
+          "publishedOn": "2021-05-28T16:47:35.000Z",
+          "wordCount": 745,
+          "title": "I quit my job to focus on SerenityOS full time"
         },
         {
-          "id": "https://github.com/nocodb/nocodb",
+          "id": "https://news.ycombinator.com/item?id=27317635",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/nocodb/nocodb",
-          "publishedOn": "2021-05-27T14:47:14.000Z",
-          "wordCount": 1238,
-          "title": "Show HN: NocoDB – The Open Source Airtable Alternative"
-        },
-        {
-          "id": "https://convect.ml",
-          "author": null,
-          "description": "Comments",
-          "link": "https://convect.ml",
-          "publishedOn": "2021-05-27T14:39:28.000Z",
-          "wordCount": 17,
-          "title": "Show HN: Convect – Instant Serverless Deployment of ML Models"
-        },
-        {
-          "id": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
-          "publishedOn": "2021-05-27T14:01:04.000Z",
+          "link": "https://news.ycombinator.com/item?id=27317635",
+          "publishedOn": "2021-05-28T16:46:24.000Z",
           "wordCount": 1964,
-          "title": "Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S"
+          "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams"
         },
         {
-          "id": "https://developer.mozilla.org/en/plus",
+          "id": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
           "author": null,
           "description": "Comments",
-          "link": "https://developer.mozilla.org/en/plus",
-          "publishedOn": "2021-05-27T13:16:50.000Z",
-          "wordCount": 54,
-          "title": "MDN Plus"
+          "link": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
+          "publishedOn": "2021-05-28T16:01:01.000Z",
+          "wordCount": 2430,
+          "title": "PostgreSQL EXPLAIN Output Explained"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27302195",
+          "id": "https://ninfex.com/hello",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27302195",
-          "publishedOn": "2021-05-27T12:29:09.000Z",
-          "wordCount": 7814,
-          "title": "Ask HN: Favorite Blogs by Individuals?"
+          "link": "https://ninfex.com/hello",
+          "publishedOn": "2021-05-28T15:42:21.000Z",
+          "wordCount": 194,
+          "title": "Show HN: An experimental, people-powered search engine"
         },
         {
-          "id": "https://twitter.com/Kristy_Viers/status/1287189581926981634",
+          "id": "https://twitter.com/wongmjane/status/1398022730553860102",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/Kristy_Viers/status/1287189581926981634",
-          "publishedOn": "2021-05-27T12:16:10.000Z",
+          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
+          "publishedOn": "2021-05-28T14:57:19.000Z",
           "wordCount": 196,
-          "title": "How I, as someone who is visually impaired, use my iPhone (2020)"
+          "title": "Twitter confirms Twitter Blue"
         },
         {
-          "id": "http://wndr.xyz",
+          "id": "https://www.nature.com/articles/d41586-021-01442-9",
           "author": null,
           "description": "Comments",
-          "link": "http://wndr.xyz",
-          "publishedOn": "2021-05-27T11:07:00.000Z",
-          "wordCount": 621,
-          "title": "Show HN: I made a free blogging/bookmarking platform with discussions/discovery"
+          "link": "https://www.nature.com/articles/d41586-021-01442-9",
+          "publishedOn": "2021-05-28T13:27:47.000Z",
+          "wordCount": 1517,
+          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
         },
         {
-          "id": "https://twitter.com/esraefe/status/1397842160607711232",
+          "id": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/esraefe/status/1397842160607711232",
-          "publishedOn": "2021-05-27T10:28:55.000Z",
-          "wordCount": 196,
-          "title": "Klarna users are being signed in to random accounts"
+          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
+          "publishedOn": "2021-05-28T12:58:08.000Z",
+          "wordCount": null,
+          "title": "Physical Warp Drives"
         },
         {
-          "id": "https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext",
+          "id": "https://newrepublic.com/article/162533/whats-wrong-bob-dylans-biographers-clinton-heylin-review",
           "author": null,
           "description": "Comments",
-          "link": "https://cacm.acm.org/magazines/2021/4/251342-roots-of-program-revisited/fulltext",
-          "publishedOn": "2021-05-27T09:23:39.000Z",
-          "wordCount": 2896,
-          "title": "Roots of 'Program' Revisited"
+          "link": "https://newrepublic.com/article/162533/whats-wrong-bob-dylans-biographers-clinton-heylin-review",
+          "publishedOn": "2021-05-28T04:43:29.000Z",
+          "wordCount": 2617,
+          "title": "What’s Wrong with Bob Dylan’s Biographers?"
         },
         {
-          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "id": "https://fingerspelling.xyz",
           "author": null,
           "description": "Comments",
-          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
-          "publishedOn": "2021-05-27T08:18:17.000Z",
-          "wordCount": 1869,
-          "title": "Blog about what you've struggled with"
+          "link": "https://fingerspelling.xyz",
+          "publishedOn": "2021-05-27T21:40:40.000Z",
+          "wordCount": 322,
+          "title": "Learn American Sign Language Fingerspelling with Machine Learning"
         },
         {
-          "id": "https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525",
+          "id": "https://www.youtube.com/watch?v=6KejBRUTUjA",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525",
-          "publishedOn": "2021-05-27T05:01:17.000Z",
-          "wordCount": 2768,
-          "title": "Mathematicians Find Long-Sought Building Blocks for Special Polynomials"
+          "link": "https://www.youtube.com/watch?v=6KejBRUTUjA",
+          "publishedOn": "2021-05-27T16:11:16.000Z",
+          "wordCount": 19,
+          "title": "Stay Calm and Stay in the Cab (2002) [video] (1999)"
         },
         {
-          "id": "https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html",
+          "id": "https://redact.dev/?hn",
           "author": null,
           "description": "Comments",
-          "link": "https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html",
-          "publishedOn": "2021-05-27T03:25:09.000Z",
-          "wordCount": 1657,
-          "title": "Eric Carle has died"
+          "link": "https://redact.dev/?hn",
+          "publishedOn": "2021-05-27T14:10:45.000Z",
+          "wordCount": 16,
+          "title": "Show HN: Redact – Automated deletion for your content on social networks"
         },
         {
-          "id": "https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code",
+          "id": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code",
-          "publishedOn": "2021-05-26T16:00:27.000Z",
-          "wordCount": 1447,
-          "title": "Have you ever hurt yourself from your own code?"
+          "link": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
+          "publishedOn": "2021-05-27T11:58:40.000Z",
+          "wordCount": 2855,
+          "title": "Automated Data Wrangling"
         },
         {
-          "id": "https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/",
+          "id": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/",
-          "publishedOn": "2021-05-26T11:59:27.000Z",
-          "wordCount": 706,
-          "title": "First Tasmanian Devils born in the wild of Australia mainland in 3k years"
+          "link": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+          "publishedOn": "2021-05-27T11:23:55.000Z",
+          "wordCount": 3802,
+          "title": "Elliptic Curve Cryptography Explained (2019)"
         },
         {
-          "id": "https://www.osti.gov/opennet/servlets/purl/969352.pdf",
+          "id": "https://phys.org/news/2021-05-primates-accent-conflict.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.osti.gov/opennet/servlets/purl/969352.pdf",
-          "publishedOn": "2021-05-26T06:10:28.000Z",
-          "wordCount": 262230,
-          "title": "Battlefield of the Cold War: Nevada Test Site 1951 - 1963 [pdf]"
+          "link": "https://phys.org/news/2021-05-primates-accent-conflict.html",
+          "publishedOn": "2021-05-27T10:34:13.000Z",
+          "wordCount": 1475,
+          "title": "Primates change their 'accent' to avoid conflict"
         },
         {
-          "id": "https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/",
+          "id": "https://news.ycombinator.com/item?id=27301210",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/",
-          "publishedOn": "2021-05-26T02:31:57.000Z",
-          "wordCount": 1740,
-          "title": "Persian legends and their Western counterparts (2020)"
+          "link": "https://news.ycombinator.com/item?id=27301210",
+          "publishedOn": "2021-05-27T10:27:49.000Z",
+          "wordCount": 1096,
+          "title": "Ask HN: How are you using unikernels?"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
+          "publishedOn": "2021-05-27T04:26:03.000Z",
+          "wordCount": 3250,
+          "title": "Control-flow integrity in Linux 5.13"
+        },
+        {
+          "id": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "publishedOn": "2021-05-26T09:08:24.000Z",
+          "wordCount": 775,
+          "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser"
         }
       ]
     }
