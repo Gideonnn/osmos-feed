@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction",
+          "id": "https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction",
-          "publishedOn": "2021-06-10T00:08:03.000Z",
-          "wordCount": 2004,
-          "title": "The Risk of Cargo Liquefication"
+          "link": "https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html",
+          "publishedOn": "2021-06-11T00:09:32.000Z",
+          "wordCount": 2367,
+          "title": "“Crunch” Open Source Texture Compression Library vs. US Patent #20110115806"
         },
         {
-          "id": "https://www.npr.org/2021/06/09/1004908006/developer-abandons-keystone-xl-pipeline-project-ending-decade-long-battle",
+          "id": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/06/09/1004908006/developer-abandons-keystone-xl-pipeline-project-ending-decade-long-battle",
-          "publishedOn": "2021-06-09T23:44:37.000Z",
-          "wordCount": 912,
-          "title": "Developer Abandons Keystone XL Pipeline Project, Ending Decade-Long Battle"
+          "link": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
+          "publishedOn": "2021-06-10T23:12:18.000Z",
+          "wordCount": 28,
+          "title": "Chrome abandons 'simplified domain experiment' in omnibar"
         },
         {
-          "id": "https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/",
+          "id": "https://www.nature.com/articles/d41586-021-01560-4",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/",
-          "publishedOn": "2021-06-09T22:56:37.000Z",
-          "wordCount": 958,
-          "title": "Reddit Sunsets Secret Santa and Reddit Gifts"
+          "link": "https://www.nature.com/articles/d41586-021-01560-4",
+          "publishedOn": "2021-06-10T22:47:34.000Z",
+          "wordCount": 1941,
+          "title": "Chime has detected 535 fast radio bursts, quadrupling the known tally"
         },
         {
-          "id": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
+          "id": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
-          "publishedOn": "2021-06-09T22:07:37.000Z",
-          "wordCount": 664,
-          "title": "Facebook extends its work-at-home policy to most employees"
+          "link": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox",
+          "publishedOn": "2021-06-10T22:31:36.000Z",
+          "wordCount": 894,
+          "title": "FDA approves drug to treat smallpox"
         },
         {
-          "id": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2",
+          "id": "https://status.aws.amazon.com/#EU_block",
           "author": null,
           "description": "Comments",
-          "link": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2",
-          "publishedOn": "2021-06-09T21:50:49.000Z",
-          "wordCount": 1183,
-          "title": "Evaluating necessity of Covid-19 vaccination in previously infected individuals"
+          "link": "https://status.aws.amazon.com/#EU_block",
+          "publishedOn": "2021-06-10T22:29:15.000Z",
+          "wordCount": 34063,
+          "title": "AWS Frankfurt Status: Engineers are still not able to enter the affected part"
         },
         {
-          "id": "https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/",
+          "id": "https://lkml.org/lkml/2021/6/10/957",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/",
-          "publishedOn": "2021-06-09T21:06:13.000Z",
-          "wordCount": 766,
-          "title": "TC Energy scraps Keystone XL pipeline project after Biden revokes key permit"
+          "link": "https://lkml.org/lkml/2021/6/10/957",
+          "publishedOn": "2021-06-10T21:57:43.000Z",
+          "wordCount": 696,
+          "title": "Linus Torvalds: Get vaccinated. Stop believing the anti-vax lies"
         },
         {
-          "id": "https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021",
+          "id": "https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021",
-          "publishedOn": "2021-06-09T21:00:45.000Z",
-          "wordCount": 344,
-          "title": "LayerCI (YC S20) Is hiring interns to build devtools for webapps in Canada"
+          "link": "https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/",
+          "publishedOn": "2021-06-10T21:35:34.000Z",
+          "wordCount": 1554,
+          "title": "Physicists measure the gravitational force between the smallest masses yet"
         },
         {
-          "id": "https://github.com/readme/unseen-oss",
+          "id": "https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/readme/unseen-oss",
-          "publishedOn": "2021-06-09T19:38:24.000Z",
-          "wordCount": 2672,
-          "title": "You use more open source software than you think"
+          "link": "https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html",
+          "publishedOn": "2021-06-10T21:05:21.000Z",
+          "wordCount": 5458,
+          "title": "The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple"
         },
         {
-          "id": "https://fragile-credences.github.io/scihub-proxy/",
+          "id": "https://www.kraftful.com/blog/engineering-roles",
           "author": null,
           "description": "Comments",
-          "link": "https://fragile-credences.github.io/scihub-proxy/",
-          "publishedOn": "2021-06-09T19:12:02.000Z",
-          "wordCount": 707,
-          "title": "How to circumvent Sci-Hub ISP block"
+          "link": "https://www.kraftful.com/blog/engineering-roles",
+          "publishedOn": "2021-06-10T21:00:42.000Z",
+          "wordCount": 434,
+          "title": "Kraftful (YC S19) hiring a founding engineer to build an IoT platform"
         },
         {
-          "id": "https://twitter.com/jasminericegirl/status/1402691047940100100",
+          "id": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
           "author": null,
           "description": "Comments",
-          "link": "https://twitter.com/jasminericegirl/status/1402691047940100100",
-          "publishedOn": "2021-06-09T18:58:29.000Z",
-          "wordCount": 196,
-          "title": "Apple is threatening to remove Fanhouse unless they give 30% of creator earning"
+          "link": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
+          "publishedOn": "2021-06-10T20:22:10.000Z",
+          "wordCount": 1459,
+          "title": "Using aligned word vectors for instant translations with Python and Rust"
         },
         {
-          "id": "https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar",
+          "id": "https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.hudsandguis.com/home/2021/theexpanse?ref=sidebar",
-          "publishedOn": "2021-06-09T18:41:14.000Z",
-          "wordCount": 2329,
-          "title": "The Expanse UI Design"
+          "link": "https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/",
+          "publishedOn": "2021-06-10T19:51:36.000Z",
+          "wordCount": 1264,
+          "title": "Raspberry Pi WiFi to ethernet bridge"
         },
         {
-          "id": "https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad",
+          "id": "https://flightaware.engineering/using-argo-to-train-predictive-models/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad",
-          "publishedOn": "2021-06-09T18:34:24.000Z",
-          "wordCount": 1355,
-          "title": "How Universal Control on macOS Monterey Works"
+          "link": "https://flightaware.engineering/using-argo-to-train-predictive-models/",
+          "publishedOn": "2021-06-10T19:16:16.000Z",
+          "wordCount": 3050,
+          "title": "Using Argo to Train Predictive Models at FlightAware"
         },
         {
-          "id": "https://www.chronicle.com/article/positive-psychology-goes-to-war",
+          "id": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.chronicle.com/article/positive-psychology-goes-to-war",
-          "publishedOn": "2021-06-09T17:22:24.000Z",
-          "wordCount": null,
-          "title": "Positive Psychology Goes to War"
-        },
-        {
-          "id": "http://rephial.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://rephial.org/",
-          "publishedOn": "2021-06-09T17:05:25.000Z",
-          "wordCount": 242,
-          "title": "Angband 4.2.2: A free, single-player roguelike dungeon exploration game"
-        },
-        {
-          "id": "https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426",
-          "author": null,
-          "description": "Comments",
-          "link": "https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426",
-          "publishedOn": "2021-06-09T17:04:46.000Z",
-          "wordCount": 195,
-          "title": "2021.06.08 Certificate Lifetime Incident"
-        },
-        {
-          "id": "https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/",
-          "publishedOn": "2021-06-09T16:34:38.000Z",
-          "wordCount": 799,
-          "title": "Sweden’s Northvolt raises $2.8B to supercharge EV battery output"
-        },
-        {
-          "id": "https://playit.gg/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://playit.gg/",
-          "publishedOn": "2021-06-09T16:31:01.000Z",
-          "wordCount": 38,
-          "title": "Show HN: A tool to self host game servers with a free static IP"
-        },
-        {
-          "id": "https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html",
-          "publishedOn": "2021-06-09T13:47:06.000Z",
-          "wordCount": 1219,
-          "title": "Resistor Noise Can Be Deafening, and Hard to Reduce (2007)"
-        },
-        {
-          "id": "https://alpaca-attack.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://alpaca-attack.com/",
-          "publishedOn": "2021-06-09T12:58:48.000Z",
-          "wordCount": 2760,
-          "title": "Alpaca Attack"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27447206",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27447206",
-          "publishedOn": "2021-06-09T12:40:08.000Z",
-          "wordCount": 15939,
-          "title": "Tell HN: SMS-based two-factor authentication is not secure"
-        },
-        {
-          "id": "https://www.explo.co/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.explo.co/",
-          "publishedOn": "2021-06-09T12:23:58.000Z",
-          "wordCount": 1083,
-          "title": "Launch HN: Explo (YC W20) – Customer-facing dashboards and reports"
-        },
-        {
-          "id": "https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts",
-          "publishedOn": "2021-06-09T12:01:25.000Z",
-          "wordCount": 2136,
-          "title": "Seven Years of Factorio Friday Facts (2020)"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/technology-57413224",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/technology-57413224",
-          "publishedOn": "2021-06-09T11:14:13.000Z",
-          "wordCount": 800,
-          "title": "One Fastly customer triggered internet meltdown"
-        },
-        {
-          "id": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
-          "publishedOn": "2021-06-09T10:38:44.000Z",
+          "link": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
+          "publishedOn": "2021-06-10T18:25:17.000Z",
           "wordCount": 1991,
-          "title": "Lua-RTOS: a real-time operating system for ESP32"
+          "title": "Privacy Analysis of FLoC"
         },
         {
-          "id": "http://www.dpoetry.com/fires/",
+          "id": "https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/",
           "author": null,
           "description": "Comments",
-          "link": "http://www.dpoetry.com/fires/",
-          "publishedOn": "2021-06-08T17:44:00.000Z",
-          "wordCount": 5,
-          "title": "The Bafflement Fires"
+          "link": "https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/",
+          "publishedOn": "2021-06-10T18:19:17.000Z",
+          "wordCount": 918,
+          "title": "Heart inflammation cases in young men higher than expected after mRNA vaccines"
         },
         {
-          "id": "https://sarvasvkulpati.com/blog/the-faceless-other",
+          "id": "https://keathley.io/blog/good-and-bad-elixir.html",
           "author": null,
           "description": "Comments",
-          "link": "https://sarvasvkulpati.com/blog/the-faceless-other",
-          "publishedOn": "2021-06-08T11:28:14.000Z",
-          "wordCount": 1399,
-          "title": "Don't create for an imaginary group of people"
+          "link": "https://keathley.io/blog/good-and-bad-elixir.html",
+          "publishedOn": "2021-06-10T18:18:52.000Z",
+          "wordCount": 1690,
+          "title": "Good and Bad Elixir"
         },
         {
-          "id": "https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/",
+          "id": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car",
           "author": null,
           "description": "Comments",
-          "link": "https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/",
-          "publishedOn": "2021-06-08T11:10:21.000Z",
-          "wordCount": 2311,
-          "title": "AMD 3D Stacks SRAM Bumplessly"
+          "link": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car",
+          "publishedOn": "2021-06-10T16:02:58.000Z",
+          "wordCount": 44,
+          "title": "Software is eating the car"
         },
         {
-          "id": "https://fhur.github.io/notes/articles/the-kelly-criterion/index.html",
+          "id": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
           "author": null,
           "description": "Comments",
-          "link": "https://fhur.github.io/notes/articles/the-kelly-criterion/index.html",
-          "publishedOn": "2021-06-08T07:37:36.000Z",
-          "wordCount": 1083,
-          "title": "Kelly Criterion – how to calculate optimal bet sizes"
+          "link": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
+          "publishedOn": "2021-06-10T16:02:44.000Z",
+          "wordCount": 1294,
+          "title": "Link shorteners: the long and short of why you shouldn’t use them"
         },
         {
-          "id": "https://www.aalto.fi/en/news/anyone-can-get-super-hearing",
+          "id": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
           "author": null,
           "description": "Comments",
-          "link": "https://www.aalto.fi/en/news/anyone-can-get-super-hearing",
-          "publishedOn": "2021-06-08T07:02:42.000Z",
-          "wordCount": 1215,
-          "title": "A technique that enables people to hear ultrasonic sources above 20kHz"
+          "link": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
+          "publishedOn": "2021-06-10T15:58:17.000Z",
+          "wordCount": null,
+          "title": "A robot to replace the need for farmers to go inside the grain bin"
         },
         {
-          "id": "https://www.theguardian.com/global-development/2021/jun/08/revert-to-type-how-goas-last-typewriter-repair-shop-defied-the-digital-age",
+          "id": "https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theguardian.com/global-development/2021/jun/08/revert-to-type-how-goas-last-typewriter-repair-shop-defied-the-digital-age",
-          "publishedOn": "2021-06-08T06:06:01.000Z",
-          "wordCount": 1268,
-          "title": "Goa’s last typewriter repair shop defied the digital age"
+          "link": "https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d",
+          "publishedOn": "2021-06-10T15:57:46.000Z",
+          "wordCount": 2980,
+          "title": "My startup journey"
+        },
+        {
+          "id": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
+          "publishedOn": "2021-06-10T15:38:49.000Z",
+          "wordCount": 3287,
+          "title": "The work-from-home future is destroying bosses' brains"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27461564",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27461564",
+          "publishedOn": "2021-06-10T15:04:10.000Z",
+          "wordCount": 2640,
+          "title": "Launch HN: Okay (YC W20) – Analytics for engineering teams"
+        },
+        {
+          "id": "https://tryapl.org",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tryapl.org",
+          "publishedOn": "2021-06-10T14:02:39.000Z",
+          "wordCount": 1434,
+          "title": "Try APL"
+        },
+        {
+          "id": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
+          "publishedOn": "2021-06-10T12:45:23.000Z",
+          "wordCount": 1989,
+          "title": "Rqlite 6.0: the evolution of a distributed database design"
+        },
+        {
+          "id": "https://stripe.com/tax",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stripe.com/tax",
+          "publishedOn": "2021-06-10T12:09:49.000Z",
+          "wordCount": 2402,
+          "title": "Stripe Tax"
+        },
+        {
+          "id": "https://iism.org/article/developers-can-t-fix-bad-management-57",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iism.org/article/developers-can-t-fix-bad-management-57",
+          "publishedOn": "2021-06-10T09:39:24.000Z",
+          "wordCount": 3,
+          "title": "Developers can't fix bad management (2020)"
+        },
+        {
+          "id": "https://developers.soundcloud.com/blog/did-i-break-you",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.soundcloud.com/blog/did-i-break-you",
+          "publishedOn": "2021-06-10T06:37:51.000Z",
+          "wordCount": 1772,
+          "title": "Did I break you? Reverse dependency verification"
+        },
+        {
+          "id": "https://www.historytoday.com/reviews/all-sea",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/reviews/all-sea",
+          "publishedOn": "2021-06-10T00:34:05.000Z",
+          "wordCount": 882,
+          "title": "All at Sea"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
+          "publishedOn": "2021-06-10T00:24:49.000Z",
+          "wordCount": 756,
+          "title": "The Amateur Photographers of Midcentury São Paulo"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique",
+          "publishedOn": "2021-06-09T22:22:23.000Z",
+          "wordCount": 2194,
+          "title": "The Prison Cell of Ludger Sylbaris"
+        },
+        {
+          "id": "https://www.platformer.news/p/will-apple-mail-end-the-newsletter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.platformer.news/p/will-apple-mail-end-the-newsletter",
+          "publishedOn": "2021-06-09T14:25:53.000Z",
+          "wordCount": 2740,
+          "title": "Will Apple Mail threaten the newsletter boom?"
         }
       ]
     }
