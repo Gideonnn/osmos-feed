@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235",
+          "id": "https://stripe.com/terminal",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235",
-          "publishedOn": "2021-06-16T00:26:45.000Z",
-          "wordCount": 5586,
-          "title": "Airbnb is spending millions of dollars to make nightmares go away"
+          "link": "https://stripe.com/terminal",
+          "publishedOn": "2021-06-17T00:06:11.000Z",
+          "wordCount": 1505,
+          "title": "Stripe Terminal"
         },
         {
-          "id": "https://filesystem-spec.readthedocs.io/en/latest/index.html#",
+          "id": "https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002",
           "author": null,
           "description": "Comments",
-          "link": "https://filesystem-spec.readthedocs.io/en/latest/index.html#",
-          "publishedOn": "2021-06-16T00:24:38.000Z",
-          "wordCount": 509,
-          "title": "Fsspec: Filesystem Interfaces for Python"
+          "link": "https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002",
+          "publishedOn": "2021-06-16T23:42:29.000Z",
+          "wordCount": 434,
+          "title": "National Parks Are Overcrowded and Closing Their Gates"
         },
         {
-          "id": "https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday",
+          "id": "https://francoisbest.com/posts/2021/hashvatars",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday",
-          "publishedOn": "2021-06-15T22:30:49.000Z",
-          "wordCount": 676,
-          "title": "Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday"
+          "link": "https://francoisbest.com/posts/2021/hashvatars",
+          "publishedOn": "2021-06-16T22:50:26.000Z",
+          "wordCount": 1758,
+          "title": "Representing SHA-256 Hashes as Avatars"
         },
         {
-          "id": "https://github.com/joho/7XX-rfc",
+          "id": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/joho/7XX-rfc",
-          "publishedOn": "2021-06-15T22:25:25.000Z",
-          "wordCount": 1600,
-          "title": "RFC for 700 HTTP Status Codes"
+          "link": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
+          "publishedOn": "2021-06-16T22:05:53.000Z",
+          "wordCount": 1014,
+          "title": "How to Boost Self Esteem and Stop Procrastinating"
         },
         {
-          "id": "https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc",
+          "id": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc",
-          "publishedOn": "2021-06-15T21:36:08.000Z",
-          "wordCount": 1017,
-          "title": "Lina Khan, Big Tech Critic, Will Lead the FTC"
+          "link": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
+          "publishedOn": "2021-06-16T21:36:59.000Z",
+          "wordCount": 1417,
+          "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says"
         },
         {
-          "id": "https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5",
+          "id": "https://programming.guide/worlds-most-copied-so-snippet.html",
           "author": null,
           "description": "Comments",
-          "link": "https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5",
-          "publishedOn": "2021-06-15T21:00:24.000Z",
-          "wordCount": 325,
-          "title": "Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA"
+          "link": "https://programming.guide/worlds-most-copied-so-snippet.html",
+          "publishedOn": "2021-06-16T21:27:44.000Z",
+          "wordCount": 2487,
+          "title": "The most copied StackOverflow snippet of all time is flawed (2019)"
         },
         {
-          "id": "http://cintrest.com/influence/",
+          "id": "https://www.starqueue.org/",
           "author": null,
           "description": "Comments",
-          "link": "http://cintrest.com/influence/",
-          "publishedOn": "2021-06-15T20:12:59.000Z",
-          "wordCount": 133,
-          "title": "Show HN: Influence, a Go-inspired 1-minute board game"
+          "link": "https://www.starqueue.org/",
+          "publishedOn": "2021-06-16T21:19:50.000Z",
+          "wordCount": 101,
+          "title": "Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end"
         },
         {
-          "id": "https://www.gq.com/story/johnny-knoxvilles-last-rodeo/",
+          "id": "https://www.workatastartup.com/jobs/29595",
           "author": null,
           "description": "Comments",
-          "link": "https://www.gq.com/story/johnny-knoxvilles-last-rodeo/",
-          "publishedOn": "2021-06-15T20:07:46.000Z",
-          "wordCount": 5318,
-          "title": "Johnny Knoxville’s Last Rodeo"
+          "link": "https://www.workatastartup.com/jobs/29595",
+          "publishedOn": "2021-06-16T21:00:52.000Z",
+          "wordCount": 609,
+          "title": "Cortex (YC W20) Is Hiring Founding Engineers"
         },
         {
-          "id": "https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/",
+          "id": "https://github.com/turbot/steampipe-mod-aws-compliance",
           "author": null,
           "description": "Comments",
-          "link": "https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/",
-          "publishedOn": "2021-06-15T20:06:38.000Z",
-          "wordCount": 846,
-          "title": "A pencil sharpener that creates a never-ending pencil (2015)"
+          "link": "https://github.com/turbot/steampipe-mod-aws-compliance",
+          "publishedOn": "2021-06-16T20:54:33.000Z",
+          "wordCount": 916,
+          "title": "Open source HIPAA compliance benchmark for AWS"
         },
         {
-          "id": "https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories",
+          "id": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories",
-          "publishedOn": "2021-06-15T19:43:13.000Z",
-          "wordCount": 802,
-          "title": "We’re no longer naming suspects in minor crime stories"
+          "link": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
+          "publishedOn": "2021-06-16T20:49:22.000Z",
+          "wordCount": 1820,
+          "title": "How to track users for analytics in a privacy-first, cookie-less future"
         },
         {
-          "id": "https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/",
+          "id": "https://wayfinder.nfb.ca/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/",
-          "publishedOn": "2021-06-15T19:05:45.000Z",
-          "wordCount": 4030,
-          "title": "Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)"
+          "link": "https://wayfinder.nfb.ca/",
+          "publishedOn": "2021-06-16T18:51:05.000Z",
+          "wordCount": 8,
+          "title": "Wayfinder – a relaxing 'art game' in the browser"
         },
         {
-          "id": "https://henrikwarne.com/2021/06/15/on-comments-in-code/",
+          "id": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
           "author": null,
           "description": "Comments",
-          "link": "https://henrikwarne.com/2021/06/15/on-comments-in-code/",
-          "publishedOn": "2021-06-15T18:22:57.000Z",
-          "wordCount": 1741,
-          "title": "On Comments in Code"
+          "link": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
+          "publishedOn": "2021-06-16T18:39:07.000Z",
+          "wordCount": 808,
+          "title": "Zero-downtime schema migrations in Postgres using views"
         },
         {
-          "id": "https://support.google.com/maps/answer/1725632#how_opt_out&zippy=",
+          "id": "https://www.persuasion.community/p/kids-need-freedom-too",
           "author": null,
           "description": "Comments",
-          "link": "https://support.google.com/maps/answer/1725632#how_opt_out&zippy=",
-          "publishedOn": "2021-06-15T16:14:21.000Z",
-          "wordCount": 559,
-          "title": "How do I opt my access point out of Google Location services?"
+          "link": "https://www.persuasion.community/p/kids-need-freedom-too",
+          "publishedOn": "2021-06-16T16:27:48.000Z",
+          "wordCount": 1428,
+          "title": "Kids need freedom, too"
         },
         {
-          "id": "http://shadyurl.com/create.php",
+          "id": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
           "author": null,
           "description": "Comments",
-          "link": "http://shadyurl.com/create.php",
-          "publishedOn": "2021-06-15T16:12:10.000Z",
-          "wordCount": 86,
-          "title": "Don't just shorten your URL, make it suspicious and frightening (2010)"
+          "link": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
+          "publishedOn": "2021-06-16T16:05:21.000Z",
+          "wordCount": 4717,
+          "title": "Execute Docker Containers as QEMU MicroVMs"
         },
         {
-          "id": "https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us",
+          "id": "https://eprint.iacr.org/2021/819",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us",
-          "publishedOn": "2021-06-15T15:35:35.000Z",
-          "wordCount": 1456,
-          "title": "NIH study offers new evidence of early SARS-CoV-2 infections in U.S."
+          "link": "https://eprint.iacr.org/2021/819",
+          "publishedOn": "2021-06-16T15:39:58.000Z",
+          "wordCount": 285,
+          "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness"
         },
         {
-          "id": "https://utopia.app/",
+          "id": "https://andysalerno.com/posts/weird-emojis/",
           "author": null,
           "description": "Comments",
-          "link": "https://utopia.app/",
-          "publishedOn": "2021-06-15T14:42:57.000Z",
-          "wordCount": 989,
-          "title": "Utopia, a visual design tool for React, with code as the source of truth"
+          "link": "https://andysalerno.com/posts/weird-emojis/",
+          "publishedOn": "2021-06-16T15:35:18.000Z",
+          "wordCount": 1469,
+          "title": "Bear plus snowflake equals polar bear"
         },
         {
-          "id": "https://emacs.love/tales/emacs-love-tale-by-sdp.html",
+          "id": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
           "author": null,
           "description": "Comments",
-          "link": "https://emacs.love/tales/emacs-love-tale-by-sdp.html",
-          "publishedOn": "2021-06-15T14:33:21.000Z",
-          "wordCount": 746,
-          "title": "Emacs Love Tale by sdp"
+          "link": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
+          "publishedOn": "2021-06-16T14:47:50.000Z",
+          "wordCount": 7560,
+          "title": "If you think psychological science is bad, imagine how bad it was in 1999"
         },
         {
-          "id": "https://250bpm.com/blog:50/",
+          "id": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
           "author": null,
           "description": "Comments",
-          "link": "https://250bpm.com/blog:50/",
-          "publishedOn": "2021-06-15T14:00:49.000Z",
-          "wordCount": 753,
-          "title": "Finish Your Stuff (2015)"
+          "link": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
+          "publishedOn": "2021-06-16T14:41:55.000Z",
+          "wordCount": 3556,
+          "title": "How does one get hired by a top cybercrime gang?"
         },
         {
-          "id": "https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9",
+          "id": "https://news.ycombinator.com/item?id=27528202",
           "author": null,
           "description": "Comments",
-          "link": "https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9",
-          "publishedOn": "2021-06-15T13:58:32.000Z",
-          "wordCount": 62,
-          "title": "Critical entities targeted in suspected Chinese cyber spying"
+          "link": "https://news.ycombinator.com/item?id=27528202",
+          "publishedOn": "2021-06-16T13:19:41.000Z",
+          "wordCount": 3358,
+          "title": "Launch HN: Svix (YC W21) – Webhooks as a Service"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27515468",
+          "id": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27515468",
-          "publishedOn": "2021-06-15T13:46:52.000Z",
-          "wordCount": 2816,
-          "title": "Launch HN: Axolo (YC W21) – Faster pull requests and code reviews"
+          "link": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
+          "publishedOn": "2021-06-16T12:05:13.000Z",
+          "wordCount": 488,
+          "title": "Apple's iCloud+ “VPN”"
         },
         {
-          "id": "https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/",
+          "id": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
           "author": null,
           "description": "Comments",
-          "link": "https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/",
-          "publishedOn": "2021-06-15T13:31:50.000Z",
-          "wordCount": 1776,
-          "title": "Amazon is blocking Google’s FLoC"
+          "link": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
+          "publishedOn": "2021-06-16T11:44:00.000Z",
+          "wordCount": 3234,
+          "title": "DuckDuckGo’s quest to prove online privacy is possible"
         },
         {
-          "id": "https://future.a16z.com/well-behaved-bubbles-history-innovation/",
+          "id": "https://github.com/kermitt2/grobid",
           "author": null,
           "description": "Comments",
-          "link": "https://future.a16z.com/well-behaved-bubbles-history-innovation/",
-          "publishedOn": "2021-06-15T13:27:11.000Z",
-          "wordCount": 2629,
-          "title": "Well-behaved bubbles often make history"
+          "link": "https://github.com/kermitt2/grobid",
+          "publishedOn": "2021-06-16T10:52:57.000Z",
+          "wordCount": 1773,
+          "title": "Grobid: Machine learning for extracting information from scholarly documents"
         },
         {
-          "id": "https://future.com/what-we-learned-doing-fast-grants/",
+          "id": "https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b",
           "author": null,
           "description": "Comments",
-          "link": "https://future.com/what-we-learned-doing-fast-grants/",
-          "publishedOn": "2021-06-15T13:10:01.000Z",
-          "wordCount": 4575,
-          "title": "What we learned doing Fast Grants"
-        },
-        {
-          "id": "https://berthub.eu/articles/posts/europes-software-problem/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://berthub.eu/articles/posts/europes-software-problem/",
-          "publishedOn": "2021-06-15T10:47:16.000Z",
-          "wordCount": 1421,
-          "title": "Europe's Software Problem"
-        },
-        {
-          "id": "https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air",
-          "publishedOn": "2021-06-15T10:12:12.000Z",
-          "wordCount": 1867,
-          "title": "The rise of E Ink Tablets and Note Takers: reMarkable 2 vs Onyx Boox Note Air"
-        },
-        {
-          "id": "https://aeon.co/essays/how-physics-at-the-roots-of-reality-point-to-a-grand-unified-theory",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aeon.co/essays/how-physics-at-the-roots-of-reality-point-to-a-grand-unified-theory",
-          "publishedOn": "2021-06-15T05:09:03.000Z",
-          "wordCount": 4559,
-          "title": "The Unified Universe"
-        },
-        {
-          "id": "http://cyber.dabamos.de/88x31/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://cyber.dabamos.de/88x31/",
-          "publishedOn": "2021-06-14T08:57:45.000Z",
-          "wordCount": 76,
-          "title": "The 88x31 GIF Collection"
-        },
-        {
-          "id": "https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c",
-          "publishedOn": "2021-06-14T07:50:54.000Z",
-          "wordCount": 2654,
-          "title": "Building a WebAuthn Click Farm"
-        },
-        {
-          "id": "https://lareviewofbooks.org/article/how-an-indian-religious-minority-shaped-modern-iran/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lareviewofbooks.org/article/how-an-indian-religious-minority-shaped-modern-iran/",
-          "publishedOn": "2021-06-14T07:38:20.000Z",
-          "wordCount": 2715,
-          "title": "How Indian Zoroastrians helped shape modern Iran"
-        },
-        {
-          "id": "https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca",
-          "publishedOn": "2021-06-14T04:34:19.000Z",
+          "link": "https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b",
+          "publishedOn": "2021-06-16T07:55:10.000Z",
           "wordCount": 1116,
-          "title": "Advanced console.log Tips and Tricks (2020)"
+          "title": "Manufacturing next-generation electronics like they are T-Shirts"
+        },
+        {
+          "id": "https://github.com/bee-san/pyWhat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bee-san/pyWhat",
+          "publishedOn": "2021-06-16T07:54:07.000Z",
+          "wordCount": 1061,
+          "title": "PyWhat: Identify Anything"
+        },
+        {
+          "id": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
+          "publishedOn": "2021-06-16T04:52:49.000Z",
+          "wordCount": 3934,
+          "title": "A Beginner’s Guide to Miles Davis"
+        },
+        {
+          "id": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
+          "publishedOn": "2021-06-16T02:08:34.000Z",
+          "wordCount": 1371,
+          "title": "My EC2 Wishlist"
+        },
+        {
+          "id": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
+          "publishedOn": "2021-06-15T16:38:54.000Z",
+          "wordCount": 7358,
+          "title": "Saving books by keeping them expensive (2011)"
+        },
+        {
+          "id": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
+          "publishedOn": "2021-06-15T14:28:34.000Z",
+          "wordCount": 1544,
+          "title": "Asymmetries in Fundraising"
+        },
+        {
+          "id": "https://github.com/jamii/dida",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jamii/dida",
+          "publishedOn": "2021-06-15T07:07:37.000Z",
+          "wordCount": 1424,
+          "title": "Differential Dataflow for Mere Mortals"
+        },
+        {
+          "id": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
+          "publishedOn": "2021-06-14T18:19:39.000Z",
+          "wordCount": 5599,
+          "title": "When pop history bombs: a response to Malcolm Gladwell"
         }
       ]
     }
