@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://stripe.com/terminal",
+          "id": "https://twitter.com/internetofshit/status/1405682888545349635",
           "author": null,
           "description": "Comments",
-          "link": "https://stripe.com/terminal",
-          "publishedOn": "2021-06-17T00:06:11.000Z",
-          "wordCount": 1505,
-          "title": "Stripe Terminal"
+          "link": "https://twitter.com/internetofshit/status/1405682888545349635",
+          "publishedOn": "2021-06-18T00:30:55.000Z",
+          "wordCount": 196,
+          "title": "HBO Max accidentally sent a Integration Test email to all subscribers"
         },
         {
-          "id": "https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002",
+          "id": "https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002",
-          "publishedOn": "2021-06-16T23:42:29.000Z",
-          "wordCount": 434,
-          "title": "National Parks Are Overcrowded and Closing Their Gates"
+          "link": "https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department",
+          "publishedOn": "2021-06-17T23:30:49.000Z",
+          "wordCount": 4330,
+          "title": "Ring provided 100 LAPD officers with free devices to influence adoption"
         },
         {
-          "id": "https://francoisbest.com/posts/2021/hashvatars",
+          "id": "https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/",
           "author": null,
           "description": "Comments",
-          "link": "https://francoisbest.com/posts/2021/hashvatars",
-          "publishedOn": "2021-06-16T22:50:26.000Z",
-          "wordCount": 1758,
-          "title": "Representing SHA-256 Hashes as Avatars"
+          "link": "https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/",
+          "publishedOn": "2021-06-17T22:49:56.000Z",
+          "wordCount": 1341,
+          "title": "The Document Culture of Amazon"
         },
         {
-          "id": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
+          "id": "http://biochemical-pathways.com",
           "author": null,
           "description": "Comments",
-          "link": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
-          "publishedOn": "2021-06-16T22:05:53.000Z",
-          "wordCount": 1014,
-          "title": "How to Boost Self Esteem and Stop Procrastinating"
+          "link": "http://biochemical-pathways.com",
+          "publishedOn": "2021-06-17T21:58:48.000Z",
+          "wordCount": 59,
+          "title": "Biochemical Pathway Maps"
         },
         {
-          "id": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
+          "id": "https://review.firstround.com/the-25-micro-habits-of-high-impact-managers",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
-          "publishedOn": "2021-06-16T21:36:59.000Z",
-          "wordCount": 1417,
-          "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says"
+          "link": "https://review.firstround.com/the-25-micro-habits-of-high-impact-managers",
+          "publishedOn": "2021-06-17T21:49:44.000Z",
+          "wordCount": 4853,
+          "title": "Micro-Habits of Effective Managers"
         },
         {
-          "id": "https://programming.guide/worlds-most-copied-so-snippet.html",
+          "id": "https://felleisen.org/matthias/Thoughts/Apology.html",
           "author": null,
           "description": "Comments",
-          "link": "https://programming.guide/worlds-most-copied-so-snippet.html",
-          "publishedOn": "2021-06-16T21:27:44.000Z",
-          "wordCount": 2487,
-          "title": "The most copied StackOverflow snippet of all time is flawed (2019)"
+          "link": "https://felleisen.org/matthias/Thoughts/Apology.html",
+          "publishedOn": "2021-06-17T21:45:38.000Z",
+          "wordCount": 308,
+          "title": "Apology"
         },
         {
-          "id": "https://www.starqueue.org/",
+          "id": "https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer",
           "author": null,
           "description": "Comments",
-          "link": "https://www.starqueue.org/",
-          "publishedOn": "2021-06-16T21:19:50.000Z",
-          "wordCount": 101,
-          "title": "Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end"
+          "link": "https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer",
+          "publishedOn": "2021-06-17T21:00:38.000Z",
+          "wordCount": 721,
+          "title": "Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)"
         },
         {
-          "id": "https://www.workatastartup.com/jobs/29595",
+          "id": "https://startupstrats.substack.com/p/dont-kill-yourself",
           "author": null,
           "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/29595",
-          "publishedOn": "2021-06-16T21:00:52.000Z",
-          "wordCount": 609,
-          "title": "Cortex (YC W20) Is Hiring Founding Engineers"
+          "link": "https://startupstrats.substack.com/p/dont-kill-yourself",
+          "publishedOn": "2021-06-17T19:27:16.000Z",
+          "wordCount": 972,
+          "title": "On Depression and Founders"
         },
         {
-          "id": "https://github.com/turbot/steampipe-mod-aws-compliance",
+          "id": "https://github.com/organicmaps/organicmaps",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/turbot/steampipe-mod-aws-compliance",
-          "publishedOn": "2021-06-16T20:54:33.000Z",
-          "wordCount": 916,
-          "title": "Open source HIPAA compliance benchmark for AWS"
+          "link": "https://github.com/organicmaps/organicmaps",
+          "publishedOn": "2021-06-17T18:44:55.000Z",
+          "wordCount": 1501,
+          "title": "Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers"
         },
         {
-          "id": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
+          "id": "https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
-          "publishedOn": "2021-06-16T20:49:22.000Z",
-          "wordCount": 1820,
-          "title": "How to track users for analytics in a privacy-first, cookie-less future"
+          "link": "https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/",
+          "publishedOn": "2021-06-17T18:03:19.000Z",
+          "wordCount": 3363,
+          "title": "Six ways to make async Rust easier"
         },
         {
-          "id": "https://wayfinder.nfb.ca/",
+          "id": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
           "author": null,
           "description": "Comments",
-          "link": "https://wayfinder.nfb.ca/",
-          "publishedOn": "2021-06-16T18:51:05.000Z",
-          "wordCount": 8,
-          "title": "Wayfinder – a relaxing 'art game' in the browser"
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-17T17:47:29.000Z",
+          "wordCount": 869,
+          "title": "Useful and useless code comments"
         },
         {
-          "id": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
+          "id": "http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/",
           "author": null,
           "description": "Comments",
-          "link": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
-          "publishedOn": "2021-06-16T18:39:07.000Z",
-          "wordCount": 808,
-          "title": "Zero-downtime schema migrations in Postgres using views"
+          "link": "http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/",
+          "publishedOn": "2021-06-17T17:37:54.000Z",
+          "wordCount": 1302,
+          "title": "The Hair Dryer Incident (2014)"
         },
         {
-          "id": "https://www.persuasion.community/p/kids-need-freedom-too",
+          "id": "https://triplebyte.com/blog/rethinking-triplebyte",
           "author": null,
           "description": "Comments",
-          "link": "https://www.persuasion.community/p/kids-need-freedom-too",
-          "publishedOn": "2021-06-16T16:27:48.000Z",
-          "wordCount": 1428,
-          "title": "Kids need freedom, too"
+          "link": "https://triplebyte.com/blog/rethinking-triplebyte",
+          "publishedOn": "2021-06-17T16:49:54.000Z",
+          "wordCount": 2472,
+          "title": "Rethinking Triplebyte"
         },
         {
-          "id": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
+          "id": "https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/",
           "author": null,
           "description": "Comments",
-          "link": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
-          "publishedOn": "2021-06-16T16:05:21.000Z",
-          "wordCount": 4717,
-          "title": "Execute Docker Containers as QEMU MicroVMs"
+          "link": "https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/",
+          "publishedOn": "2021-06-17T16:44:14.000Z",
+          "wordCount": 718,
+          "title": "Amazon Appstore will reduce its developer revenue cut"
         },
         {
-          "id": "https://eprint.iacr.org/2021/819",
+          "id": "https://gentlydownthe.stream/",
           "author": null,
           "description": "Comments",
-          "link": "https://eprint.iacr.org/2021/819",
-          "publishedOn": "2021-06-16T15:39:58.000Z",
-          "wordCount": 285,
-          "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness"
+          "link": "https://gentlydownthe.stream/",
+          "publishedOn": "2021-06-17T16:19:01.000Z",
+          "wordCount": 94,
+          "title": "I wrote a children's book / illustrated guide to Apache Kafka"
         },
         {
-          "id": "https://andysalerno.com/posts/weird-emojis/",
+          "id": "https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql",
           "author": null,
           "description": "Comments",
-          "link": "https://andysalerno.com/posts/weird-emojis/",
-          "publishedOn": "2021-06-16T15:35:18.000Z",
-          "wordCount": 1469,
-          "title": "Bear plus snowflake equals polar bear"
+          "link": "https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql",
+          "publishedOn": "2021-06-17T15:20:17.000Z",
+          "wordCount": 2334,
+          "title": "Exploring performance differences between Amazon Aurora and vanilla MySQL"
         },
         {
-          "id": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
+          "id": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
           "author": null,
           "description": "Comments",
-          "link": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
-          "publishedOn": "2021-06-16T14:47:50.000Z",
-          "wordCount": 7560,
-          "title": "If you think psychological science is bad, imagine how bad it was in 1999"
+          "link": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
+          "publishedOn": "2021-06-17T15:14:42.000Z",
+          "wordCount": 1339,
+          "title": "How Notion pulled itself back from the brink of failure (2019)"
         },
         {
-          "id": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
+          "id": "https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/",
           "author": null,
           "description": "Comments",
-          "link": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
-          "publishedOn": "2021-06-16T14:41:55.000Z",
-          "wordCount": 3556,
-          "title": "How does one get hired by a top cybercrime gang?"
+          "link": "https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/",
+          "publishedOn": "2021-06-17T14:56:43.000Z",
+          "wordCount": 1164,
+          "title": "Io_uring is not an event system"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27528202",
+          "id": "https://www.bbc.co.uk/news/science-environment-57512229",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27528202",
-          "publishedOn": "2021-06-16T13:19:41.000Z",
-          "wordCount": 3358,
-          "title": "Launch HN: Svix (YC W21) – Webhooks as a Service"
+          "link": "https://www.bbc.co.uk/news/science-environment-57512229",
+          "publishedOn": "2021-06-17T14:33:21.000Z",
+          "wordCount": 1291,
+          "title": "General Fusion to build demonstration plant in UK"
         },
         {
-          "id": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
+          "id": "https://github.com/cariboulabs/cariboulite",
           "author": null,
           "description": "Comments",
-          "link": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
-          "publishedOn": "2021-06-16T12:05:13.000Z",
-          "wordCount": 488,
-          "title": "Apple's iCloud+ “VPN”"
+          "link": "https://github.com/cariboulabs/cariboulite",
+          "publishedOn": "2021-06-17T14:19:00.000Z",
+          "wordCount": 1259,
+          "title": "CaribouLite: Turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR"
         },
         {
-          "id": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
+          "id": "https://irony-97882.medium.com/the-melting-of-iron-89469b01e083",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
-          "publishedOn": "2021-06-16T11:44:00.000Z",
-          "wordCount": 3234,
-          "title": "DuckDuckGo’s quest to prove online privacy is possible"
+          "link": "https://irony-97882.medium.com/the-melting-of-iron-89469b01e083",
+          "publishedOn": "2021-06-17T13:31:40.000Z",
+          "wordCount": 1732,
+          "title": "The collapse of the IRON stable coin"
         },
         {
-          "id": "https://github.com/kermitt2/grobid",
+          "id": "https://restofworld.org/2021/argentina-netbooks-music/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/kermitt2/grobid",
-          "publishedOn": "2021-06-16T10:52:57.000Z",
-          "wordCount": 1773,
-          "title": "Grobid: Machine learning for extracting information from scholarly documents"
+          "link": "https://restofworld.org/2021/argentina-netbooks-music/",
+          "publishedOn": "2021-06-17T13:14:24.000Z",
+          "wordCount": 2159,
+          "title": "In Argentina, cheap government-issued netbooks sparked a musical Renaissance"
         },
         {
-          "id": "https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b",
+          "id": "https://startyourownisp.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b",
-          "publishedOn": "2021-06-16T07:55:10.000Z",
-          "wordCount": 1116,
-          "title": "Manufacturing next-generation electronics like they are T-Shirts"
+          "link": "https://startyourownisp.com/",
+          "publishedOn": "2021-06-17T13:07:46.000Z",
+          "wordCount": 633,
+          "title": "Start Your Own ISP"
         },
         {
-          "id": "https://github.com/bee-san/pyWhat",
+          "id": "https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/bee-san/pyWhat",
-          "publishedOn": "2021-06-16T07:54:07.000Z",
-          "wordCount": 1061,
-          "title": "PyWhat: Identify Anything"
+          "link": "https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/",
+          "publishedOn": "2021-06-17T11:27:39.000Z",
+          "wordCount": null,
+          "title": "Syria’s exam-related Internet shutdowns"
         },
         {
-          "id": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
+          "id": "https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html",
           "author": null,
           "description": "Comments",
-          "link": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
-          "publishedOn": "2021-06-16T04:52:49.000Z",
-          "wordCount": 3934,
-          "title": "A Beginner’s Guide to Miles Davis"
+          "link": "https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html",
+          "publishedOn": "2021-06-17T07:20:34.000Z",
+          "wordCount": 3460,
+          "title": "1931: Kurt Gödel shows limits of math, logic, computing, AI"
         },
         {
-          "id": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
+          "id": "https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/",
           "author": null,
           "description": "Comments",
-          "link": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
-          "publishedOn": "2021-06-16T02:08:34.000Z",
-          "wordCount": 1371,
-          "title": "My EC2 Wishlist"
+          "link": "https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/",
+          "publishedOn": "2021-06-16T21:08:12.000Z",
+          "wordCount": 1366,
+          "title": "Remembering the time it rained 6k pounds of marijuana on Yosemite (2019)"
         },
         {
-          "id": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
+          "id": "https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/",
           "author": null,
           "description": "Comments",
-          "link": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
-          "publishedOn": "2021-06-15T16:38:54.000Z",
-          "wordCount": 7358,
-          "title": "Saving books by keeping them expensive (2011)"
+          "link": "https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/",
+          "publishedOn": "2021-06-16T11:54:45.000Z",
+          "wordCount": 1256,
+          "title": "I wish I could write this well"
         },
         {
-          "id": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
+          "id": "http://sustrik.github.io/ribosome/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
-          "publishedOn": "2021-06-15T14:28:34.000Z",
-          "wordCount": 1544,
-          "title": "Asymmetries in Fundraising"
+          "link": "http://sustrik.github.io/ribosome/",
+          "publishedOn": "2021-06-16T11:42:36.000Z",
+          "wordCount": 222,
+          "title": "Ribosome – A simple generic code generation tool"
         },
         {
-          "id": "https://github.com/jamii/dida",
+          "id": "https://github.com/willmcgugan/textual",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/jamii/dida",
-          "publishedOn": "2021-06-15T07:07:37.000Z",
-          "wordCount": 1424,
-          "title": "Differential Dataflow for Mere Mortals"
+          "link": "https://github.com/willmcgugan/textual",
+          "publishedOn": "2021-06-16T07:57:15.000Z",
+          "wordCount": 687,
+          "title": "Textual: a Python text user interface with Rich as the renderer"
         },
         {
-          "id": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
+          "id": "https://lefsetz.com/wordpress/2021/06/11/spatial-audio/",
           "author": null,
           "description": "Comments",
-          "link": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
-          "publishedOn": "2021-06-14T18:19:39.000Z",
-          "wordCount": 5599,
-          "title": "When pop history bombs: a response to Malcolm Gladwell"
+          "link": "https://lefsetz.com/wordpress/2021/06/11/spatial-audio/",
+          "publishedOn": "2021-06-15T22:14:55.000Z",
+          "wordCount": 1343,
+          "title": "Spatial Audio"
         }
       ]
     }

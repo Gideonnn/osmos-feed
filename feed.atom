@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T00:53:15.474Z</id>
+    <id>urn:2021-06-18T00:55:43.146Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:53:15.474Z</updated>
+    <updated>2021-06-18T00:55:43.146Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Stripe Terminal]]></title>
-        <id>https://stripe.com/terminal</id>
-        <link href="https://stripe.com/terminal"/>
-        <updated>2021-06-17T00:06:11.000Z</updated>
+        <title type="html"><![CDATA[HBO Max accidentally sent a Integration Test email to all subscribers]]></title>
+        <id>https://twitter.com/internetofshit/status/1405682888545349635</id>
+        <link href="https://twitter.com/internetofshit/status/1405682888545349635"/>
+        <updated>2021-06-18T00:30:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National Parks Are Overcrowded and Closing Their Gates]]></title>
-        <id>https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002</id>
-        <link href="https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002"/>
-        <updated>2021-06-16T23:42:29.000Z</updated>
+        <title type="html"><![CDATA[Ring provided 100 LAPD officers with free devices to influence adoption]]></title>
+        <id>https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department</id>
+        <link href="https://www.latimes.com/business/technology/story/2021-06-17/ring-influencer-marketing-los-angeles-police-department"/>
+        <updated>2021-06-17T23:30:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Representing SHA-256 Hashes as Avatars]]></title>
-        <id>https://francoisbest.com/posts/2021/hashvatars</id>
-        <link href="https://francoisbest.com/posts/2021/hashvatars"/>
-        <updated>2021-06-16T22:50:26.000Z</updated>
+        <title type="html"><![CDATA[The Document Culture of Amazon]]></title>
+        <id>https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/</id>
+        <link href="https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/"/>
+        <updated>2021-06-17T22:49:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Boost Self Esteem and Stop Procrastinating]]></title>
-        <id>https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination</id>
-        <link href="https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination"/>
-        <updated>2021-06-16T22:05:53.000Z</updated>
+        <title type="html"><![CDATA[Biochemical Pathway Maps]]></title>
+        <id>http://biochemical-pathways.com</id>
+        <link href="http://biochemical-pathways.com"/>
+        <updated>2021-06-17T21:58:48.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4-day workweek boosted workers' productivity by 40%, Microsoft Japan says]]></title>
-        <id>https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40</id>
-        <link href="https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40"/>
-        <updated>2021-06-16T21:36:59.000Z</updated>
+        <title type="html"><![CDATA[Micro-Habits of Effective Managers]]></title>
+        <id>https://review.firstround.com/the-25-micro-habits-of-high-impact-managers</id>
+        <link href="https://review.firstround.com/the-25-micro-habits-of-high-impact-managers"/>
+        <updated>2021-06-17T21:49:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The most copied StackOverflow snippet of all time is flawed (2019)]]></title>
-        <id>https://programming.guide/worlds-most-copied-so-snippet.html</id>
-        <link href="https://programming.guide/worlds-most-copied-so-snippet.html"/>
-        <updated>2021-06-16T21:27:44.000Z</updated>
+        <title type="html"><![CDATA[Apology]]></title>
+        <id>https://felleisen.org/matthias/Thoughts/Apology.html</id>
+        <link href="https://felleisen.org/matthias/Thoughts/Apology.html"/>
+        <updated>2021-06-17T21:45:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end]]></title>
-        <id>https://www.starqueue.org/</id>
-        <link href="https://www.starqueue.org/"/>
-        <updated>2021-06-16T21:19:50.000Z</updated>
+        <title type="html"><![CDATA[Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)]]></title>
+        <id>https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer</id>
+        <link href="https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer"/>
+        <updated>2021-06-17T21:00:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
-        <id>https://www.workatastartup.com/jobs/29595</id>
-        <link href="https://www.workatastartup.com/jobs/29595"/>
-        <updated>2021-06-16T21:00:52.000Z</updated>
+        <title type="html"><![CDATA[On Depression and Founders]]></title>
+        <id>https://startupstrats.substack.com/p/dont-kill-yourself</id>
+        <link href="https://startupstrats.substack.com/p/dont-kill-yourself"/>
+        <updated>2021-06-17T19:27:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open source HIPAA compliance benchmark for AWS]]></title>
-        <id>https://github.com/turbot/steampipe-mod-aws-compliance</id>
-        <link href="https://github.com/turbot/steampipe-mod-aws-compliance"/>
-        <updated>2021-06-16T20:54:33.000Z</updated>
+        <title type="html"><![CDATA[Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers]]></title>
+        <id>https://github.com/organicmaps/organicmaps</id>
+        <link href="https://github.com/organicmaps/organicmaps"/>
+        <updated>2021-06-17T18:44:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to track users for analytics in a privacy-first, cookie-less future]]></title>
-        <id>https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/</id>
-        <link href="https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/"/>
-        <updated>2021-06-16T20:49:22.000Z</updated>
+        <title type="html"><![CDATA[Six ways to make async Rust easier]]></title>
+        <id>https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/</id>
+        <link href="https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/"/>
+        <updated>2021-06-17T18:03:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayfinder – a relaxing 'art game' in the browser]]></title>
-        <id>https://wayfinder.nfb.ca/</id>
-        <link href="https://wayfinder.nfb.ca/"/>
-        <updated>2021-06-16T18:51:05.000Z</updated>
+        <title type="html"><![CDATA[Useful and useless code comments]]></title>
+        <id>https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/</id>
+        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
+        <updated>2021-06-17T17:47:29.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-downtime schema migrations in Postgres using views]]></title>
-        <id>https://fabianlindfors.se/blog/schema-migrations-in-postgres/</id>
-        <link href="https://fabianlindfors.se/blog/schema-migrations-in-postgres/"/>
-        <updated>2021-06-16T18:39:07.000Z</updated>
+        <title type="html"><![CDATA[The Hair Dryer Incident (2014)]]></title>
+        <id>http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/</id>
+        <link href="http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/"/>
+        <updated>2021-06-17T17:37:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kids need freedom, too]]></title>
-        <id>https://www.persuasion.community/p/kids-need-freedom-too</id>
-        <link href="https://www.persuasion.community/p/kids-need-freedom-too"/>
-        <updated>2021-06-16T16:27:48.000Z</updated>
+        <title type="html"><![CDATA[Rethinking Triplebyte]]></title>
+        <id>https://triplebyte.com/blog/rethinking-triplebyte</id>
+        <link href="https://triplebyte.com/blog/rethinking-triplebyte"/>
+        <updated>2021-06-17T16:49:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Execute Docker Containers as QEMU MicroVMs]]></title>
-        <id>https://mergeboard.com/blog/2-qemu-microvm-docker/</id>
-        <link href="https://mergeboard.com/blog/2-qemu-microvm-docker/"/>
-        <updated>2021-06-16T16:05:21.000Z</updated>
+        <title type="html"><![CDATA[Amazon Appstore will reduce its developer revenue cut]]></title>
+        <id>https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/</id>
+        <link href="https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/"/>
+        <updated>2021-06-17T16:44:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness]]></title>
-        <id>https://eprint.iacr.org/2021/819</id>
-        <link href="https://eprint.iacr.org/2021/819"/>
-        <updated>2021-06-16T15:39:58.000Z</updated>
+        <title type="html"><![CDATA[I wrote a children's book / illustrated guide to Apache Kafka]]></title>
+        <id>https://gentlydownthe.stream/</id>
+        <link href="https://gentlydownthe.stream/"/>
+        <updated>2021-06-17T16:19:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bear plus snowflake equals polar bear]]></title>
-        <id>https://andysalerno.com/posts/weird-emojis/</id>
-        <link href="https://andysalerno.com/posts/weird-emojis/"/>
-        <updated>2021-06-16T15:35:18.000Z</updated>
+        <title type="html"><![CDATA[Exploring performance differences between Amazon Aurora and vanilla MySQL]]></title>
+        <id>https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql</id>
+        <link href="https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql"/>
+        <updated>2021-06-17T15:20:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you think psychological science is bad, imagine how bad it was in 1999]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/"/>
-        <updated>2021-06-16T14:47:50.000Z</updated>
+        <title type="html"><![CDATA[How Notion pulled itself back from the brink of failure (2019)]]></title>
+        <id>https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/</id>
+        <link href="https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/"/>
+        <updated>2021-06-17T15:14:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does one get hired by a top cybercrime gang?]]></title>
-        <id>https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/</id>
-        <link href="https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/"/>
-        <updated>2021-06-16T14:41:55.000Z</updated>
+        <title type="html"><![CDATA[Io_uring is not an event system]]></title>
+        <id>https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/</id>
+        <link href="https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/"/>
+        <updated>2021-06-17T14:56:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Svix (YC W21) – Webhooks as a Service]]></title>
-        <id>https://news.ycombinator.com/item?id=27528202</id>
-        <link href="https://news.ycombinator.com/item?id=27528202"/>
-        <updated>2021-06-16T13:19:41.000Z</updated>
+        <title type="html"><![CDATA[General Fusion to build demonstration plant in UK]]></title>
+        <id>https://www.bbc.co.uk/news/science-environment-57512229</id>
+        <link href="https://www.bbc.co.uk/news/science-environment-57512229"/>
+        <updated>2021-06-17T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple's iCloud+ “VPN”]]></title>
-        <id>https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html</id>
-        <link href="https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html"/>
-        <updated>2021-06-16T12:05:13.000Z</updated>
+        <title type="html"><![CDATA[CaribouLite: Turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR]]></title>
+        <id>https://github.com/cariboulabs/cariboulite</id>
+        <link href="https://github.com/cariboulabs/cariboulite"/>
+        <updated>2021-06-17T14:19:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDuckGo’s quest to prove online privacy is possible]]></title>
-        <id>https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/</id>
-        <link href="https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/"/>
-        <updated>2021-06-16T11:44:00.000Z</updated>
+        <title type="html"><![CDATA[The collapse of the IRON stable coin]]></title>
+        <id>https://irony-97882.medium.com/the-melting-of-iron-89469b01e083</id>
+        <link href="https://irony-97882.medium.com/the-melting-of-iron-89469b01e083"/>
+        <updated>2021-06-17T13:31:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grobid: Machine learning for extracting information from scholarly documents]]></title>
-        <id>https://github.com/kermitt2/grobid</id>
-        <link href="https://github.com/kermitt2/grobid"/>
-        <updated>2021-06-16T10:52:57.000Z</updated>
+        <title type="html"><![CDATA[In Argentina, cheap government-issued netbooks sparked a musical Renaissance]]></title>
+        <id>https://restofworld.org/2021/argentina-netbooks-music/</id>
+        <link href="https://restofworld.org/2021/argentina-netbooks-music/"/>
+        <updated>2021-06-17T13:14:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manufacturing next-generation electronics like they are T-Shirts]]></title>
-        <id>https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b</id>
-        <link href="https://ygoliya.medium.com/manufacturing-next-generation-electronics-like-they-are-t-shirts-526e8551748b"/>
-        <updated>2021-06-16T07:55:10.000Z</updated>
+        <title type="html"><![CDATA[Start Your Own ISP]]></title>
+        <id>https://startyourownisp.com/</id>
+        <link href="https://startyourownisp.com/"/>
+        <updated>2021-06-17T13:07:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyWhat: Identify Anything]]></title>
-        <id>https://github.com/bee-san/pyWhat</id>
-        <link href="https://github.com/bee-san/pyWhat"/>
-        <updated>2021-06-16T07:54:07.000Z</updated>
+        <title type="html"><![CDATA[Syria’s exam-related Internet shutdowns]]></title>
+        <id>https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/</id>
+        <link href="https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/"/>
+        <updated>2021-06-17T11:27:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Miles Davis]]></title>
-        <id>https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/</id>
-        <link href="https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/"/>
-        <updated>2021-06-16T04:52:49.000Z</updated>
+        <title type="html"><![CDATA[1931: Kurt Gödel shows limits of math, logic, computing, AI]]></title>
+        <id>https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html</id>
+        <link href="https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html"/>
+        <updated>2021-06-17T07:20:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My EC2 Wishlist]]></title>
-        <id>http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html</id>
-        <link href="http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html"/>
-        <updated>2021-06-16T02:08:34.000Z</updated>
+        <title type="html"><![CDATA[Remembering the time it rained 6k pounds of marijuana on Yosemite (2019)]]></title>
+        <id>https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/</id>
+        <link href="https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/"/>
+        <updated>2021-06-16T21:08:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saving books by keeping them expensive (2011)]]></title>
-        <id>https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html</id>
-        <link href="https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html"/>
-        <updated>2021-06-15T16:38:54.000Z</updated>
+        <title type="html"><![CDATA[I wish I could write this well]]></title>
+        <id>https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/</id>
+        <link href="https://blog.royalsloth.eu/posts/i-wish-i-could-write-this-well/"/>
+        <updated>2021-06-16T11:54:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asymmetries in Fundraising]]></title>
-        <id>https://blog.aaronkharris.com/asymmetries-in-fundraising</id>
-        <link href="https://blog.aaronkharris.com/asymmetries-in-fundraising"/>
-        <updated>2021-06-15T14:28:34.000Z</updated>
+        <title type="html"><![CDATA[Ribosome – A simple generic code generation tool]]></title>
+        <id>http://sustrik.github.io/ribosome/</id>
+        <link href="http://sustrik.github.io/ribosome/"/>
+        <updated>2021-06-16T11:42:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Differential Dataflow for Mere Mortals]]></title>
-        <id>https://github.com/jamii/dida</id>
-        <link href="https://github.com/jamii/dida"/>
-        <updated>2021-06-15T07:07:37.000Z</updated>
+        <title type="html"><![CDATA[Textual: a Python text user interface with Rich as the renderer]]></title>
+        <id>https://github.com/willmcgugan/textual</id>
+        <link href="https://github.com/willmcgugan/textual"/>
+        <updated>2021-06-16T07:57:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When pop history bombs: a response to Malcolm Gladwell]]></title>
-        <id>https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/</id>
-        <link href="https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/"/>
-        <updated>2021-06-14T18:19:39.000Z</updated>
+        <title type="html"><![CDATA[Spatial Audio]]></title>
+        <id>https://lefsetz.com/wordpress/2021/06/11/spatial-audio/</id>
+        <link href="https://lefsetz.com/wordpress/2021/06/11/spatial-audio/"/>
+        <updated>2021-06-15T22:14:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
