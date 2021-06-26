@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://eval.ai/",
+          "id": "http://www.gloss3d.net/",
           "author": null,
           "description": "Comments",
-          "link": "https://eval.ai/",
-          "publishedOn": "2021-06-25T00:03:57.000Z",
-          "wordCount": 2,
-          "title": "EvalAI: An Open-Source Alternative to Kaggle"
+          "link": "http://www.gloss3d.net/",
+          "publishedOn": "2021-06-26T00:11:18.000Z",
+          "wordCount": 183,
+          "title": "Gloss3D – an open source 3D Modeler for Linux and Windows"
         },
         {
-          "id": "https://argon2.online/",
+          "id": "http://www.jerf.org/iri/post/2958",
           "author": null,
           "description": "Comments",
-          "link": "https://argon2.online/",
-          "publishedOn": "2021-06-24T23:44:11.000Z",
-          "wordCount": 453,
-          "title": "Password with Argon2 Algorithm, the Winner of the Password Hashing Competition"
+          "link": "http://www.jerf.org/iri/post/2958",
+          "publishedOn": "2021-06-26T00:09:53.000Z",
+          "wordCount": 9760,
+          "title": "Functors and Monads for People Who Have Read Too Many “Tutorials”"
         },
         {
-          "id": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
+          "id": "https://rigtorp.se/spinlock/",
           "author": null,
           "description": "Comments",
-          "link": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
-          "publishedOn": "2021-06-24T22:30:52.000Z",
-          "wordCount": 1049,
-          "title": "WD My Book users wake up to find their data deleted"
+          "link": "https://rigtorp.se/spinlock/",
+          "publishedOn": "2021-06-25T22:58:49.000Z",
+          "wordCount": 1453,
+          "title": "Correctly implementing a spinlock in Modern C++"
         },
         {
-          "id": "https://tinyacquisitions.com",
+          "id": "https://twitter.com/RunDaltonRun/status/1408507323031592964",
           "author": null,
           "description": "Comments",
-          "link": "https://tinyacquisitions.com",
-          "publishedOn": "2021-06-24T22:01:48.000Z",
+          "link": "https://twitter.com/RunDaltonRun/status/1408507323031592964",
+          "publishedOn": "2021-06-25T21:58:35.000Z",
+          "wordCount": 196,
+          "title": "Sorry, we replaced that old technology, “see-through glass”"
+        },
+        {
+          "id": "https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96",
+          "publishedOn": "2021-06-25T21:00:39.000Z",
+          "wordCount": 158,
+          "title": "OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer"
+        },
+        {
+          "id": "https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art",
+          "publishedOn": "2021-06-25T20:49:40.000Z",
+          "wordCount": 2122,
+          "title": "Final Fantasy remasters reignite controversies over pixel art"
+        },
+        {
+          "id": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena",
+          "publishedOn": "2021-06-25T20:36:41.000Z",
+          "wordCount": 400,
+          "title": "Preliminary Assessment: Unidentified Aerial Phenomena"
+        },
+        {
+          "id": "https://userinyerface.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://userinyerface.com/",
+          "publishedOn": "2021-06-25T19:37:53.000Z",
+          "wordCount": 49,
+          "title": "User Inyerface – A worst-practice UI experiment"
+        },
+        {
+          "id": "https://telegram.org/blog/group-video-calls",
+          "author": null,
+          "description": "Comments",
+          "link": "https://telegram.org/blog/group-video-calls",
+          "publishedOn": "2021-06-25T19:18:42.000Z",
+          "wordCount": 661,
+          "title": "Group Video Calls"
+        },
+        {
+          "id": "https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill",
+          "publishedOn": "2021-06-25T19:13:02.000Z",
+          "wordCount": 1595,
+          "title": "The Miami condo collapse is a reminder of America's artificial land problem"
+        },
+        {
+          "id": "https://duckdb.org/2021/06/25/querying-parquet.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://duckdb.org/2021/06/25/querying-parquet.html",
+          "publishedOn": "2021-06-25T18:53:15.000Z",
+          "wordCount": 1919,
+          "title": "Querying Parquet with Precision Using DuckDB"
+        },
+        {
+          "id": "https://pubs.acs.org/doi/10.1021/acs.est.1c00976",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubs.acs.org/doi/10.1021/acs.est.1c00976",
+          "publishedOn": "2021-06-25T18:27:44.000Z",
+          "wordCount": 1017,
+          "title": "Deep dive into plastic monomers, additives, and processing aids"
+        },
+        {
+          "id": "https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article",
+          "publishedOn": "2021-06-25T18:26:03.000Z",
+          "wordCount": 1277,
+          "title": "Chemical space is really big (2014)"
+        },
+        {
+          "id": "https://github.com/MichalStrehovsky/bflat",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/MichalStrehovsky/bflat",
+          "publishedOn": "2021-06-25T18:18:28.000Z",
+          "wordCount": 1409,
+          "title": "Bflat: C# as you know it but with Go-like tooling"
+        },
+        {
+          "id": "https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world",
+          "publishedOn": "2021-06-25T18:08:27.000Z",
+          "wordCount": 8091,
+          "title": "A man whose software ate the world"
+        },
+        {
+          "id": "https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+          "publishedOn": "2021-06-25T17:28:21.000Z",
+          "wordCount": 73374,
+          "title": "Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]"
+        },
+        {
+          "id": "https://dl.acm.org/doi/pdf/10.1145/3460095",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3460095",
+          "publishedOn": "2021-06-25T15:24:56.000Z",
+          "wordCount": 148,
+          "title": "Where did my 256 GB go? Mobile storage Analysis [pdf]"
+        },
+        {
+          "id": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
+          "publishedOn": "2021-06-25T15:10:58.000Z",
+          "wordCount": 1130,
+          "title": "Hierarchical Structures in PostgreSQL (2020)"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
+          "publishedOn": "2021-06-25T14:38:34.000Z",
+          "wordCount": 794,
+          "title": "AWS acquires Wickr"
+        },
+        {
+          "id": "https://sirendns.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sirendns.com",
+          "publishedOn": "2021-06-25T12:15:23.000Z",
           "wordCount": null,
-          "title": "Tiny Acquisitions"
+          "title": "Show HN: SirenDNS – A Watchtower for Your Domains (Anti-domain-squatting)"
         },
         {
-          "id": "https://mobile.nixos.org/",
+          "id": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
           "author": null,
           "description": "Comments",
-          "link": "https://mobile.nixos.org/",
-          "publishedOn": "2021-06-24T21:44:35.000Z",
-          "wordCount": 5105,
-          "title": "Mobile NixOS"
+          "link": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
+          "publishedOn": "2021-06-25T11:47:33.000Z",
+          "wordCount": 324,
+          "title": "I was let go for refusing to deploy a dark pattern"
         },
         {
-          "id": "https://careers.atob.com/",
+          "id": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
           "author": null,
           "description": "Comments",
-          "link": "https://careers.atob.com/",
-          "publishedOn": "2021-06-24T21:00:49.000Z",
-          "wordCount": 172,
-          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
+          "link": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
+          "publishedOn": "2021-06-25T11:21:11.000Z",
+          "wordCount": 8190,
+          "title": "The Future of Games is an Instant Flash to the past"
         },
         {
-          "id": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
+          "id": "https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
-          "publishedOn": "2021-06-24T20:53:09.000Z",
-          "wordCount": 1210,
-          "title": "Twilio, Asana to List on Long Term Stock Exchange"
+          "link": "https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/",
+          "publishedOn": "2021-06-25T10:59:39.000Z",
+          "wordCount": 1571,
+          "title": "Rally, a novel privacy-first data sharing platform"
         },
         {
-          "id": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
+          "id": "https://blind.guru/blog/2021-06-25-brick.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
-          "publishedOn": "2021-06-24T19:54:57.000Z",
-          "wordCount": 2344,
-          "title": "Stop using your work laptop or phone for personal stuff, because I know you are"
+          "link": "https://blind.guru/blog/2021-06-25-brick.html",
+          "publishedOn": "2021-06-25T10:39:28.000Z",
+          "wordCount": 737,
+          "title": "Why the text terminal cursor is important for accessibility"
         },
         {
-          "id": "https://www.tindie.com/products/nsayer/crazy-clock/",
+          "id": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
           "author": null,
           "description": "Comments",
-          "link": "https://www.tindie.com/products/nsayer/crazy-clock/",
-          "publishedOn": "2021-06-24T19:38:17.000Z",
-          "wordCount": 4635,
-          "title": "Crazy Clock"
+          "link": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
+          "publishedOn": "2021-06-25T09:35:52.000Z",
+          "wordCount": 875,
+          "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out"
         },
         {
-          "id": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
+          "id": "http://www.theweatherprediction.com/habyhints2/424/",
           "author": null,
           "description": "Comments",
-          "link": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
-          "publishedOn": "2021-06-24T18:44:30.000Z",
-          "wordCount": 508,
-          "title": "Google turned me into a serial killer"
+          "link": "http://www.theweatherprediction.com/habyhints2/424/",
+          "publishedOn": "2021-06-24T19:38:46.000Z",
+          "wordCount": 822,
+          "title": "Weather Forecasting Tricks Series: Timing a Front (2004)"
         },
         {
-          "id": "https://minimaxir.com/2021/06/gpt-j-6b/",
+          "id": "https://lareviewofbooks.org/article/cats-and-the-good-life/",
           "author": null,
           "description": "Comments",
-          "link": "https://minimaxir.com/2021/06/gpt-j-6b/",
-          "publishedOn": "2021-06-24T17:36:50.000Z",
-          "wordCount": 3425,
-          "title": "Fun and dystopia with AI-based code generation using GPT-J-6B"
+          "link": "https://lareviewofbooks.org/article/cats-and-the-good-life/",
+          "publishedOn": "2021-06-24T16:16:49.000Z",
+          "wordCount": 1601,
+          "title": "Cats and the Good Life"
         },
         {
-          "id": "https://borodust.org/projects/cl-bodge/",
+          "id": "https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/",
           "author": null,
           "description": "Comments",
-          "link": "https://borodust.org/projects/cl-bodge/",
-          "publishedOn": "2021-06-24T17:30:35.000Z",
-          "wordCount": 229,
-          "title": "Cl-bodge: a cross-platform Common Lisp game and application framework"
+          "link": "https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/",
+          "publishedOn": "2021-06-23T17:24:01.000Z",
+          "wordCount": 2871,
+          "title": "Disproportionate amount of bad online behaviour stems from psychological issues"
         },
         {
-          "id": "https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/",
+          "id": "https://www.itprotoday.com/compute-engines/death-alpha-nt",
           "author": null,
           "description": "Comments",
-          "link": "https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/",
-          "publishedOn": "2021-06-24T16:52:40.000Z",
-          "wordCount": 749,
-          "title": "Quad9 and Sony Music: German Injunction Status"
+          "link": "https://www.itprotoday.com/compute-engines/death-alpha-nt",
+          "publishedOn": "2021-06-23T12:14:03.000Z",
+          "wordCount": 1688,
+          "title": "The Death of Alpha on NT (1999)"
         },
         {
-          "id": "https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/",
+          "id": "https://github.com/nidhaloff/igel/tree/v0.4.0",
           "author": null,
           "description": "Comments",
-          "link": "https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/",
-          "publishedOn": "2021-06-24T16:51:19.000Z",
-          "wordCount": 2857,
-          "title": "The Banning of Joyce's Ulysses"
-        },
-        {
-          "id": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
-          "publishedOn": "2021-06-24T16:32:35.000Z",
-          "wordCount": 1621,
-          "title": "Developing Games on Linux: An Interview with Little Red Dog Games"
-        },
-        {
-          "id": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
-          "publishedOn": "2021-06-24T16:11:06.000Z",
-          "wordCount": 2062,
-          "title": "The Next Backblaze Storage Pod"
-        },
-        {
-          "id": "https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store",
-          "publishedOn": "2021-06-24T15:40:46.000Z",
-          "wordCount": 856,
-          "title": "Microsoft is bringing Android apps to Windows 11"
-        },
-        {
-          "id": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
-          "publishedOn": "2021-06-24T15:28:44.000Z",
-          "wordCount": 668,
-          "title": "Micro APIs for Everyday Use"
-        },
-        {
-          "id": "https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates",
-          "publishedOn": "2021-06-24T15:14:02.000Z",
-          "wordCount": 1451,
-          "title": "Microsoft announces Windows 11"
-        },
-        {
-          "id": "https://www.bbc.com/news/world-us-canada-57592243",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/world-us-canada-57592243",
-          "publishedOn": "2021-06-24T14:09:09.000Z",
-          "wordCount": 1166,
-          "title": "Canada: Hundreds of unmarked graves found at residential school"
-        },
-        {
-          "id": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
-          "publishedOn": "2021-06-24T13:43:36.000Z",
-          "wordCount": 899,
-          "title": "NASA can't figure out what's causing computer issues on the Hubble telescope"
-        },
-        {
-          "id": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
-          "publishedOn": "2021-06-24T12:42:19.000Z",
-          "wordCount": 7565,
-          "title": "Maybe you don't need Rust and WASM to speed up your JS (2018)"
-        },
-        {
-          "id": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
-          "publishedOn": "2021-06-24T11:20:08.000Z",
-          "wordCount": 7080,
-          "title": "Peter Thiel turned a Roth IRA into a $5B tax-free piggy bank"
-        },
-        {
-          "id": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
-          "publishedOn": "2021-06-24T10:04:53.000Z",
-          "wordCount": 1814,
-          "title": "Hospitals are selling troves of medical data"
-        },
-        {
-          "id": "https://3dasd.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://3dasd.com/",
-          "publishedOn": "2021-06-24T07:34:43.000Z",
-          "wordCount": 357,
-          "title": "Show HN: 3dasd – open-source DIY room-scale 3D scanner"
-        },
-        {
-          "id": "https://adam.nels.onl/blog/parentheses-are-just-typechecking/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://adam.nels.onl/blog/parentheses-are-just-typechecking/",
-          "publishedOn": "2021-06-23T12:13:56.000Z",
-          "wordCount": 626,
-          "title": "Parentheses Are Just Typechecking"
-        },
-        {
-          "id": "https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/",
-          "publishedOn": "2021-06-23T11:29:42.000Z",
-          "wordCount": 2209,
-          "title": "The rich, weird, and frustrating world of Depression-era travel guides"
-        },
-        {
-          "id": "http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it",
-          "author": null,
-          "description": "Comments",
-          "link": "http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it",
-          "publishedOn": "2021-06-23T04:20:18.000Z",
-          "wordCount": 7125,
-          "title": "We Don't Know, But Let's Try It"
-        },
-        {
-          "id": "https://github.com/facebookresearch/Cupcake",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/facebookresearch/Cupcake",
-          "publishedOn": "2021-06-22T07:40:53.000Z",
-          "wordCount": 721,
-          "title": "Cupcake - A Rust library for lattice-based additive homomorphic encryption"
-        },
-        {
-          "id": "https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iquilezles.org/www/articles/smoothstepintegral/smoothstepintegral.htm",
-          "publishedOn": "2021-06-22T07:35:11.000Z",
-          "wordCount": 712,
-          "title": "Smoothstep Integral"
+          "link": "https://github.com/nidhaloff/igel/tree/v0.4.0",
+          "publishedOn": "2021-06-23T11:27:52.000Z",
+          "wordCount": 6337,
+          "title": "Show HN: Machine learning automation from creating to using models in production"
         }
       ]
     }
