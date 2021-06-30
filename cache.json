@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers",
+          "id": "https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame",
           "author": null,
           "description": "Comments",
-          "link": "https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers",
-          "publishedOn": "2021-06-29T00:04:02.000Z",
-          "wordCount": 1792,
-          "title": "Peloton Axes Free 'Just Run' Feature from Treadmill"
+          "link": "https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame",
+          "publishedOn": "2021-06-29T23:25:11.000Z",
+          "wordCount": 1777,
+          "title": "Ignoring bulk change commits with Git blame"
         },
         {
-          "id": "https://notoriousbfg.com/june",
+          "id": "https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible",
           "author": null,
           "description": "Comments",
-          "link": "https://notoriousbfg.com/june",
-          "publishedOn": "2021-06-28T23:35:37.000Z",
-          "wordCount": 222,
-          "title": "There is no substitute for hard work"
+          "link": "https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible",
+          "publishedOn": "2021-06-29T22:53:31.000Z",
+          "wordCount": 2076,
+          "title": "Reviving extinct species may soon be possible"
         },
         {
-          "id": "https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms",
+          "id": "https://edwardsnowden.substack.com/p/conspiracy-pt1",
           "author": null,
           "description": "Comments",
-          "link": "https://www.vox.com/recode/22543409/remote-work-from-home-jobs-supply-demand-hiring-platforms",
-          "publishedOn": "2021-06-28T23:05:26.000Z",
-          "wordCount": 2057,
-          "title": "Many people don’t want to work unless it’s from home"
+          "link": "https://edwardsnowden.substack.com/p/conspiracy-pt1",
+          "publishedOn": "2021-06-29T22:48:15.000Z",
+          "wordCount": 2086,
+          "title": "Conspiracy: In Theory and Practice"
         },
         {
-          "id": "https://bartoszsypytkowski.com/make-your-cluster-swim/",
+          "id": "https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform",
           "author": null,
           "description": "Comments",
-          "link": "https://bartoszsypytkowski.com/make-your-cluster-swim/",
-          "publishedOn": "2021-06-28T23:00:04.000Z",
-          "wordCount": 4495,
-          "title": "Make Your Cluster Swim"
+          "link": "https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform",
+          "publishedOn": "2021-06-29T22:37:19.000Z",
+          "wordCount": 1512,
+          "title": "NATO Classified Cloud Platform Compromised"
         },
         {
-          "id": "https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s",
+          "id": "https://github.com/AsamK/signal-cli",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s",
-          "publishedOn": "2021-06-28T22:39:15.000Z",
-          "wordCount": 930,
-          "title": "Simple Test Reveals If Your Mental Images Are More Vivid Than Other People's"
+          "link": "https://github.com/AsamK/signal-cli",
+          "publishedOn": "2021-06-29T22:18:29.000Z",
+          "wordCount": 1218,
+          "title": "Command Line Interface for Signal"
         },
         {
-          "id": "https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286",
+          "id": "https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286",
-          "publishedOn": "2021-06-28T22:14:23.000Z",
-          "wordCount": 759,
-          "title": "YouTube reinstates Right Wing Watch"
+          "link": "https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/",
+          "publishedOn": "2021-06-29T22:10:33.000Z",
+          "wordCount": 3523,
+          "title": "An Elixir adoption success story"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27668040",
+          "id": "https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27668040",
-          "publishedOn": "2021-06-28T21:00:02.000Z",
-          "wordCount": 194,
-          "title": "SIRUM (YC W15) is hiring to make access to medicine more equitable"
+          "link": "https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/",
+          "publishedOn": "2021-06-29T21:55:18.000Z",
+          "wordCount": 3116,
+          "title": "Storytelling – Mamet’s Conflict Airing Theory"
         },
         {
-          "id": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
+          "id": "https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php",
           "author": null,
           "description": "Comments",
-          "link": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-          "publishedOn": "2021-06-28T19:20:55.000Z",
-          "wordCount": 3,
-          "title": "Nvidia Vid2vid-Cameo Demo"
+          "link": "https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php",
+          "publishedOn": "2021-06-29T21:44:28.000Z",
+          "wordCount": 1472,
+          "title": "Researchers translate a bird's brain activity into song"
         },
         {
-          "id": "https://cedwards.xyz/the-fuck-you-pattern/",
+          "id": "https://blog.framelabs.eu/evolution/",
           "author": null,
           "description": "Comments",
-          "link": "https://cedwards.xyz/the-fuck-you-pattern/",
-          "publishedOn": "2021-06-28T19:18:44.000Z",
-          "wordCount": 306,
-          "title": "The 'Fuck You' Pattern"
+          "link": "https://blog.framelabs.eu/evolution/",
+          "publishedOn": "2021-06-29T21:37:17.000Z",
+          "wordCount": 183,
+          "title": "Show HN: A 13.3“ battery-powered e-paper picture frame to display digital art"
         },
         {
-          "id": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
+          "id": "https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-          "publishedOn": "2021-06-28T19:17:43.000Z",
-          "wordCount": 953,
-          "title": "Judge dismisses FTC antitrust complaint against Facebook"
+          "link": "https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math",
+          "publishedOn": "2021-06-29T21:37:03.000Z",
+          "wordCount": 2231,
+          "title": "Let's Build a Chip with Math"
         },
         {
-          "id": "https://github.com/andronov04/mondrian-art",
+          "id": "https://jobs.lever.co/buildzoom",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/andronov04/mondrian-art",
-          "publishedOn": "2021-06-28T18:23:30.000Z",
-          "wordCount": 740,
-          "title": "Show HN: Art Generator Neoplasticism"
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-06-29T21:00:43.000Z",
+          "wordCount": 103,
+          "title": "BuildZoom (better way to build custom homes) is hiring a Principal Engineer"
         },
         {
-          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section",
+          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt",
           "author": null,
           "description": "Comments",
-          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section",
-          "publishedOn": "2021-06-28T18:22:50.000Z",
-          "wordCount": 6017,
-          "title": "An announcement about the comment section"
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt",
+          "publishedOn": "2021-06-29T20:38:56.000Z",
+          "wordCount": 4245,
+          "title": "What mRNA is good for, and what it maybe isn’t"
         },
         {
-          "id": "https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/",
+          "id": "https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/",
           "author": null,
           "description": "Comments",
-          "link": "https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/",
-          "publishedOn": "2021-06-28T17:06:51.000Z",
-          "wordCount": 1432,
-          "title": "Amazon is using algorithms with little human intervention to fire Flex workers"
+          "link": "https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/",
+          "publishedOn": "2021-06-29T19:24:41.000Z",
+          "wordCount": 1098,
+          "title": "Ohio GOP ends attempt to ban municipal broadband after protest from residents"
         },
         {
-          "id": "https://sample.findka.com/?ref=showhn",
+          "id": "https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments",
           "author": null,
           "description": "Comments",
-          "link": "https://sample.findka.com/?ref=showhn",
-          "publishedOn": "2021-06-28T16:32:44.000Z",
-          "wordCount": 132,
-          "title": "Show HN: The Sample – newsletters curated for you with machine learning"
+          "link": "https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments",
+          "publishedOn": "2021-06-29T18:45:54.000Z",
+          "wordCount": 4783,
+          "title": "Electronic lottery tickets as micropayments (1997)"
         },
         {
-          "id": "https://www.thischemicaldoesnotexist.com/",
+          "id": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.thischemicaldoesnotexist.com/",
-          "publishedOn": "2021-06-28T15:32:24.000Z",
-          "wordCount": 7,
-          "title": "This Chemical Does Not Exist"
+          "link": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
+          "publishedOn": "2021-06-29T16:53:36.000Z",
+          "wordCount": 6734,
+          "title": "An EPYC escape: Case-study of a KVM breakout"
         },
         {
-          "id": "https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/",
+          "id": "https://martinfowler.com/articles/202106-reducing-speaking.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/",
-          "publishedOn": "2021-06-28T14:04:08.000Z",
-          "wordCount": 1430,
-          "title": "Show HN: Optery – See the private info data brokers are posting about you online"
+          "link": "https://martinfowler.com/articles/202106-reducing-speaking.html",
+          "publishedOn": "2021-06-29T15:14:21.000Z",
+          "wordCount": 1164,
+          "title": "Stepping Back from Speaking"
         },
         {
-          "id": "https://2ality.com/2021/06/temporal-api.html",
+          "id": "https://copilot.github.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://2ality.com/2021/06/temporal-api.html",
-          "publishedOn": "2021-06-28T13:26:59.000Z",
+          "link": "https://copilot.github.com/",
+          "publishedOn": "2021-06-29T14:29:39.000Z",
+          "wordCount": 2285,
+          "title": "GitHub Copilot: your AI pair programmer"
+        },
+        {
+          "id": "https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/",
+          "publishedOn": "2021-06-29T14:16:56.000Z",
+          "wordCount": 1713,
+          "title": "Physicists confirm two cases of “elusive” black hole/neutron star mergers"
+        },
+        {
+          "id": "http://paulgraham.com/hwh.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://paulgraham.com/hwh.html",
+          "publishedOn": "2021-06-29T13:39:09.000Z",
+          "wordCount": 3271,
+          "title": "How to Work Hard"
+        },
+        {
+          "id": "https://tamikothiel.com/cm/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tamikothiel.com/cm/",
+          "publishedOn": "2021-06-29T12:51:01.000Z",
+          "wordCount": 1154,
+          "title": "The Connection Machines CM-1 and CM-2 (2015)"
+        },
+        {
+          "id": "https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629",
+          "publishedOn": "2021-06-29T11:35:07.000Z",
+          "wordCount": 2218,
+          "title": "MIT and Harvard agree to transfer edX to ed-tech firm 2U"
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age",
+          "publishedOn": "2021-06-29T11:16:13.000Z",
+          "wordCount": 1146,
+          "title": "Concrete: The material that's 'too vast to imagine'"
+        },
+        {
+          "id": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+          "publishedOn": "2021-06-29T10:16:17.000Z",
+          "wordCount": 3466,
+          "title": "Google Compute Engine VM takeover via DHCP flood"
+        },
+        {
+          "id": "https://beets.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://beets.io/",
+          "publishedOn": "2021-06-29T06:23:45.000Z",
+          "wordCount": 350,
+          "title": "Beets: the music geek’s media organizer"
+        },
+        {
+          "id": "https://thesephist.com/posts/inc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thesephist.com/posts/inc/",
+          "publishedOn": "2021-06-28T20:25:02.000Z",
+          "wordCount": 3640,
+          "title": "Incremental Note-Taking"
+        },
+        {
+          "id": "https://blog.witful.com/how-i-take-notes-in-meetings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.witful.com/how-i-take-notes-in-meetings/",
+          "publishedOn": "2021-06-28T17:01:38.000Z",
+          "wordCount": 1836,
+          "title": "My approach to taking notes in meetings"
+        },
+        {
+          "id": "https://github.com/TrevorAttema/OTGMessenger",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/TrevorAttema/OTGMessenger",
+          "publishedOn": "2021-06-28T07:48:41.000Z",
+          "wordCount": 1110,
+          "title": "Off the Grid Messenger"
+        },
+        {
+          "id": "https://surfingcomplexity.blog/2021/06/20/designing-like-a-joint-cognitive-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://surfingcomplexity.blog/2021/06/20/designing-like-a-joint-cognitive-system/",
+          "publishedOn": "2021-06-28T07:05:53.000Z",
+          "wordCount": 1228,
+          "title": "Designing like a joint cognitive system"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Naumachia",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Naumachia",
+          "publishedOn": "2021-06-27T06:51:54.000Z",
           "wordCount": 3196,
-          "title": "Temporal: Getting started with JavaScript's new date time API"
+          "title": "Naumachia"
         },
         {
-          "id": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
+          "id": "https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
-          "publishedOn": "2021-06-28T13:25:03.000Z",
-          "wordCount": 1538,
-          "title": "Biohackers take aim at big pharma’s stranglehold on insulin"
-        },
-        {
-          "id": "https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf",
-          "publishedOn": "2021-06-28T13:18:52.000Z",
-          "wordCount": 26645,
-          "title": "A Plea for Lean Software (1995) [pdf]"
-        },
-        {
-          "id": "https://ipds.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ipds.io/",
-          "publishedOn": "2021-06-28T10:59:31.000Z",
-          "wordCount": 99,
-          "title": "Subdomains for IPFS"
-        },
-        {
-          "id": "https://www.bbc.com/news/science-environment-57628653",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/science-environment-57628653",
-          "publishedOn": "2021-06-28T10:39:54.000Z",
-          "wordCount": 1005,
-          "title": "China releases videos of its Zhurong Mars rover"
-        },
-        {
-          "id": "https://github.com/codr7/whirlog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/codr7/whirlog",
-          "publishedOn": "2021-06-28T01:28:59.000Z",
-          "wordCount": 771,
-          "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp"
-        },
-        {
-          "id": "https://thereader.mitpress.mit.edu/recounting-cognitive-history-of-numerals/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thereader.mitpress.mit.edu/recounting-cognitive-history-of-numerals/",
-          "publishedOn": "2021-06-28T00:10:30.000Z",
-          "wordCount": 3269,
-          "title": "Re-counting the cognitive history of numerals"
-        },
-        {
-          "id": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
-          "publishedOn": "2021-06-27T07:57:04.000Z",
-          "wordCount": 2183,
-          "title": "Groundbreaking new bridge design could transform rail crossings across the UK"
-        },
-        {
-          "id": "https://people.scs.carleton.ca/~paulv/toolsjewels.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://people.scs.carleton.ca/~paulv/toolsjewels.html",
-          "publishedOn": "2021-06-27T05:06:45.000Z",
-          "wordCount": 750,
-          "title": "Computer Security and the Internet: Tools and Jewels"
-        },
-        {
-          "id": "https://nicole.express/2021/pinball-in-your-house.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nicole.express/2021/pinball-in-your-house.html",
-          "publishedOn": "2021-06-26T22:48:12.000Z",
-          "wordCount": 1544,
-          "title": "The Sears Tele-Games Pinball Breakaway"
-        },
-        {
-          "id": "https://github.com/abbbi/nullfsvfs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/abbbi/nullfsvfs",
-          "publishedOn": "2021-06-26T11:34:42.000Z",
-          "wordCount": 1018,
-          "title": "Nullfs: A virtual black hole file system that behaves like /dev/null"
-        },
-        {
-          "id": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-          "publishedOn": "2021-06-26T11:08:57.000Z",
-          "wordCount": null,
-          "title": "The slow rise of robots in the data center"
-        },
-        {
-          "id": "https://arstechnica.com/science/2014/09/the-little-known-soviet-mission-to-rescue-a-dead-space-station/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/science/2014/09/the-little-known-soviet-mission-to-rescue-a-dead-space-station/",
-          "publishedOn": "2021-06-26T05:49:45.000Z",
-          "wordCount": 2454,
-          "title": "A little-known Soviet mission to rescue a dead space station (2014)"
-        },
-        {
-          "id": "https://placesjournal.org/article/watermark-along-the-california-aqueduct/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://placesjournal.org/article/watermark-along-the-california-aqueduct/",
-          "publishedOn": "2021-06-25T23:18:42.000Z",
-          "wordCount": 1871,
-          "title": "Watermark: Along the California Aqueduct (2015)"
+          "link": "https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html",
+          "publishedOn": "2021-06-27T01:02:51.000Z",
+          "wordCount": 1511,
+          "title": "The Unlikely Survival of the 1,081 Year-Old Redwood El Palo Alto"
         }
       ]
     }
