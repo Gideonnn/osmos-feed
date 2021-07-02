@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T00:57:50.733Z</id>
+    <id>urn:2021-07-02T00:54:30.435Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T00:57:50.733Z</updated>
+    <updated>2021-07-02T00:54:30.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[SparkFun Hooks a Patent Troll]]></title>
-        <id>https://www.sparkfun.com/news/3917</id>
-        <link href="https://www.sparkfun.com/news/3917"/>
-        <updated>2021-06-30T23:00:58.000Z</updated>
+        <title type="html"><![CDATA[A Group Is Its Own Worst Enemy (2003)]]></title>
+        <id>https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html</id>
+        <link href="https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html"/>
+        <updated>2021-07-02T00:00:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Success in Reversing Dementia in Mice Sets the Stage for Human Clinical Trials]]></title>
-        <id>https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html</id>
-        <link href="https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html"/>
-        <updated>2021-06-30T22:28:37.000Z</updated>
+        <title type="html"><![CDATA[IBM email fiasco complicates sales deals, is worse than biz is letting on]]></title>
+        <id>https://www.theregister.com/2021/07/01/ibm_email_disruption_sales</id>
+        <link href="https://www.theregister.com/2021/07/01/ibm_email_disruption_sales"/>
+        <updated>2021-07-01T23:21:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft exec: Targeting of Americans’ records ‘routine’]]></title>
-        <id>https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/</id>
-        <link href="https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/"/>
-        <updated>2021-06-30T22:02:47.000Z</updated>
+        <title type="html"><![CDATA[Radian: A 21 century R console]]></title>
+        <id>https://github.com/randy3k/radian</id>
+        <link href="https://github.com/randy3k/radian"/>
+        <updated>2021-07-01T23:10:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team]]></title>
-        <id>https://www.tesorio.com/careers#job-openings</id>
-        <link href="https://www.tesorio.com/careers#job-openings"/>
-        <updated>2021-06-30T21:52:24.000Z</updated>
+        <title type="html"><![CDATA[Check If Email Exists]]></title>
+        <id>https://github.com/reacherhq/check-if-email-exists</id>
+        <link href="https://github.com/reacherhq/check-if-email-exists"/>
+        <updated>2021-07-01T22:37:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asking developers to do QA is broken – why anyone should own QA]]></title>
-        <id>https://www.rainforestqa.com/blog/accessible-quality</id>
-        <link href="https://www.rainforestqa.com/blog/accessible-quality"/>
-        <updated>2021-06-30T21:45:33.000Z</updated>
+        <title type="html"><![CDATA[Folk wisdom on visual programming]]></title>
+        <id>https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/</id>
+        <link href="https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/"/>
+        <updated>2021-07-01T22:24:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Makes Mac OS X Lion and Mountain Lion Free to Download]]></title>
-        <id>https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/</id>
-        <link href="https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/"/>
-        <updated>2021-06-30T20:26:46.000Z</updated>
+        <title type="html"><![CDATA[Installing Linux into a 286 laptop from the year 1989]]></title>
+        <id>https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/</id>
+        <link href="https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/"/>
+        <updated>2021-07-01T21:51:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM's 18-month company-wide email system migration has been a disaster: sources]]></title>
-        <id>https://www.theregister.com/2021/06/30/ibm_email_outage/</id>
-        <link href="https://www.theregister.com/2021/06/30/ibm_email_outage/"/>
-        <updated>2021-06-30T20:15:50.000Z</updated>
+        <title type="html"><![CDATA[Flipper Zero: How it’s made and tested]]></title>
+        <id>https://blog.flipperzero.one/electronics-testing/</id>
+        <link href="https://blog.flipperzero.one/electronics-testing/"/>
+        <updated>2021-07-01T21:07:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Move fast, but understand the problem first]]></title>
-        <id>https://jacobobryant.com/blog/understand/</id>
-        <link href="https://jacobobryant.com/blog/understand/"/>
-        <updated>2021-06-30T17:59:09.000Z</updated>
+        <title type="html"><![CDATA[Zendar (YC S17) is hiring a R&D electronics technician (part time)]]></title>
+        <id>https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c</id>
+        <link href="https://jobs.ashbyhq.com/zendar/56ea9fff-f961-404e-b094-5584a36c0f8c"/>
+        <updated>2021-07-01T21:00:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Globally Distributed Postgres]]></title>
-        <id>https://fly.io/blog/globally-distributed-postgres/</id>
-        <link href="https://fly.io/blog/globally-distributed-postgres/"/>
-        <updated>2021-06-30T17:08:33.000Z</updated>
+        <title type="html"><![CDATA[FCC reaffirms $3M fine for marketing unauthorized drone transmitters]]></title>
+        <id>http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters</id>
+        <link href="http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters"/>
+        <updated>2021-07-01T20:46:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intuit sabotages the Child Tax Credit]]></title>
-        <id>https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc</id>
-        <link href="https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc"/>
-        <updated>2021-06-30T16:36:33.000Z</updated>
+        <title type="html"><![CDATA[Why does my installer get flagged by Windows?]]></title>
+        <id>https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/</id>
+        <link href="https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/"/>
+        <updated>2021-07-01T20:30:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robinhood to pay $70M for 'systemic supervisory failures']]></title>
-        <id>https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/</id>
-        <link href="https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/"/>
-        <updated>2021-06-30T16:33:01.000Z</updated>
+        <title type="html"><![CDATA[A simple way to feel happier, according to the new science of emotion]]></title>
+        <id>https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice</id>
+        <link href="https://www.npr.org/sections/health-shots/2021/06/29/1010319240/stuck-in-a-rut-sometimes-joy-takes-a-little-practice"/>
+        <updated>2021-07-01T19:38:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1970s mainframe RPGs we can no longer play]]></title>
-        <id>http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html</id>
-        <link href="http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html"/>
-        <updated>2021-06-30T16:30:04.000Z</updated>
+        <title type="html"><![CDATA[Intuit to share payroll data from 1.4M small businesses with Equifax]]></title>
+        <id>https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/</id>
+        <link href="https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/"/>
+        <updated>2021-07-01T19:02:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: An interactive visual history of Git development]]></title>
-        <id>https://git-history.jpalmer.dev/</id>
-        <link href="https://git-history.jpalmer.dev/"/>
-        <updated>2021-06-30T15:24:12.000Z</updated>
+        <title type="html"><![CDATA[Fortran adds conditional expressions]]></title>
+        <id>https://j3-fortran.org/doc/year/21/21-157r2.txt</id>
+        <link href="https://j3-fortran.org/doc/year/21/21-157r2.txt"/>
+        <updated>2021-07-01T17:55:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Engineering principles to make teams better]]></title>
-        <id>https://principles.dev/</id>
-        <link href="https://principles.dev/"/>
-        <updated>2021-06-30T13:59:47.000Z</updated>
+        <title type="html"><![CDATA[Monitoring Elixir Apps on Fly.io with Prometheus and PromEx]]></title>
+        <id>https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/</id>
+        <link href="https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/"/>
+        <updated>2021-07-01T17:25:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Treat Kubernetes clusters as cattle, not pets]]></title>
-        <id>https://zitadel.ch/blog/treat-clusters-as-cattle/</id>
-        <link href="https://zitadel.ch/blog/treat-clusters-as-cattle/"/>
-        <updated>2021-06-30T13:24:36.000Z</updated>
+        <title type="html"><![CDATA[Robinhood S-1 IPO]]></title>
+        <id>https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm</id>
+        <link href="https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm"/>
+        <updated>2021-07-01T17:18:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Link rot and content drift are endemic to the web]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</id>
-        <link href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/"/>
-        <updated>2021-06-30T13:15:35.000Z</updated>
+        <title type="html"><![CDATA[IT Without Software]]></title>
+        <id>http://ndt.instedd.org/2010/05/it-without-software.html?m=1</id>
+        <link href="http://ndt.instedd.org/2010/05/it-without-software.html?m=1"/>
+        <updated>2021-07-01T16:36:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Black Hat Exploits of the Stupid-Easy 80s]]></title>
-        <id>https://madned.substack.com/p/black-hat-exploits-of-the-stupid</id>
-        <link href="https://madned.substack.com/p/black-hat-exploits-of-the-stupid"/>
-        <updated>2021-06-30T12:44:24.000Z</updated>
+        <title type="html"><![CDATA[Stripe Atlas: the first five years and 20k startups]]></title>
+        <id>https://stripe.com/blog/atlas-first-five-years</id>
+        <link href="https://stripe.com/blog/atlas-first-five-years"/>
+        <updated>2021-07-01T16:20:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Great Resignation’ gains steam as return-to-work plans take effect]]></title>
-        <id>https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html</id>
-        <link href="https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html"/>
-        <updated>2021-06-30T12:25:40.000Z</updated>
+        <title type="html"><![CDATA[Show HN: VentScape – Minimalistic site to vent, chat and see others do the same]]></title>
+        <id>https://www.ventscape.life/chat</id>
+        <link href="https://www.ventscape.life/chat"/>
+        <updated>2021-07-01T16:12:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub co-pilot as open source code laundering?]]></title>
-        <id>https://twitter.com/eevee/status/1410037309848752128</id>
-        <link href="https://twitter.com/eevee/status/1410037309848752128"/>
-        <updated>2021-06-30T12:00:41.000Z</updated>
+        <title type="html"><![CDATA[Launch HN: Flowly (YC S21) – Manage pain using VR and biofeedback]]></title>
+        <id>https://news.ycombinator.com/item?id=27700688</id>
+        <link href="https://news.ycombinator.com/item?id=27700688"/>
+        <updated>2021-07-01T16:12:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software estimation is hard – do it anyway]]></title>
-        <id>https://jacobian.org/2021/may/20/estimation/</id>
-        <link href="https://jacobian.org/2021/may/20/estimation/"/>
-        <updated>2021-06-30T11:29:57.000Z</updated>
+        <title type="html"><![CDATA[Ask HN: Who is hiring? (July 2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27699704</id>
+        <link href="https://news.ycombinator.com/item?id=27699704"/>
+        <updated>2021-07-01T15:01:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: A Philosophy of Software Design (2020)]]></title>
-        <id>https://johz.bearblog.dev/book-review-philosophy-software-design/</id>
-        <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
-        <updated>2021-06-30T10:14:33.000Z</updated>
+        <title type="html"><![CDATA[Ask HN: Who wants to be hired? (July 2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27699702</id>
+        <link href="https://news.ycombinator.com/item?id=27699702"/>
+        <updated>2021-07-01T15:01:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)]]></title>
-        <id>https://publicdomainreview.org/collection/japanese-fireworks-catalogues</id>
-        <link href="https://publicdomainreview.org/collection/japanese-fireworks-catalogues"/>
-        <updated>2021-06-30T04:32:54.000Z</updated>
+        <title type="html"><![CDATA[British right to repair law excludes smartphones and computers]]></title>
+        <id>https://9to5mac.com/2021/07/01/british-right-to-repair-law/</id>
+        <link href="https://9to5mac.com/2021/07/01/british-right-to-repair-law/"/>
+        <updated>2021-07-01T14:06:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A foreign seller has hijacked my Amazon Klein bottle listing]]></title>
-        <id>https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING</id>
-        <link href="https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING"/>
-        <updated>2021-06-30T04:18:34.000Z</updated>
+        <title type="html"><![CDATA[REPL vs CLI: IDE wars]]></title>
+        <id>https://vlaaad.github.io/clj-vs-cli</id>
+        <link href="https://vlaaad.github.io/clj-vs-cli"/>
+        <updated>2021-07-01T13:46:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Funazushi: The fermented predecessor of modern sushi]]></title>
-        <id>https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&amp;utm_medium=email</id>
-        <link href="https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&amp;utm_medium=email"/>
-        <updated>2021-06-29T21:46:52.000Z</updated>
+        <title type="html"><![CDATA[An efficient way to make hash maps with insertion ordering]]></title>
+        <id>https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a</id>
+        <link href="https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a"/>
+        <updated>2021-07-01T11:21:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Changing how I review code]]></title>
-        <id>https://itnext.io/im-changing-how-i-review-code-dbf212507e5f</id>
-        <link href="https://itnext.io/im-changing-how-i-review-code-dbf212507e5f"/>
-        <updated>2021-06-29T21:35:59.000Z</updated>
+        <title type="html"><![CDATA[Micron to Sell 3D XPoint Fab to Texas Instruments for $900M]]></title>
+        <id>https://www.tomshardware.com/news/micron-to-sell-3d-xpoint-fab-to-texas-instruments-for-dollar900-million</id>
+        <link href="https://www.tomshardware.com/news/micron-to-sell-3d-xpoint-fab-to-texas-instruments-for-dollar900-million"/>
+        <updated>2021-07-01T11:21:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s an Intellivision Amico? Console’s leaky dev portal offers hints]]></title>
-        <id>https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/</id>
-        <link href="https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/"/>
-        <updated>2021-06-29T20:05:05.000Z</updated>
+        <title type="html"><![CDATA[Uno – the “unit” for dimensionless quantities]]></title>
+        <id>https://en.wikipedia.org/wiki/Parts-per_notation#Uno</id>
+        <link href="https://en.wikipedia.org/wiki/Parts-per_notation#Uno"/>
+        <updated>2021-07-01T10:34:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Families of Choice: On the Shakers and Catholics in Early America]]></title>
-        <id>https://www.laphamsquarterly.org/roundtable/families-choice</id>
-        <link href="https://www.laphamsquarterly.org/roundtable/families-choice"/>
-        <updated>2021-06-29T05:49:51.000Z</updated>
+        <title type="html"><![CDATA[Mudras in Indian Dance]]></title>
+        <id>https://www.webindia123.com/dances/abhinaya/angika%20bhinaya/asamyukta.htm</id>
+        <link href="https://www.webindia123.com/dances/abhinaya/angika%20bhinaya/asamyukta.htm"/>
+        <updated>2021-07-01T01:38:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supreme Authority: How Webster’s Dictionary Defined American Cultural Beliefs]]></title>
-        <id>https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536</id>
-        <link href="https://www.bookforum.com/culture/how-merriam-webster-s-dictionary-defined-american-cultural-beliefs-24536"/>
-        <updated>2021-06-29T00:58:23.000Z</updated>
+        <title type="html"><![CDATA[Building my own web analytics tool]]></title>
+        <id>https://johnmathews.eu/building-my-own-site-analytics.html</id>
+        <link href="https://johnmathews.eu/building-my-own-site-analytics.html"/>
+        <updated>2021-06-30T10:24:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“The Martian” + Starship]]></title>
-        <id>https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/</id>
-        <link href="https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/"/>
-        <updated>2021-06-28T16:17:32.000Z</updated>
+        <title type="html"><![CDATA[Data notation in Clojure]]></title>
+        <id>https://ostash.dev/posts/2021-06-24-edn-data-notation/</id>
+        <link href="https://ostash.dev/posts/2021-06-24-edn-data-notation/"/>
+        <updated>2021-06-30T07:23:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Method of Loci: Build Your Memory Palace]]></title>
-        <id>https://fs.blog/2021/06/memory-palace/</id>
-        <link href="https://fs.blog/2021/06/memory-palace/"/>
-        <updated>2021-06-28T13:16:39.000Z</updated>
+        <title type="html"><![CDATA[A sharp-eyed scientist became biology’s image detective]]></title>
+        <id>https://www.newyorker.com/science/elements/how-a-sharp-eyed-scientist-became-biologys-image-detective</id>
+        <link href="https://www.newyorker.com/science/elements/how-a-sharp-eyed-scientist-became-biologys-image-detective"/>
+        <updated>2021-06-29T21:50:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
