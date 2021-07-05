@@ -6,49 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
+          "id": "https://stockfishchess.org/blog/2021/stockfish-14/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
-          "publishedOn": "2021-07-03T23:13:39.000Z",
-          "wordCount": 1311,
-          "title": "Israeli camouflage tech makes soldiers ‘invisible’"
+          "link": "https://stockfishchess.org/blog/2021/stockfish-14/",
+          "publishedOn": "2021-07-04T23:29:14.000Z",
+          "wordCount": 397,
+          "title": "Stockfish 14 Released"
         },
         {
-          "id": "https://www.easypost.com/careers",
+          "id": "https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2021-07-03T21:00:00.000Z",
-          "wordCount": 381,
-          "title": "EasyPost is building the logistics platform for ecommerce"
+          "link": "https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html",
+          "publishedOn": "2021-07-04T21:40:29.000Z",
+          "wordCount": 2567,
+          "title": "Condo Wreckage Hints at Less Steel in Columns Than Design Drawings"
         },
         {
-          "id": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
+          "id": "https://www.nature.com/articles/s41929-021-00642-w",
           "author": null,
           "description": "Comments",
-          "link": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
-          "publishedOn": "2021-07-03T20:31:44.000Z",
-          "wordCount": 7743,
-          "title": "Microbes in cow stomachs can break down plastic"
+          "link": "https://www.nature.com/articles/s41929-021-00642-w",
+          "publishedOn": "2021-07-04T20:12:30.000Z",
+          "wordCount": 3460,
+          "title": "A residue-free approach to water disinfection using catalytic generation"
         },
         {
-          "id": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
+          "id": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
           "author": null,
           "description": "Comments",
-          "link": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
-          "publishedOn": "2021-07-03T20:07:25.000Z",
-          "wordCount": 1872,
-          "title": "How Databases handle 10M devices in high-cardinality benchmarks"
+          "link": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
+          "publishedOn": "2021-07-04T20:07:51.000Z",
+          "wordCount": 215,
+          "title": "PID Controller for controlling the number of servers in a data-center"
         },
         {
-          "id": "https://jamesl.me/atto/",
+          "id": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
           "author": null,
           "description": "Comments",
-          "link": "https://jamesl.me/atto/",
-          "publishedOn": "2021-07-03T19:44:54.000Z",
-          "wordCount": 3,
-          "title": "Show HN: Atto – BASIC computer that runs in the browser"
+          "link": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
+          "publishedOn": "2021-07-04T19:53:02.000Z",
+          "wordCount": 18,
+          "title": "Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly"
+        },
+        {
+          "id": "https://cstack.github.io/db_tutorial/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cstack.github.io/db_tutorial/",
+          "publishedOn": "2021-07-04T19:22:47.000Z",
+          "wordCount": 261,
+          "title": "Writing a SQLite clone from scratch in C (2017)"
+        },
+        {
+          "id": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+          "publishedOn": "2021-07-04T19:14:24.000Z",
+          "wordCount": 2128,
+          "title": "Archive and genealogy of all Quake 1 bots"
+        },
+        {
+          "id": "https://github.com/jdhayford/acid-tabs-extension",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jdhayford/acid-tabs-extension",
+          "publishedOn": "2021-07-04T18:54:58.000Z",
+          "wordCount": 732,
+          "title": "Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns"
+        },
+        {
+          "id": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
+          "publishedOn": "2021-07-04T18:39:02.000Z",
+          "wordCount": 3425,
+          "title": "Bypassing macOS TCC user privacy protections by accident and design"
+        },
+        {
+          "id": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
+          "author": null,
+          "description": "Comments",
+          "link": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
+          "publishedOn": "2021-07-04T18:32:43.000Z",
+          "wordCount": 2866,
+          "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition"
+        },
+        {
+          "id": "https://techcrunch.com/2016/06/07/flexport/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2016/06/07/flexport/",
+          "publishedOn": "2021-07-04T17:00:16.000Z",
+          "wordCount": 1264,
+          "title": "Flexport (YC W14) Is Hiring"
+        },
+        {
+          "id": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
+          "publishedOn": "2021-07-04T16:31:43.000Z",
+          "wordCount": 3524,
+          "title": "Write a time-series database engine from scratch"
+        },
+        {
+          "id": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
+          "publishedOn": "2021-07-04T16:29:33.000Z",
+          "wordCount": null,
+          "title": "Is Alexandra Elbakyan in real trouble this time?"
+        },
+        {
+          "id": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
+          "publishedOn": "2021-07-04T16:24:32.000Z",
+          "wordCount": 1695,
+          "title": "Ray: A Distributed Framework for Emerging AI Applications"
+        },
+        {
+          "id": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
+          "publishedOn": "2021-07-04T16:06:13.000Z",
+          "wordCount": 3627,
+          "title": "Lessons from 20 years of hype cycles (2016)"
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
+          "publishedOn": "2021-07-04T15:51:58.000Z",
+          "wordCount": 2534,
+          "title": "The future is in symmetrical, high-speed internet speeds"
+        },
+        {
+          "id": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+          "author": null,
+          "description": "Comments",
+          "link": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+          "publishedOn": "2021-07-04T13:49:49.000Z",
+          "wordCount": 2581,
+          "title": "The Idempotency-Key HTTP header field"
+        },
+        {
+          "id": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
+          "publishedOn": "2021-07-04T13:19:48.000Z",
+          "wordCount": 3190,
+          "title": "Dynamic Linking Best Practices"
+        },
+        {
+          "id": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+          "publishedOn": "2021-07-04T13:16:42.000Z",
+          "wordCount": 1519,
+          "title": "Underground fiber optics spy on humans moving above"
+        },
+        {
+          "id": "https://mazzo.li/posts/c-performance-anecdote.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mazzo.li/posts/c-performance-anecdote.html",
+          "publishedOn": "2021-07-04T13:12:39.000Z",
+          "wordCount": 1111,
+          "title": "When static makes your C code 10 times faster"
+        },
+        {
+          "id": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
+          "publishedOn": "2021-07-04T13:04:55.000Z",
+          "wordCount": 2343,
+          "title": "Blender and the Rabbids"
+        },
+        {
+          "id": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
+          "publishedOn": "2021-07-04T12:36:17.000Z",
+          "wordCount": 704,
+          "title": "Stop mocking your system"
+        },
+        {
+          "id": "https://readyui.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://readyui.co/",
+          "publishedOn": "2021-07-04T11:57:50.000Z",
+          "wordCount": 674,
+          "title": "Show HN:  Ready UI – Bootstrap UI blocks"
+        },
+        {
+          "id": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+          "publishedOn": "2021-07-04T11:42:58.000Z",
+          "wordCount": 1332,
+          "title": "The Powder Toy"
+        },
+        {
+          "id": "https://ena.computer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ena.computer/",
+          "publishedOn": "2021-07-04T09:56:39.000Z",
+          "wordCount": 546,
+          "title": "Electron tube New Automatic Computer"
+        },
+        {
+          "id": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
+          "publishedOn": "2021-07-04T09:13:12.000Z",
+          "wordCount": 1209,
+          "title": "Single random bit flip causes error in certificate transparency log"
+        },
+        {
+          "id": "https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826",
+          "publishedOn": "2021-07-04T04:31:14.000Z",
+          "wordCount": 1355,
+          "title": "‘Highly Irregular’ Review: An Eloquent Confusion"
+        },
+        {
+          "id": "https://thistooshallgrow.com/blog/mindful-mobile-os",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thistooshallgrow.com/blog/mindful-mobile-os",
+          "publishedOn": "2021-07-03T20:40:05.000Z",
+          "wordCount": 1705,
+          "title": "A Mindful Mobile OS"
         },
         {
           "id": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
@@ -60,220 +267,13 @@
           "title": "How not to break a search engine"
         },
         {
-          "id": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
+          "id": "https://review.firstround.com/the-right-way-to-ship-software",
           "author": null,
           "description": "Comments",
-          "link": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
-          "publishedOn": "2021-07-03T19:24:28.000Z",
-          "wordCount": 235,
-          "title": "The Dawn of Formalized Mathematics"
-        },
-        {
-          "id": "https://thelig.ht/abandoning-github/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thelig.ht/abandoning-github/",
-          "publishedOn": "2021-07-03T19:21:17.000Z",
-          "wordCount": 102,
-          "title": "I do not agree with Github's use of copyrighted code as training for Copilot"
-        },
-        {
-          "id": "https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/",
-          "publishedOn": "2021-07-03T19:17:54.000Z",
-          "wordCount": 1282,
-          "title": "Monitor Lizards in Australia Dig Corkscrew Nests"
-        },
-        {
-          "id": "https://www.wired.co.uk/article/natures-safe",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.co.uk/article/natures-safe",
-          "publishedOn": "2021-07-03T19:14:45.000Z",
-          "wordCount": 4775,
-          "title": "One man’s plan to resurrect the animal species we can’t save"
-        },
-        {
-          "id": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-          "publishedOn": "2021-07-03T19:13:44.000Z",
-          "wordCount": 2339,
-          "title": "Will we ever fly supersonically over land?"
-        },
-        {
-          "id": "https://docs.github.com/en/github/copilot/research-recitation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://docs.github.com/en/github/copilot/research-recitation",
-          "publishedOn": "2021-07-03T18:32:08.000Z",
-          "wordCount": 3403,
-          "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions"
-        },
-        {
-          "id": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
-          "publishedOn": "2021-07-03T17:55:05.000Z",
-          "wordCount": 2110,
-          "title": "The Metaverse: A brave, new virtual world"
-        },
-        {
-          "id": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
-          "author": null,
-          "description": "Comments",
-          "link": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
-          "publishedOn": "2021-07-03T17:38:50.000Z",
-          "wordCount": 2409,
-          "title": "Using government guidelines to police content: state censorship?"
-        },
-        {
-          "id": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
-          "publishedOn": "2021-07-03T16:52:01.000Z",
-          "wordCount": 1312,
-          "title": "We don’t have unprofitable customers, just unhappy accidents (2019)"
-        },
-        {
-          "id": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-          "publishedOn": "2021-07-03T16:50:07.000Z",
-          "wordCount": 2453,
-          "title": "How to add eBPF observability to your product"
-        },
-        {
-          "id": "https://www.thanassis.space/miniforth.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thanassis.space/miniforth.html",
-          "publishedOn": "2021-07-03T16:33:44.000Z",
-          "wordCount": 1855,
-          "title": "Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)"
-        },
-        {
-          "id": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-          "publishedOn": "2021-07-03T15:39:05.000Z",
-          "wordCount": 636,
-          "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition"
-        },
-        {
-          "id": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-          "publishedOn": "2021-07-03T15:27:32.000Z",
-          "wordCount": 1900,
-          "title": "Things I wish Git had: Commit groups"
-        },
-        {
-          "id": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-          "publishedOn": "2021-07-03T14:14:40.000Z",
-          "wordCount": 2812,
-          "title": "What did ancient languages sound like?"
-        },
-        {
-          "id": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
-          "publishedOn": "2021-07-03T13:55:40.000Z",
-          "wordCount": 2083,
-          "title": "Bay Area cities want to end single-family home zoning"
-        },
-        {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead",
-          "publishedOn": "2021-07-03T13:30:21.000Z",
-          "wordCount": 4066,
-          "title": "A woman's battle to prove she isn't dead"
-        },
-        {
-          "id": "https://wiki.squeak.org/squeak/6622",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wiki.squeak.org/squeak/6622",
-          "publishedOn": "2021-07-03T12:54:20.000Z",
-          "wordCount": 1127,
-          "title": "Learning Squeak (2019)"
-        },
-        {
-          "id": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-          "author": null,
-          "description": "Comments",
-          "link": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-          "publishedOn": "2021-07-03T11:35:16.000Z",
-          "wordCount": 1578,
-          "title": "Suppose I wanted to kill a lot of pilots"
-        },
-        {
-          "id": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
-          "publishedOn": "2021-07-03T09:57:38.000Z",
-          "wordCount": 1518,
-          "title": "The ‘flow state’: Where creative work thrives (2019)"
-        },
-        {
-          "id": "https://google.aip.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://google.aip.dev/",
-          "publishedOn": "2021-07-02T20:57:33.000Z",
-          "wordCount": 244,
-          "title": "API Improvement Proposals"
-        },
-        {
-          "id": "https://umap-learn.readthedocs.io/en/latest/how_umap_works.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://umap-learn.readthedocs.io/en/latest/how_umap_works.html",
-          "publishedOn": "2021-07-02T12:04:06.000Z",
-          "wordCount": 4711,
-          "title": "How UMAP Works"
-        },
-        {
-          "id": "https://github.com/no-defun-allowed/wasm2ps",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/no-defun-allowed/wasm2ps",
-          "publishedOn": "2021-07-02T08:10:12.000Z",
-          "wordCount": 624,
-          "title": "WASM to PS Compiler"
-        },
-        {
-          "id": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
-          "publishedOn": "2021-07-02T07:21:44.000Z",
-          "wordCount": 2144,
-          "title": "CDNs and Centrality"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-          "publishedOn": "2021-07-01T08:49:57.000Z",
-          "wordCount": 1166,
-          "title": "Steve Jobs in Kyoto"
+          "link": "https://review.firstround.com/the-right-way-to-ship-software",
+          "publishedOn": "2021-07-03T11:01:42.000Z",
+          "wordCount": 2591,
+          "title": "Ways to ship software"
         }
       ]
     }
