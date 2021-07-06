@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T00:53:36.262Z</id>
+    <id>urn:2021-07-06T00:57:56.311Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:53:36.262Z</updated>
+    <updated>2021-07-06T00:57:56.311Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Stockfish 14 Released]]></title>
-        <id>https://stockfishchess.org/blog/2021/stockfish-14/</id>
-        <link href="https://stockfishchess.org/blog/2021/stockfish-14/"/>
-        <updated>2021-07-04T23:29:14.000Z</updated>
+        <title type="html"><![CDATA[The Long History of 'Bombay Time' and Resistance to Colonial Rule]]></title>
+        <id>https://www.atlasobscura.com/articles/bombay-time</id>
+        <link href="https://www.atlasobscura.com/articles/bombay-time"/>
+        <updated>2021-07-06T00:02:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Condo Wreckage Hints at Less Steel in Columns Than Design Drawings]]></title>
-        <id>https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html</id>
-        <link href="https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html"/>
-        <updated>2021-07-04T21:40:29.000Z</updated>
+        <title type="html"><![CDATA[Tough Turban: an open-source design for turban-wearing motorcyclists]]></title>
+        <id>https://toughturban.com/</id>
+        <link href="https://toughturban.com/"/>
+        <updated>2021-07-05T23:32:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A residue-free approach to water disinfection using catalytic generation]]></title>
-        <id>https://www.nature.com/articles/s41929-021-00642-w</id>
-        <link href="https://www.nature.com/articles/s41929-021-00642-w"/>
-        <updated>2021-07-04T20:12:30.000Z</updated>
+        <title type="html"><![CDATA[A primer on carbon pricing and carbon border adjustments]]></title>
+        <id>https://economics.td.com/esg-carbon-report</id>
+        <link href="https://economics.td.com/esg-carbon-report"/>
+        <updated>2021-07-05T22:58:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PID Controller for controlling the number of servers in a data-center]]></title>
-        <id>https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5</id>
-        <link href="https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5"/>
-        <updated>2021-07-04T20:07:51.000Z</updated>
+        <title type="html"><![CDATA[RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism]]></title>
+        <id>https://github.com/rustviz/rustviz</id>
+        <link href="https://github.com/rustviz/rustviz"/>
+        <updated>2021-07-05T21:25:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly]]></title>
-        <id>https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/</id>
-        <link href="https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/"/>
-        <updated>2021-07-04T19:53:02.000Z</updated>
+        <title type="html"><![CDATA[Audacity fork without any sentry telemetry or crash reporting]]></title>
+        <id>https://github.com/cookiengineer/audacity</id>
+        <link href="https://github.com/cookiengineer/audacity"/>
+        <updated>2021-07-05T21:18:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing a SQLite clone from scratch in C (2017)]]></title>
-        <id>https://cstack.github.io/db_tutorial/</id>
-        <link href="https://cstack.github.io/db_tutorial/"/>
-        <updated>2021-07-04T19:22:47.000Z</updated>
+        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Product Managers]]></title>
+        <id>https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News</id>
+        <link href="https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
+        <updated>2021-07-05T21:00:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archive and genealogy of all Quake 1 bots]]></title>
-        <id>https://github.com/Jason2Brownlee/QuakeBotArchive</id>
-        <link href="https://github.com/Jason2Brownlee/QuakeBotArchive"/>
-        <updated>2021-07-04T19:14:24.000Z</updated>
+        <title type="html"><![CDATA[How iOS 15 makes apps launch faster]]></title>
+        <id>https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520</id>
+        <link href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520"/>
+        <updated>2021-07-05T19:42:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns]]></title>
-        <id>https://github.com/jdhayford/acid-tabs-extension</id>
-        <link href="https://github.com/jdhayford/acid-tabs-extension"/>
-        <updated>2021-07-04T18:54:58.000Z</updated>
+        <title type="html"><![CDATA[Student designs device that stops blood loss from stab wounds]]></title>
+        <id>https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html</id>
+        <link href="https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html"/>
+        <updated>2021-07-05T19:41:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bypassing macOS TCC user privacy protections by accident and design]]></title>
-        <id>https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/</id>
-        <link href="https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/"/>
-        <updated>2021-07-04T18:39:02.000Z</updated>
+        <title type="html"><![CDATA[Writing a firmware-only keylogger]]></title>
+        <id>https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html</id>
+        <link href="https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html"/>
+        <updated>2021-07-05T17:54:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU antitrust: Apple shouldn't use privacy and security to stave off competition]]></title>
-        <id>https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition</id>
-        <link href="https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition"/>
-        <updated>2021-07-04T18:32:43.000Z</updated>
+        <title type="html"><![CDATA[Transfer.sh – Easy file sharing from the command line]]></title>
+        <id>https://transfer.sh</id>
+        <link href="https://transfer.sh"/>
+        <updated>2021-07-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flexport (YC W14) Is Hiring]]></title>
-        <id>https://techcrunch.com/2016/06/07/flexport/</id>
-        <link href="https://techcrunch.com/2016/06/07/flexport/"/>
-        <updated>2021-07-04T17:00:16.000Z</updated>
+        <title type="html"><![CDATA[Ever Given: Egypt agrees deal to release ship that blocked Suez Canal]]></title>
+        <id>https://www.bbc.com/news/world-middle-east-57719551</id>
+        <link href="https://www.bbc.com/news/world-middle-east-57719551"/>
+        <updated>2021-07-05T17:02:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Write a time-series database engine from scratch]]></title>
-        <id>https://nakabonne.dev/posts/write-tsdb-from-scratch/</id>
-        <link href="https://nakabonne.dev/posts/write-tsdb-from-scratch/"/>
-        <updated>2021-07-04T16:31:43.000Z</updated>
+        <title type="html"><![CDATA[Design Engineering Handbook [pdf]]]></title>
+        <id>https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf</id>
+        <link href="https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf"/>
+        <updated>2021-07-05T16:47:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Alexandra Elbakyan in real trouble this time?]]></title>
-        <id>https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time</id>
-        <link href="https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time"/>
-        <updated>2021-07-04T16:29:33.000Z</updated>
+        <title type="html"><![CDATA[AI Explorables: big ideas in machine learning, simply explained]]></title>
+        <id>https://pair.withgoogle.com/explorables/</id>
+        <link href="https://pair.withgoogle.com/explorables/"/>
+        <updated>2021-07-05T16:41:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ray: A Distributed Framework for Emerging AI Applications]]></title>
-        <id>https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html</id>
-        <link href="https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html"/>
-        <updated>2021-07-04T16:24:32.000Z</updated>
+        <title type="html"><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
+        <id>https://feed-me-up-scotty.vincenttunru.com/</id>
+        <link href="https://feed-me-up-scotty.vincenttunru.com/"/>
+        <updated>2021-07-05T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons from 20 years of hype cycles (2016)]]></title>
-        <id>https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany</id>
-        <link href="https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany"/>
-        <updated>2021-07-04T16:06:13.000Z</updated>
+        <title type="html"><![CDATA[Tony Hoare answers questions [video]]]></title>
+        <id>https://www.newton.ac.uk/seminar/20210607180018301/</id>
+        <link href="https://www.newton.ac.uk/seminar/20210607180018301/"/>
+        <updated>2021-07-05T16:20:58.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The future is in symmetrical, high-speed internet speeds]]></title>
-        <id>https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds</id>
-        <link href="https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds"/>
-        <updated>2021-07-04T15:51:58.000Z</updated>
+        <title type="html"><![CDATA[Measuring memory usage in Python: it’s tricky]]></title>
+        <id>https://pythonspeed.com/articles/measuring-memory-python/</id>
+        <link href="https://pythonspeed.com/articles/measuring-memory-python/"/>
+        <updated>2021-07-05T14:52:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Idempotency-Key HTTP header field]]></title>
-        <id>https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00</id>
-        <link href="https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00"/>
-        <updated>2021-07-04T13:49:49.000Z</updated>
+        <title type="html"><![CDATA[Computing Performance on the Horizon]]></title>
+        <id>https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html</id>
+        <link href="https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html"/>
+        <updated>2021-07-05T14:24:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamic Linking Best Practices]]></title>
-        <id>https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2</id>
-        <link href="https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2"/>
-        <updated>2021-07-04T13:19:48.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Lego Brick Scanner – open-source Boilerplate]]></title>
+        <id>https://github.com/GistNoesis/BrickRegistration</id>
+        <link href="https://github.com/GistNoesis/BrickRegistration"/>
+        <updated>2021-07-05T14:15:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Underground fiber optics spy on humans moving above]]></title>
-        <id>https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/</id>
-        <link href="https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/"/>
-        <updated>2021-07-04T13:16:42.000Z</updated>
+        <title type="html"><![CDATA[How we trace a KV database with less than 5% performance impact]]></title>
+        <id>https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact</id>
+        <link href="https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact"/>
+        <updated>2021-07-05T14:05:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When static makes your C code 10 times faster]]></title>
-        <id>https://mazzo.li/posts/c-performance-anecdote.html</id>
-        <link href="https://mazzo.li/posts/c-performance-anecdote.html"/>
-        <updated>2021-07-04T13:12:39.000Z</updated>
+        <title type="html"><![CDATA[The future of deep learning is photonic]]></title>
+        <id>https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic</id>
+        <link href="https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic"/>
+        <updated>2021-07-05T13:56:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender and the Rabbids]]></title>
-        <id>https://www.blender.org/user-stories/blender-and-the-rabbids/</id>
-        <link href="https://www.blender.org/user-stories/blender-and-the-rabbids/"/>
-        <updated>2021-07-04T13:04:55.000Z</updated>
+        <title type="html"><![CDATA[Music for Programming]]></title>
+        <id>https://www.musicforprogramming.net/</id>
+        <link href="https://www.musicforprogramming.net/"/>
+        <updated>2021-07-05T13:42:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop mocking your system]]></title>
-        <id>https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/</id>
-        <link href="https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/"/>
-        <updated>2021-07-04T12:36:17.000Z</updated>
+        <title type="html"><![CDATA[XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76]]></title>
+        <id>https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/</id>
+        <link href="https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/"/>
+        <updated>2021-07-05T13:24:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN:  Ready UI – Bootstrap UI blocks]]></title>
-        <id>https://readyui.co/</id>
-        <link href="https://readyui.co/"/>
-        <updated>2021-07-04T11:57:50.000Z</updated>
+        <title type="html"><![CDATA[A Closer Look at Fractals]]></title>
+        <id>https://blog.fract.al/post/62180302979/a-closer-look-at-fractals</id>
+        <link href="https://blog.fract.al/post/62180302979/a-closer-look-at-fractals"/>
+        <updated>2021-07-05T13:22:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Powder Toy]]></title>
-        <id>https://github.com/The-Powder-Toy/The-Powder-Toy</id>
-        <link href="https://github.com/The-Powder-Toy/The-Powder-Toy"/>
-        <updated>2021-07-04T11:42:58.000Z</updated>
+        <title type="html"><![CDATA[Everything useful I know about kubectl]]></title>
+        <id>https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/</id>
+        <link href="https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/"/>
+        <updated>2021-07-05T12:04:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron tube New Automatic Computer]]></title>
-        <id>https://ena.computer/</id>
-        <link href="https://ena.computer/"/>
-        <updated>2021-07-04T09:56:39.000Z</updated>
+        <title type="html"><![CDATA[Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile]]></title>
+        <id>https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/</id>
+        <link href="https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/"/>
+        <updated>2021-07-05T11:20:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Single random bit flip causes error in certificate transparency log]]></title>
-        <id>https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/</id>
-        <link href="https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/"/>
-        <updated>2021-07-04T09:13:12.000Z</updated>
+        <title type="html"><![CDATA[The Rise and Fall of the OLAP Cube (2020)]]></title>
+        <id>https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/</id>
+        <link href="https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/"/>
+        <updated>2021-07-05T11:18:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Highly Irregular’ Review: An Eloquent Confusion]]></title>
-        <id>https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826</id>
-        <link href="https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826"/>
-        <updated>2021-07-04T04:31:14.000Z</updated>
+        <title type="html"><![CDATA[GitHub Copilot is not infringing copyright]]></title>
+        <id>https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/</id>
+        <link href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/"/>
+        <updated>2021-07-05T11:10:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Mindful Mobile OS]]></title>
-        <id>https://thistooshallgrow.com/blog/mindful-mobile-os</id>
-        <link href="https://thistooshallgrow.com/blog/mindful-mobile-os"/>
-        <updated>2021-07-03T20:40:05.000Z</updated>
+        <title type="html"><![CDATA[Shadows Walking: With Wallace Stevens in New Haven]]></title>
+        <id>https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/</id>
+        <link href="https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/"/>
+        <updated>2021-07-05T06:53:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How not to break a search engine]]></title>
-        <id>https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/</id>
-        <link href="https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/"/>
-        <updated>2021-07-03T19:43:38.000Z</updated>
+        <title type="html"><![CDATA[Variable Length Arrays are problematic]]></title>
+        <id>https://blog.joren.ga/programming/vla-bad</id>
+        <link href="https://blog.joren.ga/programming/vla-bad"/>
+        <updated>2021-07-05T04:41:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ways to ship software]]></title>
-        <id>https://review.firstround.com/the-right-way-to-ship-software</id>
-        <link href="https://review.firstround.com/the-right-way-to-ship-software"/>
-        <updated>2021-07-03T11:01:42.000Z</updated>
+        <title type="html"><![CDATA[The Programmer's Brain]]></title>
+        <id>https://www.manning.com/books/the-programmers-brain</id>
+        <link href="https://www.manning.com/books/the-programmers-brain"/>
+        <updated>2021-07-05T03:46:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

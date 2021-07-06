@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://stockfishchess.org/blog/2021/stockfish-14/",
+          "id": "https://www.atlasobscura.com/articles/bombay-time",
           "author": null,
           "description": "Comments",
-          "link": "https://stockfishchess.org/blog/2021/stockfish-14/",
-          "publishedOn": "2021-07-04T23:29:14.000Z",
-          "wordCount": 397,
-          "title": "Stockfish 14 Released"
+          "link": "https://www.atlasobscura.com/articles/bombay-time",
+          "publishedOn": "2021-07-06T00:02:49.000Z",
+          "wordCount": 3259,
+          "title": "The Long History of 'Bombay Time' and Resistance to Colonial Rule"
         },
         {
-          "id": "https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html",
+          "id": "https://toughturban.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html",
-          "publishedOn": "2021-07-04T21:40:29.000Z",
-          "wordCount": 2567,
-          "title": "Condo Wreckage Hints at Less Steel in Columns Than Design Drawings"
+          "link": "https://toughturban.com/",
+          "publishedOn": "2021-07-05T23:32:15.000Z",
+          "wordCount": 202,
+          "title": "Tough Turban: an open-source design for turban-wearing motorcyclists"
         },
         {
-          "id": "https://www.nature.com/articles/s41929-021-00642-w",
+          "id": "https://economics.td.com/esg-carbon-report",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nature.com/articles/s41929-021-00642-w",
-          "publishedOn": "2021-07-04T20:12:30.000Z",
-          "wordCount": 3460,
-          "title": "A residue-free approach to water disinfection using catalytic generation"
+          "link": "https://economics.td.com/esg-carbon-report",
+          "publishedOn": "2021-07-05T22:58:54.000Z",
+          "wordCount": 4777,
+          "title": "A primer on carbon pricing and carbon border adjustments"
         },
         {
-          "id": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
+          "id": "https://github.com/rustviz/rustviz",
           "author": null,
           "description": "Comments",
-          "link": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
-          "publishedOn": "2021-07-04T20:07:51.000Z",
-          "wordCount": 215,
-          "title": "PID Controller for controlling the number of servers in a data-center"
+          "link": "https://github.com/rustviz/rustviz",
+          "publishedOn": "2021-07-05T21:25:57.000Z",
+          "wordCount": 1616,
+          "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism"
         },
         {
-          "id": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
+          "id": "https://github.com/cookiengineer/audacity",
           "author": null,
           "description": "Comments",
-          "link": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
-          "publishedOn": "2021-07-04T19:53:02.000Z",
-          "wordCount": 18,
-          "title": "Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly"
+          "link": "https://github.com/cookiengineer/audacity",
+          "publishedOn": "2021-07-05T21:18:38.000Z",
+          "wordCount": 1182,
+          "title": "Audacity fork without any sentry telemetry or crash reporting"
         },
         {
-          "id": "https://cstack.github.io/db_tutorial/",
+          "id": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News",
           "author": null,
           "description": "Comments",
-          "link": "https://cstack.github.io/db_tutorial/",
-          "publishedOn": "2021-07-04T19:22:47.000Z",
-          "wordCount": 261,
-          "title": "Writing a SQLite clone from scratch in C (2017)"
+          "link": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News",
+          "publishedOn": "2021-07-05T21:00:11.000Z",
+          "wordCount": 559,
+          "title": "Rescale (YC W12) Is Hiring Product Managers"
         },
         {
-          "id": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+          "id": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/Jason2Brownlee/QuakeBotArchive",
-          "publishedOn": "2021-07-04T19:14:24.000Z",
-          "wordCount": 2128,
-          "title": "Archive and genealogy of all Quake 1 bots"
+          "link": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
+          "publishedOn": "2021-07-05T19:42:24.000Z",
+          "wordCount": 1611,
+          "title": "How iOS 15 makes apps launch faster"
         },
         {
-          "id": "https://github.com/jdhayford/acid-tabs-extension",
+          "id": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/jdhayford/acid-tabs-extension",
-          "publishedOn": "2021-07-04T18:54:58.000Z",
-          "wordCount": 732,
-          "title": "Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns"
-        },
-        {
-          "id": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
-          "publishedOn": "2021-07-04T18:39:02.000Z",
-          "wordCount": 3425,
-          "title": "Bypassing macOS TCC user privacy protections by accident and design"
-        },
-        {
-          "id": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
-          "author": null,
-          "description": "Comments",
-          "link": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
-          "publishedOn": "2021-07-04T18:32:43.000Z",
-          "wordCount": 2866,
-          "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition"
-        },
-        {
-          "id": "https://techcrunch.com/2016/06/07/flexport/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techcrunch.com/2016/06/07/flexport/",
-          "publishedOn": "2021-07-04T17:00:16.000Z",
-          "wordCount": 1264,
-          "title": "Flexport (YC W14) Is Hiring"
-        },
-        {
-          "id": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-          "publishedOn": "2021-07-04T16:31:43.000Z",
-          "wordCount": 3524,
-          "title": "Write a time-series database engine from scratch"
-        },
-        {
-          "id": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
-          "publishedOn": "2021-07-04T16:29:33.000Z",
+          "link": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
+          "publishedOn": "2021-07-05T19:41:05.000Z",
           "wordCount": null,
-          "title": "Is Alexandra Elbakyan in real trouble this time?"
+          "title": "Student designs device that stops blood loss from stab wounds"
         },
         {
-          "id": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
+          "id": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
-          "publishedOn": "2021-07-04T16:24:32.000Z",
-          "wordCount": 1695,
-          "title": "Ray: A Distributed Framework for Emerging AI Applications"
+          "link": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
+          "publishedOn": "2021-07-05T17:54:46.000Z",
+          "wordCount": 3048,
+          "title": "Writing a firmware-only keylogger"
         },
         {
-          "id": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
+          "id": "https://transfer.sh",
           "author": null,
           "description": "Comments",
-          "link": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
-          "publishedOn": "2021-07-04T16:06:13.000Z",
-          "wordCount": 3627,
-          "title": "Lessons from 20 years of hype cycles (2016)"
+          "link": "https://transfer.sh",
+          "publishedOn": "2021-07-05T17:22:16.000Z",
+          "wordCount": 219,
+          "title": "Transfer.sh – Easy file sharing from the command line"
         },
         {
-          "id": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
+          "id": "https://www.bbc.com/news/world-middle-east-57719551",
           "author": null,
           "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
-          "publishedOn": "2021-07-04T15:51:58.000Z",
-          "wordCount": 2534,
-          "title": "The future is in symmetrical, high-speed internet speeds"
+          "link": "https://www.bbc.com/news/world-middle-east-57719551",
+          "publishedOn": "2021-07-05T17:02:34.000Z",
+          "wordCount": 1098,
+          "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal"
         },
         {
-          "id": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+          "id": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
-          "publishedOn": "2021-07-04T13:49:49.000Z",
-          "wordCount": 2581,
-          "title": "The Idempotency-Key HTTP header field"
+          "link": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
+          "publishedOn": "2021-07-05T16:47:54.000Z",
+          "wordCount": 83325,
+          "title": "Design Engineering Handbook [pdf]"
         },
         {
-          "id": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
+          "id": "https://pair.withgoogle.com/explorables/",
           "author": null,
           "description": "Comments",
-          "link": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
-          "publishedOn": "2021-07-04T13:19:48.000Z",
-          "wordCount": 3190,
-          "title": "Dynamic Linking Best Practices"
+          "link": "https://pair.withgoogle.com/explorables/",
+          "publishedOn": "2021-07-05T16:41:33.000Z",
+          "wordCount": 221,
+          "title": "AI Explorables: big ideas in machine learning, simply explained"
         },
         {
-          "id": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+          "id": "https://feed-me-up-scotty.vincenttunru.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
-          "publishedOn": "2021-07-04T13:16:42.000Z",
-          "wordCount": 1519,
-          "title": "Underground fiber optics spy on humans moving above"
+          "link": "https://feed-me-up-scotty.vincenttunru.com/",
+          "publishedOn": "2021-07-05T16:28:02.000Z",
+          "wordCount": 123,
+          "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors"
         },
         {
-          "id": "https://mazzo.li/posts/c-performance-anecdote.html",
+          "id": "https://www.newton.ac.uk/seminar/20210607180018301/",
           "author": null,
           "description": "Comments",
-          "link": "https://mazzo.li/posts/c-performance-anecdote.html",
-          "publishedOn": "2021-07-04T13:12:39.000Z",
-          "wordCount": 1111,
-          "title": "When static makes your C code 10 times faster"
+          "link": "https://www.newton.ac.uk/seminar/20210607180018301/",
+          "publishedOn": "2021-07-05T16:20:58.000Z",
+          "wordCount": 1257,
+          "title": "Tony Hoare answers questions [video]"
         },
         {
-          "id": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
+          "id": "https://pythonspeed.com/articles/measuring-memory-python/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
-          "publishedOn": "2021-07-04T13:04:55.000Z",
-          "wordCount": 2343,
-          "title": "Blender and the Rabbids"
+          "link": "https://pythonspeed.com/articles/measuring-memory-python/",
+          "publishedOn": "2021-07-05T14:52:59.000Z",
+          "wordCount": 1591,
+          "title": "Measuring memory usage in Python: it’s tricky"
         },
         {
-          "id": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
+          "id": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
-          "publishedOn": "2021-07-04T12:36:17.000Z",
-          "wordCount": 704,
-          "title": "Stop mocking your system"
+          "link": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
+          "publishedOn": "2021-07-05T14:24:45.000Z",
+          "wordCount": 1706,
+          "title": "Computing Performance on the Horizon"
         },
         {
-          "id": "https://readyui.co/",
+          "id": "https://github.com/GistNoesis/BrickRegistration",
           "author": null,
           "description": "Comments",
-          "link": "https://readyui.co/",
-          "publishedOn": "2021-07-04T11:57:50.000Z",
-          "wordCount": 674,
-          "title": "Show HN:  Ready UI – Bootstrap UI blocks"
+          "link": "https://github.com/GistNoesis/BrickRegistration",
+          "publishedOn": "2021-07-05T14:15:41.000Z",
+          "wordCount": 797,
+          "title": "Show HN: Lego Brick Scanner – open-source Boilerplate"
         },
         {
-          "id": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+          "id": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/The-Powder-Toy/The-Powder-Toy",
-          "publishedOn": "2021-07-04T11:42:58.000Z",
-          "wordCount": 1332,
-          "title": "The Powder Toy"
+          "link": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
+          "publishedOn": "2021-07-05T14:05:53.000Z",
+          "wordCount": 2825,
+          "title": "How we trace a KV database with less than 5% performance impact"
         },
         {
-          "id": "https://ena.computer/",
+          "id": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
           "author": null,
           "description": "Comments",
-          "link": "https://ena.computer/",
-          "publishedOn": "2021-07-04T09:56:39.000Z",
-          "wordCount": 546,
-          "title": "Electron tube New Automatic Computer"
+          "link": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
+          "publishedOn": "2021-07-05T13:56:32.000Z",
+          "wordCount": 44,
+          "title": "The future of deep learning is photonic"
         },
         {
-          "id": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
+          "id": "https://www.musicforprogramming.net/",
           "author": null,
           "description": "Comments",
-          "link": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
-          "publishedOn": "2021-07-04T09:13:12.000Z",
-          "wordCount": 1209,
-          "title": "Single random bit flip causes error in certificate transparency log"
+          "link": "https://www.musicforprogramming.net/",
+          "publishedOn": "2021-07-05T13:42:09.000Z",
+          "wordCount": 316,
+          "title": "Music for Programming"
         },
         {
-          "id": "https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826",
+          "id": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826",
-          "publishedOn": "2021-07-04T04:31:14.000Z",
-          "wordCount": 1355,
-          "title": "‘Highly Irregular’ Review: An Eloquent Confusion"
+          "link": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
+          "publishedOn": "2021-07-05T13:24:11.000Z",
+          "wordCount": 1534,
+          "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76"
         },
         {
-          "id": "https://thistooshallgrow.com/blog/mindful-mobile-os",
+          "id": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
           "author": null,
           "description": "Comments",
-          "link": "https://thistooshallgrow.com/blog/mindful-mobile-os",
-          "publishedOn": "2021-07-03T20:40:05.000Z",
-          "wordCount": 1705,
-          "title": "A Mindful Mobile OS"
+          "link": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
+          "publishedOn": "2021-07-05T13:22:50.000Z",
+          "wordCount": 3342,
+          "title": "A Closer Look at Fractals"
         },
         {
-          "id": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
+          "id": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
           "author": null,
           "description": "Comments",
-          "link": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
-          "publishedOn": "2021-07-03T19:43:38.000Z",
-          "wordCount": 2615,
-          "title": "How not to break a search engine"
+          "link": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
+          "publishedOn": "2021-07-05T12:04:02.000Z",
+          "wordCount": 1478,
+          "title": "Everything useful I know about kubectl"
         },
         {
-          "id": "https://review.firstround.com/the-right-way-to-ship-software",
+          "id": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
           "author": null,
           "description": "Comments",
-          "link": "https://review.firstround.com/the-right-way-to-ship-software",
-          "publishedOn": "2021-07-03T11:01:42.000Z",
-          "wordCount": 2591,
-          "title": "Ways to ship software"
+          "link": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
+          "publishedOn": "2021-07-05T11:20:45.000Z",
+          "wordCount": 1103,
+          "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile"
+        },
+        {
+          "id": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
+          "publishedOn": "2021-07-05T11:18:33.000Z",
+          "wordCount": 4544,
+          "title": "The Rise and Fall of the OLAP Cube (2020)"
+        },
+        {
+          "id": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
+          "publishedOn": "2021-07-05T11:10:49.000Z",
+          "wordCount": 3307,
+          "title": "GitHub Copilot is not infringing copyright"
+        },
+        {
+          "id": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
+          "publishedOn": "2021-07-05T06:53:56.000Z",
+          "wordCount": 7071,
+          "title": "Shadows Walking: With Wallace Stevens in New Haven"
+        },
+        {
+          "id": "https://blog.joren.ga/programming/vla-bad",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.joren.ga/programming/vla-bad",
+          "publishedOn": "2021-07-05T04:41:36.000Z",
+          "wordCount": 2099,
+          "title": "Variable Length Arrays are problematic"
+        },
+        {
+          "id": "https://www.manning.com/books/the-programmers-brain",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.manning.com/books/the-programmers-brain",
+          "publishedOn": "2021-07-05T03:46:19.000Z",
+          "wordCount": 1297,
+          "title": "The Programmer's Brain"
         }
       ]
     }
