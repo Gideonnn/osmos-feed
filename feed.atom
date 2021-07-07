@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-06T00:57:56.311Z</id>
+    <id>urn:2021-07-07T00:57:29.235Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T00:57:56.311Z</updated>
+    <updated>2021-07-07T00:57:29.235Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Long History of 'Bombay Time' and Resistance to Colonial Rule]]></title>
-        <id>https://www.atlasobscura.com/articles/bombay-time</id>
-        <link href="https://www.atlasobscura.com/articles/bombay-time"/>
-        <updated>2021-07-06T00:02:49.000Z</updated>
+        <title type="html"><![CDATA[How useful was the Netflix Prize challenge for Netflix?]]></title>
+        <id>https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1</id>
+        <link href="https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1"/>
+        <updated>2021-07-07T00:04:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tough Turban: an open-source design for turban-wearing motorcyclists]]></title>
-        <id>https://toughturban.com/</id>
-        <link href="https://toughturban.com/"/>
-        <updated>2021-07-05T23:32:15.000Z</updated>
+        <title type="html"><![CDATA[The humble water heater could be the savior of our energy infrastructure woes]]></title>
+        <id>https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/</id>
+        <link href="https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/"/>
+        <updated>2021-07-06T22:58:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A primer on carbon pricing and carbon border adjustments]]></title>
-        <id>https://economics.td.com/esg-carbon-report</id>
-        <link href="https://economics.td.com/esg-carbon-report"/>
-        <updated>2021-07-05T22:58:54.000Z</updated>
+        <title type="html"><![CDATA[Instant water cleaning method ‘millions of times’ better: study]]></title>
+        <id>https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach</id>
+        <link href="https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach"/>
+        <updated>2021-07-06T22:18:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism]]></title>
-        <id>https://github.com/rustviz/rustviz</id>
-        <link href="https://github.com/rustviz/rustviz"/>
-        <updated>2021-07-05T21:25:57.000Z</updated>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
+        <id>https://substack.com/jobs?utm_source=hn&amp;utm_content=eng</id>
+        <link href="https://substack.com/jobs?utm_source=hn&amp;utm_content=eng"/>
+        <updated>2021-07-06T21:01:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audacity fork without any sentry telemetry or crash reporting]]></title>
-        <id>https://github.com/cookiengineer/audacity</id>
-        <link href="https://github.com/cookiengineer/audacity"/>
-        <updated>2021-07-05T21:18:38.000Z</updated>
+        <title type="html"><![CDATA[European Parliament approves mass surveillance of private communication]]></title>
+        <id>https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/</id>
+        <link href="https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/"/>
+        <updated>2021-07-06T20:20:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Product Managers]]></title>
-        <id>https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News</id>
-        <link href="https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
-        <updated>2021-07-05T21:00:11.000Z</updated>
+        <title type="html"><![CDATA[Fake Tesla, Apple stocks have started trading on blockchains]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains"/>
+        <updated>2021-07-06T19:32:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How iOS 15 makes apps launch faster]]></title>
-        <id>https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520</id>
-        <link href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520"/>
-        <updated>2021-07-05T19:42:24.000Z</updated>
+        <title type="html"><![CDATA[A new brain implant automatically detects and kills pain in real time]]></title>
+        <id>https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/</id>
+        <link href="https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/"/>
+        <updated>2021-07-06T19:10:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Student designs device that stops blood loss from stab wounds]]></title>
-        <id>https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html</id>
-        <link href="https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html"/>
-        <updated>2021-07-05T19:41:05.000Z</updated>
+        <title type="html"><![CDATA[Defeating Cookie Banners]]></title>
+        <id>https://transcend.io/blog/defeating-cookie-banners</id>
+        <link href="https://transcend.io/blog/defeating-cookie-banners"/>
+        <updated>2021-07-06T18:54:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing a firmware-only keylogger]]></title>
-        <id>https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html</id>
-        <link href="https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html"/>
-        <updated>2021-07-05T17:54:46.000Z</updated>
+        <title type="html"><![CDATA[Dumping and extracting the SpaceX Starlink user terminal firmware]]></title>
+        <id>https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/</id>
+        <link href="https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/"/>
+        <updated>2021-07-06T17:36:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transfer.sh – Easy file sharing from the command line]]></title>
-        <id>https://transfer.sh</id>
-        <link href="https://transfer.sh"/>
-        <updated>2021-07-05T17:22:16.000Z</updated>
+        <title type="html"><![CDATA[Reverse Engineering the M6 Smart Fitness Bracelet]]></title>
+        <id>https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html</id>
+        <link href="https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html"/>
+        <updated>2021-07-06T17:24:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever Given: Egypt agrees deal to release ship that blocked Suez Canal]]></title>
-        <id>https://www.bbc.com/news/world-middle-east-57719551</id>
-        <link href="https://www.bbc.com/news/world-middle-east-57719551"/>
-        <updated>2021-07-05T17:02:34.000Z</updated>
+        <title type="html"><![CDATA[How to build a small town in Texas]]></title>
+        <id>https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas</id>
+        <link href="https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas"/>
+        <updated>2021-07-06T17:17:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design Engineering Handbook [pdf]]]></title>
-        <id>https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf</id>
-        <link href="https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf"/>
-        <updated>2021-07-05T16:47:54.000Z</updated>
+        <title type="html"><![CDATA[Open 3D Engine]]></title>
+        <id>https://o3de.org/</id>
+        <link href="https://o3de.org/"/>
+        <updated>2021-07-06T17:08:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Explorables: big ideas in machine learning, simply explained]]></title>
-        <id>https://pair.withgoogle.com/explorables/</id>
-        <link href="https://pair.withgoogle.com/explorables/"/>
-        <updated>2021-07-05T16:41:33.000Z</updated>
+        <title type="html"><![CDATA[Kepler telescope glimpses population of free-floating planets]]></title>
+        <id>https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html</id>
+        <link href="https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html"/>
+        <updated>2021-07-06T16:45:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
-        <id>https://feed-me-up-scotty.vincenttunru.com/</id>
-        <link href="https://feed-me-up-scotty.vincenttunru.com/"/>
-        <updated>2021-07-05T16:28:02.000Z</updated>
+        <title type="html"><![CDATA[Headless React]]></title>
+        <id>https://acko.net/blog/live-headless-react/</id>
+        <link href="https://acko.net/blog/live-headless-react/"/>
+        <updated>2021-07-06T16:38:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tony Hoare answers questions [video]]]></title>
-        <id>https://www.newton.ac.uk/seminar/20210607180018301/</id>
-        <link href="https://www.newton.ac.uk/seminar/20210607180018301/"/>
-        <updated>2021-07-05T16:20:58.000Z</updated>
+        <title type="html"><![CDATA[Programming Language Memory Models]]></title>
+        <id>https://research.swtch.com/plmm</id>
+        <link href="https://research.swtch.com/plmm"/>
+        <updated>2021-07-06T16:22:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring memory usage in Python: it’s tricky]]></title>
-        <id>https://pythonspeed.com/articles/measuring-memory-python/</id>
-        <link href="https://pythonspeed.com/articles/measuring-memory-python/"/>
-        <updated>2021-07-05T14:52:59.000Z</updated>
+        <title type="html"><![CDATA[Tell HN: YC will help you find a co-founder]]></title>
+        <id>https://news.ycombinator.com/item?id=27750298</id>
+        <link href="https://news.ycombinator.com/item?id=27750298"/>
+        <updated>2021-07-06T16:02:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computing Performance on the Horizon]]></title>
-        <id>https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html</id>
-        <link href="https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html"/>
-        <updated>2021-07-05T14:24:45.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Side Quest – An aggregator for not full-time tech jobs]]></title>
+        <id>https://sidequestjobs.com/</id>
+        <link href="https://sidequestjobs.com/"/>
+        <updated>2021-07-06T14:59:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Lego Brick Scanner – open-source Boilerplate]]></title>
-        <id>https://github.com/GistNoesis/BrickRegistration</id>
-        <link href="https://github.com/GistNoesis/BrickRegistration"/>
-        <updated>2021-07-05T14:15:41.000Z</updated>
+        <title type="html"><![CDATA[A New Macroeconomics?]]></title>
+        <id>http://jwmason.org/slackwire/a-new-macroeconomics/</id>
+        <link href="http://jwmason.org/slackwire/a-new-macroeconomics/"/>
+        <updated>2021-07-06T14:27:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How we trace a KV database with less than 5% performance impact]]></title>
-        <id>https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact</id>
-        <link href="https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact"/>
-        <updated>2021-07-05T14:05:53.000Z</updated>
+        <title type="html"><![CDATA[Poisson's Equation]]></title>
+        <id>https://mattferraro.dev/posts/poissons-equation</id>
+        <link href="https://mattferraro.dev/posts/poissons-equation"/>
+        <updated>2021-07-06T14:20:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The future of deep learning is photonic]]></title>
-        <id>https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic</id>
-        <link href="https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic"/>
-        <updated>2021-07-05T13:56:32.000Z</updated>
+        <title type="html"><![CDATA[Launch HN: Enso (YC S21) – Visual programming and workflow automation tool]]></title>
+        <id>https://news.ycombinator.com/item?id=27748738</id>
+        <link href="https://news.ycombinator.com/item?id=27748738"/>
+        <updated>2021-07-06T14:05:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Music for Programming]]></title>
-        <id>https://www.musicforprogramming.net/</id>
-        <link href="https://www.musicforprogramming.net/"/>
-        <updated>2021-07-05T13:42:09.000Z</updated>
+        <title type="html"><![CDATA[Subscapes – Breakdown of a Generative Artwork]]></title>
+        <id>https://mattdesl.substack.com/p/subscapes-part-3</id>
+        <link href="https://mattdesl.substack.com/p/subscapes-part-3"/>
+        <updated>2021-07-06T13:46:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76]]></title>
-        <id>https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/</id>
-        <link href="https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/"/>
-        <updated>2021-07-05T13:24:11.000Z</updated>
+        <title type="html"><![CDATA[Breathing exercise lowers blood pressure better than working out, medication]]></title>
+        <id>https://www.studyfinds.org/5-minute-breathing-workout/</id>
+        <link href="https://www.studyfinds.org/5-minute-breathing-workout/"/>
+        <updated>2021-07-06T13:01:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Closer Look at Fractals]]></title>
-        <id>https://blog.fract.al/post/62180302979/a-closer-look-at-fractals</id>
-        <link href="https://blog.fract.al/post/62180302979/a-closer-look-at-fractals"/>
-        <updated>2021-07-05T13:22:50.000Z</updated>
+        <title type="html"><![CDATA[Thomas Aquinas' works with English and original Latin presented in parallel]]></title>
+        <id>https://aquinas.cc</id>
+        <link href="https://aquinas.cc"/>
+        <updated>2021-07-06T12:07:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything useful I know about kubectl]]></title>
-        <id>https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/</id>
-        <link href="https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/"/>
-        <updated>2021-07-05T12:04:02.000Z</updated>
+        <title type="html"><![CDATA[A theory that “elite overproduction” leads to political instability (2020)]]></title>
+        <id>https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing</id>
+        <link href="https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing"/>
+        <updated>2021-07-06T11:33:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile]]></title>
-        <id>https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/</id>
-        <link href="https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/"/>
-        <updated>2021-07-05T11:20:45.000Z</updated>
+        <title type="html"><![CDATA[Linux Rust Support]]></title>
+        <id>https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/</id>
+        <link href="https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/"/>
+        <updated>2021-07-06T09:50:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rise and Fall of the OLAP Cube (2020)]]></title>
-        <id>https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/</id>
-        <link href="https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/"/>
-        <updated>2021-07-05T11:18:33.000Z</updated>
+        <title type="html"><![CDATA[How many robots does it take to run a grocery store? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ssZ_8cqfBlE</id>
+        <link href="https://www.youtube.com/watch?v=ssZ_8cqfBlE"/>
+        <updated>2021-07-06T09:49:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot is not infringing copyright]]></title>
-        <id>https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/</id>
-        <link href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/"/>
-        <updated>2021-07-05T11:10:49.000Z</updated>
+        <title type="html"><![CDATA[Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece]]></title>
+        <id>https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html</id>
+        <link href="https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html"/>
+        <updated>2021-07-06T03:51:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shadows Walking: With Wallace Stevens in New Haven]]></title>
-        <id>https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/</id>
-        <link href="https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/"/>
-        <updated>2021-07-05T06:53:56.000Z</updated>
+        <title type="html"><![CDATA[The spread of weighing systems across Western Eurasia 4k years ago]]></title>
+        <id>https://archaeologynewsnetwork.blogspot.com/2021/06/researchers-investigate-spread-of.html</id>
+        <link href="https://archaeologynewsnetwork.blogspot.com/2021/06/researchers-investigate-spread-of.html"/>
+        <updated>2021-07-06T03:46:45.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Variable Length Arrays are problematic]]></title>
-        <id>https://blog.joren.ga/programming/vla-bad</id>
-        <link href="https://blog.joren.ga/programming/vla-bad"/>
-        <updated>2021-07-05T04:41:36.000Z</updated>
+        <title type="html"><![CDATA[America’s Obsession with Self-Help]]></title>
+        <id>https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review</id>
+        <link href="https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review"/>
+        <updated>2021-07-05T20:14:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Programmer's Brain]]></title>
-        <id>https://www.manning.com/books/the-programmers-brain</id>
-        <link href="https://www.manning.com/books/the-programmers-brain"/>
-        <updated>2021-07-05T03:46:19.000Z</updated>
+        <title type="html"><![CDATA[Paris Sportif: The Contagious Attraction of Parkour]]></title>
+        <id>https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/</id>
+        <link href="https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/"/>
+        <updated>2021-07-05T20:11:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

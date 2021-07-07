@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.atlasobscura.com/articles/bombay-time",
+          "id": "https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1",
           "author": null,
           "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/bombay-time",
-          "publishedOn": "2021-07-06T00:02:49.000Z",
-          "wordCount": 3259,
-          "title": "The Long History of 'Bombay Time' and Resistance to Colonial Rule"
+          "link": "https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1",
+          "publishedOn": "2021-07-07T00:04:22.000Z",
+          "wordCount": 34,
+          "title": "How useful was the Netflix Prize challenge for Netflix?"
         },
         {
-          "id": "https://toughturban.com/",
+          "id": "https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/",
           "author": null,
           "description": "Comments",
-          "link": "https://toughturban.com/",
-          "publishedOn": "2021-07-05T23:32:15.000Z",
-          "wordCount": 202,
-          "title": "Tough Turban: an open-source design for turban-wearing motorcyclists"
+          "link": "https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/",
+          "publishedOn": "2021-07-06T22:58:38.000Z",
+          "wordCount": 1708,
+          "title": "The humble water heater could be the savior of our energy infrastructure woes"
         },
         {
-          "id": "https://economics.td.com/esg-carbon-report",
+          "id": "https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach",
           "author": null,
           "description": "Comments",
-          "link": "https://economics.td.com/esg-carbon-report",
-          "publishedOn": "2021-07-05T22:58:54.000Z",
-          "wordCount": 4777,
-          "title": "A primer on carbon pricing and carbon border adjustments"
-        },
-        {
-          "id": "https://github.com/rustviz/rustviz",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/rustviz/rustviz",
-          "publishedOn": "2021-07-05T21:25:57.000Z",
-          "wordCount": 1616,
-          "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism"
-        },
-        {
-          "id": "https://github.com/cookiengineer/audacity",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/cookiengineer/audacity",
-          "publishedOn": "2021-07-05T21:18:38.000Z",
-          "wordCount": 1182,
-          "title": "Audacity fork without any sentry telemetry or crash reporting"
-        },
-        {
-          "id": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News",
-          "publishedOn": "2021-07-05T21:00:11.000Z",
-          "wordCount": 559,
-          "title": "Rescale (YC W12) Is Hiring Product Managers"
-        },
-        {
-          "id": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
-          "publishedOn": "2021-07-05T19:42:24.000Z",
-          "wordCount": 1611,
-          "title": "How iOS 15 makes apps launch faster"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-          "publishedOn": "2021-07-05T19:41:05.000Z",
-          "wordCount": null,
-          "title": "Student designs device that stops blood loss from stab wounds"
-        },
-        {
-          "id": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-          "publishedOn": "2021-07-05T17:54:46.000Z",
-          "wordCount": 3048,
-          "title": "Writing a firmware-only keylogger"
-        },
-        {
-          "id": "https://transfer.sh",
-          "author": null,
-          "description": "Comments",
-          "link": "https://transfer.sh",
-          "publishedOn": "2021-07-05T17:22:16.000Z",
-          "wordCount": 219,
-          "title": "Transfer.sh – Easy file sharing from the command line"
-        },
-        {
-          "id": "https://www.bbc.com/news/world-middle-east-57719551",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/news/world-middle-east-57719551",
-          "publishedOn": "2021-07-05T17:02:34.000Z",
-          "wordCount": 1098,
-          "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal"
-        },
-        {
-          "id": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
-          "publishedOn": "2021-07-05T16:47:54.000Z",
-          "wordCount": 83325,
-          "title": "Design Engineering Handbook [pdf]"
-        },
-        {
-          "id": "https://pair.withgoogle.com/explorables/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pair.withgoogle.com/explorables/",
-          "publishedOn": "2021-07-05T16:41:33.000Z",
-          "wordCount": 221,
-          "title": "AI Explorables: big ideas in machine learning, simply explained"
-        },
-        {
-          "id": "https://feed-me-up-scotty.vincenttunru.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://feed-me-up-scotty.vincenttunru.com/",
-          "publishedOn": "2021-07-05T16:28:02.000Z",
-          "wordCount": 123,
-          "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors"
-        },
-        {
-          "id": "https://www.newton.ac.uk/seminar/20210607180018301/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newton.ac.uk/seminar/20210607180018301/",
-          "publishedOn": "2021-07-05T16:20:58.000Z",
-          "wordCount": 1257,
-          "title": "Tony Hoare answers questions [video]"
-        },
-        {
-          "id": "https://pythonspeed.com/articles/measuring-memory-python/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pythonspeed.com/articles/measuring-memory-python/",
-          "publishedOn": "2021-07-05T14:52:59.000Z",
-          "wordCount": 1591,
-          "title": "Measuring memory usage in Python: it’s tricky"
-        },
-        {
-          "id": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-          "publishedOn": "2021-07-05T14:24:45.000Z",
-          "wordCount": 1706,
-          "title": "Computing Performance on the Horizon"
-        },
-        {
-          "id": "https://github.com/GistNoesis/BrickRegistration",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/GistNoesis/BrickRegistration",
-          "publishedOn": "2021-07-05T14:15:41.000Z",
-          "wordCount": 797,
-          "title": "Show HN: Lego Brick Scanner – open-source Boilerplate"
-        },
-        {
-          "id": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
-          "publishedOn": "2021-07-05T14:05:53.000Z",
-          "wordCount": 2825,
-          "title": "How we trace a KV database with less than 5% performance impact"
-        },
-        {
-          "id": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-          "author": null,
-          "description": "Comments",
-          "link": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-          "publishedOn": "2021-07-05T13:56:32.000Z",
-          "wordCount": 44,
-          "title": "The future of deep learning is photonic"
-        },
-        {
-          "id": "https://www.musicforprogramming.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.musicforprogramming.net/",
-          "publishedOn": "2021-07-05T13:42:09.000Z",
-          "wordCount": 316,
-          "title": "Music for Programming"
-        },
-        {
-          "id": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-          "publishedOn": "2021-07-05T13:24:11.000Z",
-          "wordCount": 1534,
-          "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76"
-        },
-        {
-          "id": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
-          "publishedOn": "2021-07-05T13:22:50.000Z",
-          "wordCount": 3342,
-          "title": "A Closer Look at Fractals"
-        },
-        {
-          "id": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-          "publishedOn": "2021-07-05T12:04:02.000Z",
-          "wordCount": 1478,
-          "title": "Everything useful I know about kubectl"
-        },
-        {
-          "id": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
-          "publishedOn": "2021-07-05T11:20:45.000Z",
+          "link": "https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach",
+          "publishedOn": "2021-07-06T22:18:23.000Z",
           "wordCount": 1103,
-          "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile"
+          "title": "Instant water cleaning method ‘millions of times’ better: study"
         },
         {
-          "id": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
+          "id": "https://substack.com/jobs?utm_source=hn&utm_content=eng",
           "author": null,
           "description": "Comments",
-          "link": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
-          "publishedOn": "2021-07-05T11:18:33.000Z",
-          "wordCount": 4544,
-          "title": "The Rise and Fall of the OLAP Cube (2020)"
+          "link": "https://substack.com/jobs?utm_source=hn&utm_content=eng",
+          "publishedOn": "2021-07-06T21:01:10.000Z",
+          "wordCount": 396,
+          "title": "Substack (YC W18) is hiring engineers to build the future of writing"
         },
         {
-          "id": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
+          "id": "https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/",
           "author": null,
           "description": "Comments",
-          "link": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
-          "publishedOn": "2021-07-05T11:10:49.000Z",
-          "wordCount": 3307,
-          "title": "GitHub Copilot is not infringing copyright"
+          "link": "https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/",
+          "publishedOn": "2021-07-06T20:20:53.000Z",
+          "wordCount": 1142,
+          "title": "European Parliament approves mass surveillance of private communication"
         },
         {
-          "id": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
+          "id": "https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains",
           "author": null,
           "description": "Comments",
-          "link": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
-          "publishedOn": "2021-07-05T06:53:56.000Z",
-          "wordCount": 7071,
-          "title": "Shadows Walking: With Wallace Stevens in New Haven"
+          "link": "https://www.bloomberg.com/news/articles/2021-07-06/fake-tesla-apple-stocks-have-started-trading-on-blockchains",
+          "publishedOn": "2021-07-06T19:32:35.000Z",
+          "wordCount": 93,
+          "title": "Fake Tesla, Apple stocks have started trading on blockchains"
         },
         {
-          "id": "https://blog.joren.ga/programming/vla-bad",
+          "id": "https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.joren.ga/programming/vla-bad",
-          "publishedOn": "2021-07-05T04:41:36.000Z",
-          "wordCount": 2099,
-          "title": "Variable Length Arrays are problematic"
+          "link": "https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/",
+          "publishedOn": "2021-07-06T19:10:19.000Z",
+          "wordCount": 1637,
+          "title": "A new brain implant automatically detects and kills pain in real time"
         },
         {
-          "id": "https://www.manning.com/books/the-programmers-brain",
+          "id": "https://transcend.io/blog/defeating-cookie-banners",
           "author": null,
           "description": "Comments",
-          "link": "https://www.manning.com/books/the-programmers-brain",
-          "publishedOn": "2021-07-05T03:46:19.000Z",
-          "wordCount": 1297,
-          "title": "The Programmer's Brain"
+          "link": "https://transcend.io/blog/defeating-cookie-banners",
+          "publishedOn": "2021-07-06T18:54:38.000Z",
+          "wordCount": 1800,
+          "title": "Defeating Cookie Banners"
+        },
+        {
+          "id": "https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/",
+          "publishedOn": "2021-07-06T17:36:41.000Z",
+          "wordCount": 4334,
+          "title": "Dumping and extracting the SpaceX Starlink user terminal firmware"
+        },
+        {
+          "id": "https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html",
+          "publishedOn": "2021-07-06T17:24:23.000Z",
+          "wordCount": 5222,
+          "title": "Reverse Engineering the M6 Smart Fitness Bracelet"
+        },
+        {
+          "id": "https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas",
+          "publishedOn": "2021-07-06T17:17:28.000Z",
+          "wordCount": 4135,
+          "title": "How to build a small town in Texas"
+        },
+        {
+          "id": "https://o3de.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://o3de.org/",
+          "publishedOn": "2021-07-06T17:08:06.000Z",
+          "wordCount": 547,
+          "title": "Open 3D Engine"
+        },
+        {
+          "id": "https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html",
+          "publishedOn": "2021-07-06T16:45:33.000Z",
+          "wordCount": 1568,
+          "title": "Kepler telescope glimpses population of free-floating planets"
+        },
+        {
+          "id": "https://acko.net/blog/live-headless-react/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://acko.net/blog/live-headless-react/",
+          "publishedOn": "2021-07-06T16:38:19.000Z",
+          "wordCount": 3727,
+          "title": "Headless React"
+        },
+        {
+          "id": "https://research.swtch.com/plmm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.swtch.com/plmm",
+          "publishedOn": "2021-07-06T16:22:10.000Z",
+          "wordCount": 9191,
+          "title": "Programming Language Memory Models"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27750298",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27750298",
+          "publishedOn": "2021-07-06T16:02:05.000Z",
+          "wordCount": 8583,
+          "title": "Tell HN: YC will help you find a co-founder"
+        },
+        {
+          "id": "https://sidequestjobs.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sidequestjobs.com/",
+          "publishedOn": "2021-07-06T14:59:10.000Z",
+          "wordCount": 639,
+          "title": "Show HN: Side Quest – An aggregator for not full-time tech jobs"
+        },
+        {
+          "id": "http://jwmason.org/slackwire/a-new-macroeconomics/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jwmason.org/slackwire/a-new-macroeconomics/",
+          "publishedOn": "2021-07-06T14:27:41.000Z",
+          "wordCount": 3157,
+          "title": "A New Macroeconomics?"
+        },
+        {
+          "id": "https://mattferraro.dev/posts/poissons-equation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattferraro.dev/posts/poissons-equation",
+          "publishedOn": "2021-07-06T14:20:18.000Z",
+          "wordCount": 4081,
+          "title": "Poisson's Equation"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27748738",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27748738",
+          "publishedOn": "2021-07-06T14:05:46.000Z",
+          "wordCount": 5840,
+          "title": "Launch HN: Enso (YC S21) – Visual programming and workflow automation tool"
+        },
+        {
+          "id": "https://mattdesl.substack.com/p/subscapes-part-3",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattdesl.substack.com/p/subscapes-part-3",
+          "publishedOn": "2021-07-06T13:46:02.000Z",
+          "wordCount": 3422,
+          "title": "Subscapes – Breakdown of a Generative Artwork"
+        },
+        {
+          "id": "https://www.studyfinds.org/5-minute-breathing-workout/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.studyfinds.org/5-minute-breathing-workout/",
+          "publishedOn": "2021-07-06T13:01:52.000Z",
+          "wordCount": 1350,
+          "title": "Breathing exercise lowers blood pressure better than working out, medication"
+        },
+        {
+          "id": "https://aquinas.cc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aquinas.cc",
+          "publishedOn": "2021-07-06T12:07:36.000Z",
+          "wordCount": 2106,
+          "title": "Thomas Aquinas' works with English and original Latin presented in parallel"
+        },
+        {
+          "id": "https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing",
+          "publishedOn": "2021-07-06T11:33:38.000Z",
+          "wordCount": 1202,
+          "title": "A theory that “elite overproduction” leads to political instability (2020)"
+        },
+        {
+          "id": "https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/",
+          "publishedOn": "2021-07-06T09:50:27.000Z",
+          "wordCount": 3309,
+          "title": "Linux Rust Support"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ssZ_8cqfBlE",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=ssZ_8cqfBlE",
+          "publishedOn": "2021-07-06T09:49:55.000Z",
+          "wordCount": null,
+          "title": "How many robots does it take to run a grocery store? [video]"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html",
+          "publishedOn": "2021-07-06T03:51:31.000Z",
+          "wordCount": 1072,
+          "title": "Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece"
+        },
+        {
+          "id": "https://archaeologynewsnetwork.blogspot.com/2021/06/researchers-investigate-spread-of.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://archaeologynewsnetwork.blogspot.com/2021/06/researchers-investigate-spread-of.html",
+          "publishedOn": "2021-07-06T03:46:45.000Z",
+          "wordCount": 1687,
+          "title": "The spread of weighing systems across Western Eurasia 4k years ago"
+        },
+        {
+          "id": "https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newrepublic.com/article/162882/americas-obsession-self-help-americanon-review",
+          "publishedOn": "2021-07-05T20:14:31.000Z",
+          "wordCount": 2994,
+          "title": "America’s Obsession with Self-Help"
+        },
+        {
+          "id": "https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thereader.mitpress.mit.edu/paris-sportif-the-contagious-attraction-of-parkour/",
+          "publishedOn": "2021-07-05T20:11:01.000Z",
+          "wordCount": 3704,
+          "title": "Paris Sportif: The Contagious Attraction of Parkour"
         }
       ]
     }
