@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://runwayml.com/",
+          "id": "https://goomics.net/",
           "author": null,
           "description": "Comments",
-          "link": "https://runwayml.com/",
-          "publishedOn": "2021-07-07T22:49:53.000Z",
-          "wordCount": 445,
-          "title": "Runway – Create Impossible Video"
+          "link": "https://goomics.net/",
+          "publishedOn": "2021-07-08T23:16:34.000Z",
+          "wordCount": 384,
+          "title": "Google Internal Comics"
         },
         {
-          "id": "https://www.economist.com/what-if/2021/07/03/what-if-biohackers-injected-themselves-with-mrna",
+          "id": "https://climate.copernicus.eu/surface-air-temperature-june-2021",
           "author": null,
           "description": "Comments",
-          "link": "https://www.economist.com/what-if/2021/07/03/what-if-biohackers-injected-themselves-with-mrna",
-          "publishedOn": "2021-07-07T22:21:59.000Z",
-          "wordCount": 1387,
-          "title": "What if biohackers injected themselves with mRNA?"
+          "link": "https://climate.copernicus.eu/surface-air-temperature-june-2021",
+          "publishedOn": "2021-07-08T22:37:36.000Z",
+          "wordCount": 1754,
+          "title": "Surface air temperature for June 2021"
         },
         {
-          "id": "https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/",
+          "id": "https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/",
-          "publishedOn": "2021-07-07T21:44:16.000Z",
-          "wordCount": 1231,
-          "title": "Arduino Pro hardware is not open-source hardware"
+          "link": "https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063",
+          "publishedOn": "2021-07-08T22:13:42.000Z",
+          "wordCount": 1760,
+          "title": "Birds are dying in the United States and no one knows why"
         },
         {
-          "id": "https://www.paperspace.com/careers",
+          "id": "https://streambus.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.paperspace.com/careers",
-          "publishedOn": "2021-07-07T21:00:15.000Z",
-          "wordCount": 558,
-          "title": "Paperspace (YC W15) is hiring engineers to build a modern MLOps platform"
+          "link": "https://streambus.com/",
+          "publishedOn": "2021-07-08T21:36:13.000Z",
+          "wordCount": 113,
+          "title": "Video podcasting (RSS) as an alternative to YouTube's walled garden"
         },
         {
-          "id": "https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda",
+          "id": "https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda",
-          "publishedOn": "2021-07-07T20:29:37.000Z",
-          "wordCount": 832,
-          "title": "DoorDash removing 1-year cliff for equity grants"
+          "link": "https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php",
+          "publishedOn": "2021-07-08T21:36:04.000Z",
+          "wordCount": 1040,
+          "title": "California exodus is a myth, UC research project finds"
         },
         {
-          "id": "https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf",
+          "id": "https://erikbern.com/2021/07/07/the-data-team-a-short-story.html",
           "author": null,
           "description": "Comments",
-          "link": "https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf",
-          "publishedOn": "2021-07-07T19:19:51.000Z",
-          "wordCount": 23294,
-          "title": "Undocumented x86 instructions to control the CPU at the microarchitecture level [pdf]"
+          "link": "https://erikbern.com/2021/07/07/the-data-team-a-short-story.html",
+          "publishedOn": "2021-07-08T21:04:06.000Z",
+          "wordCount": 4990,
+          "title": "Building a data team at a mid-stage startup"
         },
         {
-          "id": "https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1",
+          "id": "https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer",
           "author": null,
           "description": "Comments",
-          "link": "https://www.amusingplanet.com/2011/11/gibraltar-airport-worlds-only-airport.html?m=1",
-          "publishedOn": "2021-07-07T19:11:37.000Z",
-          "wordCount": 400,
-          "title": "Gibraltar, world’s only airport runway intersecting a road"
+          "link": "https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer",
+          "publishedOn": "2021-07-08T21:01:10.000Z",
+          "wordCount": 209,
+          "title": "Mezli (YC W21) is hiring a mechanical engineer to design autonomous restaurants"
         },
         {
-          "id": "https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01",
+          "id": "https://city-of-bloomington.github.io/timetrack/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01",
-          "publishedOn": "2021-07-07T17:58:44.000Z",
-          "wordCount": 3298,
-          "title": "An Intern’s Guide to Trading"
+          "link": "https://city-of-bloomington.github.io/timetrack/",
+          "publishedOn": "2021-07-08T20:16:45.000Z",
+          "wordCount": 656,
+          "title": "TimeTrack Raspberry Pi"
         },
         {
-          "id": "https://koronahra.cz/game",
+          "id": "https://elevation.fandom.com/wiki/List_of_elevator_special_modes",
           "author": null,
           "description": "Comments",
-          "link": "https://koronahra.cz/game",
-          "publishedOn": "2021-07-07T17:50:24.000Z",
-          "wordCount": 4,
-          "title": "Corona Game: A simulation of how Covid-19 spreads"
+          "link": "https://elevation.fandom.com/wiki/List_of_elevator_special_modes",
+          "publishedOn": "2021-07-08T19:52:09.000Z",
+          "wordCount": 640,
+          "title": "List of Special Elevator Modes"
         },
         {
-          "id": "http://www.minimizedistraction.com/",
+          "id": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
           "author": null,
           "description": "Comments",
-          "link": "http://www.minimizedistraction.com/",
-          "publishedOn": "2021-07-07T17:47:09.000Z",
-          "wordCount": 7,
-          "title": "A call to minimize distraction and respect users’ attention (2013)"
+          "link": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
+          "publishedOn": "2021-07-08T19:51:53.000Z",
+          "wordCount": 1600,
+          "title": "I made a mistake with Terraform and Azure made it worse"
         },
         {
-          "id": "https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed",
+          "id": "https://blog.eleuther.ai/year-one/",
           "author": null,
           "description": "Comments",
-          "link": "https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed",
-          "publishedOn": "2021-07-07T17:39:35.000Z",
-          "wordCount": 1439,
-          "title": "The first on-orbit fuel depot has been deployed"
+          "link": "https://blog.eleuther.ai/year-one/",
+          "publishedOn": "2021-07-08T18:59:49.000Z",
+          "wordCount": 4777,
+          "title": "EleutherAI One Year Retrospective"
         },
         {
-          "id": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
+          "id": "https://www.statnews.com/2021/07/08/cancer-death-rates-2021/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
-          "publishedOn": "2021-07-07T17:26:19.000Z",
-          "wordCount": 1029,
-          "title": "The James Webb Space Telescope has passed the final mission analysis review"
+          "link": "https://www.statnews.com/2021/07/08/cancer-death-rates-2021/",
+          "publishedOn": "2021-07-08T18:46:12.000Z",
+          "wordCount": 1239,
+          "title": "Death rates are declining for many common cancers in the U.S., report finds"
         },
         {
-          "id": "https://lupyuen.github.io/articles/wifi",
+          "id": "https://austinvernon.eth.link/blog/geothermal.html",
           "author": null,
           "description": "Comments",
-          "link": "https://lupyuen.github.io/articles/wifi",
-          "publishedOn": "2021-07-07T16:37:31.000Z",
-          "wordCount": 5812,
-          "title": "Reverse Engineer the BL602 WiFi Driver"
+          "link": "https://austinvernon.eth.link/blog/geothermal.html",
+          "publishedOn": "2021-07-08T18:24:12.000Z",
+          "wordCount": 3829,
+          "title": "Why geothermal isn't ubiquitous and how it might get that way"
         },
         {
-          "id": "https://austingil.com/svg-favicons/",
+          "id": "http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html",
           "author": null,
           "description": "Comments",
-          "link": "https://austingil.com/svg-favicons/",
-          "publishedOn": "2021-07-07T16:32:07.000Z",
-          "wordCount": 1328,
-          "title": "SVG favicons have some cool benefits"
+          "link": "http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html",
+          "publishedOn": "2021-07-08T17:20:39.000Z",
+          "wordCount": 2903,
+          "title": "Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo"
         },
         {
-          "id": "https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram",
+          "id": "http://rexegg.com/regex-best-trick.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram",
-          "publishedOn": "2021-07-07T15:53:28.000Z",
-          "wordCount": 1876,
-          "title": "The cost of the “new way to message on instagram” (2020)"
+          "link": "http://rexegg.com/regex-best-trick.html",
+          "publishedOn": "2021-07-08T16:49:07.000Z",
+          "wordCount": 10433,
+          "title": "The Greatest Regex Trick Ever (2014)"
         },
         {
-          "id": "https://www2.law.ucla.edu/volokh/carrier.pdf",
+          "id": "https://arxiv.org/abs/1604.01356",
           "author": null,
           "description": "Comments",
-          "link": "https://www2.law.ucla.edu/volokh/carrier.pdf",
-          "publishedOn": "2021-07-07T15:23:14.000Z",
-          "wordCount": 14416,
-          "title": "Social Media Platforms as Common Carriers? [pdf]"
+          "link": "https://arxiv.org/abs/1604.01356",
+          "publishedOn": "2021-07-08T16:25:40.000Z",
+          "wordCount": 834,
+          "title": "A Roadmap to Interstellar Flight (2016)"
         },
         {
-          "id": "https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma",
+          "id": "https://we.phorge.it/source/phorge/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma",
-          "publishedOn": "2021-07-07T14:59:10.000Z",
-          "wordCount": 2273,
-          "title": "Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma"
+          "link": "https://we.phorge.it/source/phorge/",
+          "publishedOn": "2021-07-08T15:59:04.000Z",
+          "wordCount": 97,
+          "title": "Phorge: A community-maintained fork of Phabricator"
         },
         {
-          "id": "https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/",
+          "id": "https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/",
-          "publishedOn": "2021-07-07T14:47:51.000Z",
-          "wordCount": 1419,
-          "title": "Neurons unexpectedly encode information in the timing of their firing"
+          "link": "https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor",
+          "publishedOn": "2021-07-08T15:58:12.000Z",
+          "wordCount": 1682,
+          "title": "A phone the FBI sold to criminals"
         },
         {
-          "id": "https://overreacted.io/npm-audit-broken-by-design/",
+          "id": "https://github.com/robhagemans/hoard-of-bitfonts",
           "author": null,
           "description": "Comments",
-          "link": "https://overreacted.io/npm-audit-broken-by-design/",
-          "publishedOn": "2021-07-07T14:13:07.000Z",
-          "wordCount": 2813,
-          "title": "Npm Audit: broken by design?"
+          "link": "https://github.com/robhagemans/hoard-of-bitfonts",
+          "publishedOn": "2021-07-08T15:51:09.000Z",
+          "wordCount": 806,
+          "title": "Hoard-of-bitfonts: bitmap fonts from disused operating systems"
         },
         {
-          "id": "https://news.columbia.edu/news/top-10-ideas-statistics-ai",
+          "id": "https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments",
           "author": null,
           "description": "Comments",
-          "link": "https://news.columbia.edu/news/top-10-ideas-statistics-ai",
-          "publishedOn": "2021-07-07T13:33:05.000Z",
-          "wordCount": 1847,
-          "title": "Ideas in statistics that have powered AI"
+          "link": "https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments",
+          "publishedOn": "2021-07-08T15:07:50.000Z",
+          "wordCount": 4240,
+          "title": "We replaced rental brokers with software and filled 200 vacant apartments"
         },
         {
-          "id": "https://egamebook.com/blog/complex-systems-simple-interface/",
+          "id": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
           "author": null,
           "description": "Comments",
-          "link": "https://egamebook.com/blog/complex-systems-simple-interface/",
-          "publishedOn": "2021-07-07T13:27:35.000Z",
-          "wordCount": 1528,
-          "title": "Complex game worlds, simple text interfaces (2015)"
+          "link": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
+          "publishedOn": "2021-07-08T14:33:10.000Z",
+          "wordCount": 1379,
+          "title": "Mozilla rolls out DoH to Canadian users of Firefox"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27760627",
+          "id": "https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27760627",
-          "publishedOn": "2021-07-07T13:02:26.000Z",
-          "wordCount": 2201,
-          "title": "Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production"
+          "link": "https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/",
+          "publishedOn": "2021-07-08T14:25:52.000Z",
+          "wordCount": 941,
+          "title": "Twitter begins hiring to comply with India’s new rules"
         },
         {
-          "id": "https://schierlm.github.io/OberonEmulator/",
+          "id": "https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45",
           "author": null,
           "description": "Comments",
-          "link": "https://schierlm.github.io/OberonEmulator/",
-          "publishedOn": "2021-07-07T12:37:53.000Z",
-          "wordCount": 632,
-          "title": "Project Oberon Emulator in JavaScript and Java"
+          "link": "https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45",
+          "publishedOn": "2021-07-08T12:45:20.000Z",
+          "wordCount": 3,
+          "title": "You need Software Developers to believe in your project (2020)"
         },
         {
-          "id": "https://zitadel.ch/blog/imo-rba-is-broken/",
+          "id": "https://news.ycombinator.com/item?id=27771091",
           "author": null,
           "description": "Comments",
-          "link": "https://zitadel.ch/blog/imo-rba-is-broken/",
-          "publishedOn": "2021-07-07T12:37:39.000Z",
-          "wordCount": 485,
-          "title": "Apple's “iCloud Private Relay” broke risk based authentication"
+          "link": "https://news.ycombinator.com/item?id=27771091",
+          "publishedOn": "2021-07-08T12:32:38.000Z",
+          "wordCount": 7473,
+          "title": "Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings"
         },
         {
-          "id": "http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html",
+          "id": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
           "author": null,
           "description": "Comments",
-          "link": "http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html",
-          "publishedOn": "2021-07-07T09:03:13.000Z",
-          "wordCount": 468,
-          "title": "First new VAX in 30 years?"
+          "link": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
+          "publishedOn": "2021-07-08T08:18:26.000Z",
+          "wordCount": 196,
+          "title": "All public GitHub code was used in training Copilot"
         },
         {
-          "id": "https://foundation.mozilla.org/en/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies/",
+          "id": "https://blog.jgc.org/2021/07/receiving-wwvb-time-signal-in-portugal.html",
           "author": null,
           "description": "Comments",
-          "link": "https://foundation.mozilla.org/en/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies/",
-          "publishedOn": "2021-07-07T08:59:05.000Z",
-          "wordCount": 1191,
-          "title": "YouTube algorithm recommends videos that violate its own policies: study"
+          "link": "https://blog.jgc.org/2021/07/receiving-wwvb-time-signal-in-portugal.html",
+          "publishedOn": "2021-07-08T08:11:21.000Z",
+          "wordCount": 1184,
+          "title": "Receiving the WWVB time signal in Portugal (by accident)"
         },
         {
-          "id": "https://webaudioconf2021.com/paper-a-2/",
+          "id": "https://github.com/nordigen/GSheets-track-finances",
           "author": null,
           "description": "Comments",
-          "link": "https://webaudioconf2021.com/paper-a-2/",
-          "publishedOn": "2021-07-06T08:45:32.000Z",
-          "wordCount": 503,
-          "title": "JSPatcher, a web-based visual editor to build JavaScript and WebAudio apps"
+          "link": "https://github.com/nordigen/GSheets-track-finances",
+          "publishedOn": "2021-07-08T07:42:18.000Z",
+          "wordCount": 652,
+          "title": "Show HN: Connect your bank account to Google Sheets"
         },
         {
-          "id": "https://libregraphicsmag.com/",
+          "id": "https://blog.rectorsquid.com/sample-linkage-mechanisms-2/",
           "author": null,
           "description": "Comments",
-          "link": "https://libregraphicsmag.com/",
-          "publishedOn": "2021-07-06T07:51:48.000Z",
-          "wordCount": 276,
-          "title": "Libre Graphics Magazine (2016)"
+          "link": "https://blog.rectorsquid.com/sample-linkage-mechanisms-2/",
+          "publishedOn": "2021-07-07T09:10:31.000Z",
+          "wordCount": 1728,
+          "title": "Sample Linkage Mechanisms"
         },
         {
-          "id": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+          "id": "http://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
-          "publishedOn": "2021-07-06T07:29:46.000Z",
-          "wordCount": 261,
-          "title": "Data Structure Visualizations"
+          "link": "http://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/",
+          "publishedOn": "2021-07-07T04:45:30.000Z",
+          "wordCount": 4341,
+          "title": "The curious death of Oppenheimer’s mistress (2015)"
         },
         {
-          "id": "https://security.googleblog.com/2021/07/measuring-security-risks-in-open-source.html",
+          "id": "https://en.wikipedia.org/wiki/Fibonacci_coding#Example",
           "author": null,
           "description": "Comments",
-          "link": "https://security.googleblog.com/2021/07/measuring-security-risks-in-open-source.html",
-          "publishedOn": "2021-07-06T04:43:32.000Z",
-          "wordCount": 2028,
-          "title": "Measuring security risks in open source software"
+          "link": "https://en.wikipedia.org/wiki/Fibonacci_coding#Example",
+          "publishedOn": "2021-07-04T04:24:04.000Z",
+          "wordCount": 1727,
+          "title": "Fibonacci Coding"
         }
       ]
     }
