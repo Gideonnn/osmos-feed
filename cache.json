@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://thistooshallgrow.com/blog/emoji-stop",
+          "id": "https://arnuldondata.medium.com/julia-and-the-reincarnation-of-lisp-f60cacd5822c",
           "author": null,
           "description": "Comments",
-          "link": "https://thistooshallgrow.com/blog/emoji-stop",
-          "publishedOn": "2021-07-11T00:09:01.000Z",
-          "wordCount": 2706,
-          "title": "I Stopped Using Emojis"
+          "link": "https://arnuldondata.medium.com/julia-and-the-reincarnation-of-lisp-f60cacd5822c",
+          "publishedOn": "2021-07-11T22:41:07.000Z",
+          "wordCount": 1590,
+          "title": "Julia and the Reincarnation of Lisp (2020)"
         },
         {
-          "id": "https://elevanth.org/blog/2018/09/02/golden_eggs/",
+          "id": "http://adamierymenko.com/web_eating_desktop.html",
           "author": null,
           "description": "Comments",
-          "link": "https://elevanth.org/blog/2018/09/02/golden_eggs/",
-          "publishedOn": "2021-07-10T23:55:28.000Z",
-          "wordCount": 1515,
-          "title": "Golden eggs and better telescopes (2018)"
+          "link": "http://adamierymenko.com/web_eating_desktop.html",
+          "publishedOn": "2021-07-11T22:32:23.000Z",
+          "wordCount": 622,
+          "title": "The Web Is Eating the Desktop (2017)"
         },
         {
-          "id": "http://doi.org/10.13140/RG.2.2.26987.26402",
+          "id": "https://jobs.lever.co/buildzoom",
           "author": null,
           "description": "Comments",
-          "link": "http://doi.org/10.13140/RG.2.2.26987.26402",
-          "publishedOn": "2021-07-10T23:53:15.000Z",
-          "wordCount": 9715,
-          "title": "Analysis of Covid-19 vaccine death reports from VAERS"
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-07-11T21:00:36.000Z",
+          "wordCount": 103,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate"
         },
         {
-          "id": "https://micahcantor.xyz/blog/extension-developer-emails/",
+          "id": "https://www.techsupportalert.com/content/time-say-farewell.htmEpilogueItiswithgreatsadnessandheavyheartsweannouncetheclosingofGizmo’sFreeware.Afterdueconsideration,we%27vedecidedtoshutdownthissitetentativelyby15July2021afterwhichitwillnotbeaccessibleanymore.ManyyearsagoGizmosetouttobeanindependent,unbiasedresourceforanyonewhowantedthebestfreeware.Alongtheway,wecreatedanamazingcommunityofreadersandeditors.Weareproudofthesitewecreated,andareevenmoregratefulforyou,thecommunityofreadersthatmadeitgrow.OnbehalfofeveryonewhowaspartofGizmo’sFreeware,aheartfeltthankyouformakinguspartofyourlives.Formanyyears,Gizmopaidthecostofrunningthesiteoutofpocket.Whenthatbecametoomuch,weaskedyouaboutrunningadsandyousaidyes,andwerequestedfordonationsandyouwholeheartedlyresponded.Theadsanddonationshavekeptthelightson,andoureditorshavebeenunpaidvolunteers.Astheworldhasshiftedawayfromdesktopstomobilesinsearchofflexibilityovertheyears,ourtrafficandadvertisingrevenuedeclined,andtheproceedscannolongercoverthecostsofrunningthesite.Thiswasaverydifficultdecision,asyou,ourreadersandeditors,havebeentheheartofGizmo’sFreewareforsomanyyears.It’sbeenafantasticjourneywithallofyouandwe’reheartbrokenithascometoanend.Wewillmissyou.TheGizmo%27sFreewareCrew",
           "author": null,
           "description": "Comments",
-          "link": "https://micahcantor.xyz/blog/extension-developer-emails/",
-          "publishedOn": "2021-07-10T22:29:57.000Z",
-          "wordCount": 1291,
-          "title": "The strange, sketchy emails a browser extension developer receives"
-        },
-        {
-          "id": "https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30",
-          "author": null,
-          "description": "Comments",
-          "link": "https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30",
-          "publishedOn": "2021-07-10T21:58:38.000Z",
-          "wordCount": 1283,
-          "title": "Instagram Has Become SkyMall"
-        },
-        {
-          "id": "https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful",
-          "publishedOn": "2021-07-10T21:09:08.000Z",
-          "wordCount": 93,
-          "title": "Solar is dirt-cheap and about to get even more powerful"
-        },
-        {
-          "id": "https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html",
-          "publishedOn": "2021-07-10T21:01:49.000Z",
-          "wordCount": 1869,
-          "title": "Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some"
-        },
-        {
-          "id": "https://www.workatastartup.com/jobs/42298",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/42298",
-          "publishedOn": "2021-07-10T21:00:07.000Z",
-          "wordCount": 441,
-          "title": "Signadot (YC W20) is hiring engineers to simplify microservices development"
-        },
-        {
-          "id": "https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/world/india/no-bids-over-70-indian-coal-mines-up-auction-2021-07-09/",
-          "publishedOn": "2021-07-10T20:59:12.000Z",
-          "wordCount": 702,
-          "title": "No bids for over 70% of Indian coal mines up for auction"
-        },
-        {
-          "id": "https://www.bbc.com/worklife/article/20210701-the-damaging-effects-of-boreout-at-work",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/worklife/article/20210701-the-damaging-effects-of-boreout-at-work",
-          "publishedOn": "2021-07-10T20:53:51.000Z",
-          "wordCount": 1546,
-          "title": "The damaging effects of 'boreout' at work"
-        },
-        {
-          "id": "https://fairuseify.ml",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fairuseify.ml",
-          "publishedOn": "2021-07-10T20:15:11.000Z",
-          "wordCount": 39,
-          "title": "Tool to convert copyrighted music into fair use"
-        },
-        {
-          "id": "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612",
-          "author": null,
-          "description": "Comments",
-          "link": "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612",
-          "publishedOn": "2021-07-10T19:29:20.000Z",
+          "link": "https://www.techsupportalert.com/content/time-say-farewell.htmEpilogueItiswithgreatsadnessandheavyheartsweannouncetheclosingofGizmo’sFreeware.Afterdueconsideration,we%27vedecidedtoshutdownthissitetentativelyby15July2021afterwhichitwillnotbeaccessibleanymore.ManyyearsagoGizmosetouttobeanindependent,unbiasedresourceforanyonewhowantedthebestfreeware.Alongtheway,wecreatedanamazingcommunityofreadersandeditors.Weareproudofthesitewecreated,andareevenmoregratefulforyou,thecommunityofreadersthatmadeitgrow.OnbehalfofeveryonewhowaspartofGizmo’sFreeware,aheartfeltthankyouformakinguspartofyourlives.Formanyyears,Gizmopaidthecostofrunningthesiteoutofpocket.Whenthatbecametoomuch,weaskedyouaboutrunningadsandyousaidyes,andwerequestedfordonationsandyouwholeheartedlyresponded.Theadsanddonationshavekeptthelightson,andoureditorshavebeenunpaidvolunteers.Astheworldhasshiftedawayfromdesktopstomobilesinsearchofflexibilityovertheyears,ourtrafficandadvertisingrevenuedeclined,andtheproceedscannolongercoverthecostsofrunningthesite.Thiswasaverydifficultdecision,asyou,ourreadersandeditors,havebeentheheartofGizmo’sFreewareforsomanyyears.It’sbeenafantasticjourneywithallofyouandwe’reheartbrokenithascometoanend.Wewillmissyou.TheGizmo%27sFreewareCrew",
+          "publishedOn": "2021-07-11T20:21:59.000Z",
           "wordCount": null,
-          "title": "Preschool children rarely seek data when observation and testimony conflict"
+          "title": "Gizmo’s Freeware Says Farewell"
         },
         {
-          "id": "https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/",
+          "id": "https://medium.com/swlh/whos-running-the-vincere-bot-network-on-instagram-a558be6c69db",
           "author": null,
           "description": "Comments",
-          "link": "https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/",
-          "publishedOn": "2021-07-10T17:37:41.000Z",
-          "wordCount": 7519,
-          "title": "Rethinking software testing: perspectives from the world of hardware (2019)"
+          "link": "https://medium.com/swlh/whos-running-the-vincere-bot-network-on-instagram-a558be6c69db",
+          "publishedOn": "2021-07-11T20:00:10.000Z",
+          "wordCount": 248,
+          "title": "Who’s running the Vincere bot network on Instagram?"
         },
         {
-          "id": "https://sosna.de/posts/pgaas-memory-overcommit/",
+          "id": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html",
           "author": null,
           "description": "Comments",
-          "link": "https://sosna.de/posts/pgaas-memory-overcommit/",
-          "publishedOn": "2021-07-10T15:55:05.000Z",
-          "wordCount": 1695,
-          "title": "PostgreSQL, Memory and the Cloud"
+          "link": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html",
+          "publishedOn": "2021-07-11T19:58:59.000Z",
+          "wordCount": 2483,
+          "title": "No sane compiler would optimize atomics (2015)"
         },
         {
-          "id": "https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7",
+          "id": "https://www.dsogaming.com/news/resident-evil-village-crack-completely-fixes-its-stuttering-issues/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7",
-          "publishedOn": "2021-07-10T15:54:14.000Z",
-          "wordCount": 1348,
-          "title": "FDA head asks for investigation into Aduhelm drug approval"
+          "link": "https://www.dsogaming.com/news/resident-evil-village-crack-completely-fixes-its-stuttering-issues/",
+          "publishedOn": "2021-07-11T19:40:13.000Z",
+          "wordCount": 983,
+          "title": "Resident Evil Village crack completely fixes its stuttering issues"
         },
         {
-          "id": "https://github.com/sstadick/hck",
+          "id": "https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/sstadick/hck",
-          "publishedOn": "2021-07-10T15:46:53.000Z",
-          "wordCount": 2258,
-          "title": "Show HN: Hck – a fast and flexible cut-like tool"
+          "link": "https://www.reddit.com/r/scihub/comments/ohykfm/im_a_programmer_how_can_i_help_scihub/",
+          "publishedOn": "2021-07-11T18:28:34.000Z",
+          "wordCount": 472,
+          "title": "I'm a programmer – how can I help SciHub?"
         },
         {
-          "id": "https://website-atgsmhega-edgedb.vercel.app/docs/tutorial/queries",
+          "id": "https://peterroelants.github.io/posts/gaussian-process-tutorial/",
           "author": null,
           "description": "Comments",
-          "link": "https://website-atgsmhega-edgedb.vercel.app/docs/tutorial/queries",
-          "publishedOn": "2021-07-10T14:01:38.000Z",
-          "wordCount": 1163,
-          "title": "EdgeDB: EdgeQL"
+          "link": "https://peterroelants.github.io/posts/gaussian-process-tutorial/",
+          "publishedOn": "2021-07-11T18:22:59.000Z",
+          "wordCount": 3616,
+          "title": "Gaussian Processes from Scratch (2019)"
         },
         {
-          "id": "https://nicole.express/2020/nicole-gets-a-real-computer.html",
+          "id": "https://mattstoller.substack.com/p/biden-launches-sweeping-action-on",
           "author": null,
           "description": "Comments",
-          "link": "https://nicole.express/2020/nicole-gets-a-real-computer.html",
-          "publishedOn": "2021-07-10T12:48:07.000Z",
-          "wordCount": 2918,
-          "title": "Nicole gets a real computer – the Microsoft Z80 SoftCard (2020)"
+          "link": "https://mattstoller.substack.com/p/biden-launches-sweeping-action-on",
+          "publishedOn": "2021-07-11T18:22:49.000Z",
+          "wordCount": 4471,
+          "title": "Biden launches action on \"Big Tech, Big Pharma, and Big Ag\" – can it be real?"
         },
         {
-          "id": "https://www.bschaatsbergen.com/behind-the-scenes-lambda",
+          "id": "https://wificard.io/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bschaatsbergen.com/behind-the-scenes-lambda",
-          "publishedOn": "2021-07-10T12:33:30.000Z",
-          "wordCount": 2159,
-          "title": "Behind the scenes, AWS Lambda"
+          "link": "https://wificard.io/",
+          "publishedOn": "2021-07-11T18:04:43.000Z",
+          "wordCount": 19,
+          "title": "Show HN: Print a WiFi Login Card"
         },
         {
-          "id": "https://www.zeit.de/wissen/2021-07/thai-cave-rescue-thailand-tham-luang-2018-diver-mikko-paasi",
+          "id": "https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.zeit.de/wissen/2021-07/thai-cave-rescue-thailand-tham-luang-2018-diver-mikko-paasi",
-          "publishedOn": "2021-07-10T12:29:32.000Z",
-          "wordCount": 263,
-          "title": "“One Day Longer and Those 13 Boys Would Be Dead”"
+          "link": "https://rugsofwar.wordpress.com/2011/09/10/the-september-11-commemorative-carpet/",
+          "publishedOn": "2021-07-11T16:57:15.000Z",
+          "wordCount": 1451,
+          "title": "Interpreting 9/11 commemorative Afghan carpets (2011)"
         },
         {
-          "id": "https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/",
+          "id": "https://github.com/Myself086/Project-Nested",
           "author": null,
           "description": "Comments",
-          "link": "https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/",
-          "publishedOn": "2021-07-10T11:49:36.000Z",
-          "wordCount": 3177,
-          "title": "25 Gigabit Linux internet router PC build"
+          "link": "https://github.com/Myself086/Project-Nested",
+          "publishedOn": "2021-07-11T16:40:15.000Z",
+          "wordCount": 670,
+          "title": "Project-Nested: An NES Emulator Running on the SNES"
         },
         {
-          "id": "https://tmdev.itch.io/aieyes",
+          "id": "https://github.com/vhyrro/neorg",
           "author": null,
           "description": "Comments",
-          "link": "https://tmdev.itch.io/aieyes",
-          "publishedOn": "2021-07-10T11:48:37.000Z",
-          "wordCount": 645,
-          "title": "AIeyes: Walking simulator where the world is seen through a realtime neural net"
+          "link": "https://github.com/vhyrro/neorg",
+          "publishedOn": "2021-07-11T16:23:27.000Z",
+          "wordCount": 1891,
+          "title": "Neorg: Neovim 0.5’s answer to modern life organization"
         },
         {
-          "id": "https://drb.ie/articles/anarchism-spanish-sketches/",
+          "id": "https://www.thepodswap.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://drb.ie/articles/anarchism-spanish-sketches/",
-          "publishedOn": "2021-07-10T04:37:03.000Z",
-          "wordCount": 6614,
-          "title": "Spanish Sketches"
+          "link": "https://www.thepodswap.com/",
+          "publishedOn": "2021-07-11T15:44:58.000Z",
+          "wordCount": 384,
+          "title": "Podswap: Keep airpods alive and out of the landfill"
         },
         {
-          "id": "https://www.mgasch.com/2019/03/crash/",
+          "id": "https://betterprogramming.pub/3-programmers-got-fired-including-me-due-to-a-single-app-crash-35d4c94555da",
           "author": null,
           "description": "Comments",
-          "link": "https://www.mgasch.com/2019/03/crash/",
-          "publishedOn": "2021-07-09T12:01:51.000Z",
-          "wordCount": 2634,
-          "title": "What I learned from Erlang about resiliency in systems design (2019)"
+          "link": "https://betterprogramming.pub/3-programmers-got-fired-including-me-due-to-a-single-app-crash-35d4c94555da",
+          "publishedOn": "2021-07-11T15:20:19.000Z",
+          "wordCount": 1532,
+          "title": "Three programmers got fired, including me, due to a single app crash"
         },
         {
-          "id": "https://jeapostrophe.github.io/2013-10-29-tmadd-post.html",
+          "id": "https://en.wikipedia.org/wiki/Royal_Mail_rubber_band",
           "author": null,
           "description": "Comments",
-          "link": "https://jeapostrophe.github.io/2013-10-29-tmadd-post.html",
-          "publishedOn": "2021-07-09T11:54:19.000Z",
-          "wordCount": 2520,
-          "title": "Addition on Turing Machines (2013)"
+          "link": "https://en.wikipedia.org/wiki/Royal_Mail_rubber_band",
+          "publishedOn": "2021-07-11T15:17:00.000Z",
+          "wordCount": 1288,
+          "title": "Royal Mail Rubber Band"
         },
         {
-          "id": "https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html",
+          "id": "https://www.rw-3.com/blog/cultural-implications-of-silence",
           "author": null,
           "description": "Comments",
-          "link": "https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html",
-          "publishedOn": "2021-07-09T09:42:33.000Z",
-          "wordCount": 801,
-          "title": "Vladimir Lukyanov’s Water Computer (2019)"
+          "link": "https://www.rw-3.com/blog/cultural-implications-of-silence",
+          "publishedOn": "2021-07-11T14:50:29.000Z",
+          "wordCount": 987,
+          "title": "The Cultural Implications of Silence Around the World (2020)"
         },
         {
-          "id": "https://www.historytoday.com/archive/review/well-woven-tale",
+          "id": "https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking",
           "author": null,
           "description": "Comments",
-          "link": "https://www.historytoday.com/archive/review/well-woven-tale",
-          "publishedOn": "2021-07-09T04:55:20.000Z",
-          "wordCount": 1151,
-          "title": "A Well-Woven Tale: The fabric of the modern world"
+          "link": "https://www.philvenables.com/post/cybersecurity-and-the-curse-of-binary-thinking",
+          "publishedOn": "2021-07-11T12:59:49.000Z",
+          "wordCount": 1463,
+          "title": "Cybersecurity and the curse of binary thinking"
         },
         {
-          "id": "https://arxiv.org/abs/2107.03200",
+          "id": "https://writefreely.org/",
           "author": null,
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2107.03200",
-          "publishedOn": "2021-07-08T10:23:38.000Z",
-          "wordCount": 639,
-          "title": "The Geography of Open Source Software: Evidence from GitHub"
+          "link": "https://writefreely.org/",
+          "publishedOn": "2021-07-11T12:24:19.000Z",
+          "wordCount": 305,
+          "title": "WriteFreely – An open source platform for building a writing space on the web"
         },
         {
-          "id": "https://phys.org/news/2021-07-ethiopia-controversial-mega-dam.html",
+          "id": "https://www.youtube.com/watch?v=N0O5Uwc3C0o",
           "author": null,
           "description": "Comments",
-          "link": "https://phys.org/news/2021-07-ethiopia-controversial-mega-dam.html",
-          "publishedOn": "2021-07-08T10:00:03.000Z",
-          "wordCount": 1454,
-          "title": "Ethiopia's controversial mega-dam on Nile tributary"
+          "link": "https://www.youtube.com/watch?v=N0O5Uwc3C0o",
+          "publishedOn": "2021-07-11T12:17:18.000Z",
+          "wordCount": null,
+          "title": "How does USB device discovery work? [video]"
         },
         {
-          "id": "https://loqbooq.app",
+          "id": "https://www.criterion.com/current/posts/7454-bringing-up-baby-bones-balls-and-butterflies",
           "author": null,
           "description": "Comments",
-          "link": "https://loqbooq.app",
-          "publishedOn": "2021-07-08T08:05:48.000Z",
-          "wordCount": 523,
-          "title": "Show HN: Loqbooq – A decision log with Slack integration"
+          "link": "https://www.criterion.com/current/posts/7454-bringing-up-baby-bones-balls-and-butterflies",
+          "publishedOn": "2021-07-11T05:40:59.000Z",
+          "wordCount": 2937,
+          "title": "Bringing Up Baby: Bones, Balls, and Butterflies"
+        },
+        {
+          "id": "https://fgiesen.wordpress.com/2021/07/09/entropy-coding-in-oodle-data-the-big-picture/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fgiesen.wordpress.com/2021/07/09/entropy-coding-in-oodle-data-the-big-picture/",
+          "publishedOn": "2021-07-10T17:08:57.000Z",
+          "wordCount": 2124,
+          "title": "Entropy coding in Oodle Data: the big picture"
+        },
+        {
+          "id": "https://www.expressivesuite.com/products/expressive-animator.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.expressivesuite.com/products/expressive-animator.html",
+          "publishedOn": "2021-07-10T10:09:54.000Z",
+          "wordCount": 226,
+          "title": "Expressive Animator: free software vector animation and motion graphics editor"
+        },
+        {
+          "id": "https://blog.jreypo.io/2021/07/09/a-look-into-cbl-mariner-microsoft-internal-linux-distribution/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.jreypo.io/2021/07/09/a-look-into-cbl-mariner-microsoft-internal-linux-distribution/",
+          "publishedOn": "2021-07-10T10:04:36.000Z",
+          "wordCount": 1006,
+          "title": "A Look into CBL-Mariner, Microsoft’s Internal Linux Distribution"
+        },
+        {
+          "id": "https://cavalry.scenegroup.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cavalry.scenegroup.co/",
+          "publishedOn": "2021-07-10T06:01:55.000Z",
+          "wordCount": 905,
+          "title": "Cavalry – 2D Animation Software for Mac and Windows"
+        },
+        {
+          "id": "https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf",
+          "publishedOn": "2021-07-09T20:04:51.000Z",
+          "wordCount": 53666,
+          "title": "Design Beyond Human Abilities (2007) [pdf]"
+        },
+        {
+          "id": "https://harpers.org/2021/07/regarding-michael-pollans-new-book-this-is-your-mind-on-plants/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://harpers.org/2021/07/regarding-michael-pollans-new-book-this-is-your-mind-on-plants/",
+          "publishedOn": "2021-07-09T19:05:01.000Z",
+          "wordCount": 1282,
+          "title": "Regarding Michael Pollan’s New Book This Is Your Mind on Plants"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Mark_V._Shaney",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Mark_V._Shaney",
+          "publishedOn": "2021-07-09T12:14:27.000Z",
+          "wordCount": 1602,
+          "title": "Mark V. Shaney"
+        },
+        {
+          "id": "https://www.laphamsquarterly.org/roundtable/new-planet-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laphamsquarterly.org/roundtable/new-planet-system",
+          "publishedOn": "2021-07-09T01:59:31.000Z",
+          "wordCount": 2399,
+          "title": "A New Planet in the System"
         }
       ]
     }
