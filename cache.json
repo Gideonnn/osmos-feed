@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.collaborativefund.com/blog/too-smart/",
+          "id": "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.collaborativefund.com/blog/too-smart/",
-          "publishedOn": "2021-07-15T23:44:54.000Z",
-          "wordCount": 906,
-          "title": "Too Smart"
+          "link": "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/",
+          "publishedOn": "2021-07-16T22:38:04.000Z",
+          "wordCount": 2371,
+          "title": "The Computer Scientist Training AI to Think with Analogies"
         },
         {
-          "id": "https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/",
+          "id": "https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/",
-          "publishedOn": "2021-07-15T23:30:37.000Z",
-          "wordCount": 707,
-          "title": "Intel in talks to buy GlobalFoundries for about $30B"
+          "link": "https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/",
+          "publishedOn": "2021-07-16T22:11:28.000Z",
+          "wordCount": 797,
+          "title": "Apple removes ‘Fakespot’ app from iOS App Store following Amazon request"
         },
         {
-          "id": "https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072",
+          "id": "https://fly.io/blog/last-mile-redis/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cbc.ca/news/politics/covax-donations-astrazeneca-surplus-1.6099072",
-          "publishedOn": "2021-07-15T23:28:59.000Z",
-          "wordCount": 1340,
-          "title": "Canada to donate 17.7M AstraZeneca doses"
+          "link": "https://fly.io/blog/last-mile-redis/",
+          "publishedOn": "2021-07-16T21:36:11.000Z",
+          "wordCount": 1782,
+          "title": "Last Mile Redis"
         },
         {
-          "id": "https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2",
+          "id": "https://angel.co/company/trexo-robotics",
           "author": null,
           "description": "Comments",
-          "link": "https://dana11235.medium.com/my-take-on-the-study-from-mit-that-predicts-societal-collapse-b351d8fbd4c2",
-          "publishedOn": "2021-07-15T22:28:33.000Z",
-          "wordCount": 177,
-          "title": "My take on the study from MIT that predicts “societal collapse”"
+          "link": "https://angel.co/company/trexo-robotics",
+          "publishedOn": "2021-07-16T21:00:47.000Z",
+          "wordCount": null,
+          "title": "Trexo Robotics (YC W19) Is Hiring Mobile and Robotics Interns"
         },
         {
-          "id": "https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html",
+          "id": "http://backreaction.blogspot.com/2021/07/blog-post.html",
           "author": null,
           "description": "Comments",
-          "link": "https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html",
-          "publishedOn": "2021-07-15T21:30:57.000Z",
-          "wordCount": 1498,
-          "title": "On the evilness of feature branching"
+          "link": "http://backreaction.blogspot.com/2021/07/blog-post.html",
+          "publishedOn": "2021-07-16T20:13:41.000Z",
+          "wordCount": 5634,
+          "title": "How Dangerous Are Solar Storms?"
         },
         {
-          "id": "https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp",
+          "id": "https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html",
           "author": null,
           "description": "Comments",
-          "link": "https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp",
-          "publishedOn": "2021-07-15T21:20:34.000Z",
-          "wordCount": 3229,
-          "title": "How to unlearn a disease"
+          "link": "https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html",
+          "publishedOn": "2021-07-16T19:17:40.000Z",
+          "wordCount": 833,
+          "title": "Linear Circuit Design Handbook (2008)"
         },
         {
-          "id": "https://www.workatastartup.com/jobs/45050",
+          "id": "https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/45050",
-          "publishedOn": "2021-07-15T21:00:18.000Z",
-          "wordCount": 1207,
-          "title": "Motion (YC W20) is hiring a lead fullstack engineer to change how we manage time"
+          "link": "https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html",
+          "publishedOn": "2021-07-16T18:24:47.000Z",
+          "wordCount": null,
+          "title": "We will win the war for general-purpose computing"
         },
         {
-          "id": "https://github.com/ParadoxGameConverters",
+          "id": "https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/ParadoxGameConverters",
-          "publishedOn": "2021-07-15T20:27:44.000Z",
-          "wordCount": 694,
-          "title": "Paradox Game Converters Collected on GitHub"
+          "link": "https://techpolicy.press/voice-clone-of-anthony-bourdain-prompts-synthetic-media-ethics-questions/?mc_cid=f76836fe27&mc_eid=4336df8131",
+          "publishedOn": "2021-07-16T18:20:57.000Z",
+          "wordCount": 3313,
+          "title": "Voice clone of Anthony Bourdain prompts synthetic media ethics questions"
         },
         {
-          "id": "https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access",
+          "id": "https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/",
           "author": null,
           "description": "Comments",
-          "link": "https://decoded.legal/blog/2021/07/online-id-age-verification-the-death-of-online-search-and-non-browser-web-access",
-          "publishedOn": "2021-07-15T20:00:28.000Z",
-          "wordCount": 2355,
-          "title": "Online ID / age verification: the death of online search"
+          "link": "https://humanloop.com/blog/4-lessons-from-a-year-building-tools-for-machine-learning/",
+          "publishedOn": "2021-07-16T17:52:27.000Z",
+          "wordCount": 1328,
+          "title": "Four lessons from a year building tools for machine learning"
         },
         {
-          "id": "https://www.win.tue.nl/~kverbeek/PhDThesis.pdf",
+          "id": "https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://www.win.tue.nl/~kverbeek/PhDThesis.pdf",
-          "publishedOn": "2021-07-15T19:57:51.000Z",
-          "wordCount": 1117165,
-          "title": "Algorithms for Cartographic Visualization (2012) [pdf]"
+          "link": "https://storage.courtlistener.com/recap/gov.uscourts.miwd.100639/gov.uscourts.miwd.100639.37.0.pdf",
+          "publishedOn": "2021-07-16T17:44:13.000Z",
+          "wordCount": 3300,
+          "title": "Defense Motion: Bitcoin is not “money” within the meaning of 18 U.S..C. § 1960 [pdf]"
         },
         {
-          "id": "https://www.zidisha.org/",
+          "id": "https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.zidisha.org/",
-          "publishedOn": "2021-07-15T18:28:02.000Z",
-          "wordCount": 387,
-          "title": "Show HN: Pay It Forward – P2P Crowdfunding for African Entrepreneurs"
+          "link": "https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html",
+          "publishedOn": "2021-07-16T17:40:54.000Z",
+          "wordCount": 2135,
+          "title": "High Fidelity Image Generation Using Diffusion Models"
         },
         {
-          "id": "https://isthisprime.com/game/",
+          "id": "https://calebkruse.com/10-projects/seeing-blue/",
           "author": null,
           "description": "Comments",
-          "link": "https://isthisprime.com/game/",
-          "publishedOn": "2021-07-15T18:23:07.000Z",
-          "wordCount": 42,
-          "title": "Is This Prime?"
+          "link": "https://calebkruse.com/10-projects/seeing-blue/",
+          "publishedOn": "2021-07-16T17:20:04.000Z",
+          "wordCount": 1388,
+          "title": "Why we're blind to the color blue"
         },
         {
-          "id": "https://github.com/deepmind/alphafold",
+          "id": "https://arxiv.org/abs/2107.07467",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/deepmind/alphafold",
-          "publishedOn": "2021-07-15T18:22:16.000Z",
-          "wordCount": 2372,
-          "title": "Alphafold"
+          "link": "https://arxiv.org/abs/2107.07467",
+          "publishedOn": "2021-07-16T17:15:51.000Z",
+          "wordCount": 608,
+          "title": "Only Train Once: A One-Shot Neural Network Training and Pruning Framework"
         },
         {
-          "id": "https://blog.crunchydata.com/blog/generating-json-directly-from-postgres",
+          "id": "https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.crunchydata.com/blog/generating-json-directly-from-postgres",
-          "publishedOn": "2021-07-15T18:15:50.000Z",
-          "wordCount": 1046,
-          "title": "Generating JSON Directly from Postgres"
+          "link": "https://support.google.com/docs/answer/148505#zippy=%2Cmisleading-content",
+          "publishedOn": "2021-07-16T16:34:37.000Z",
+          "wordCount": 3279,
+          "title": "Google Drive bans distribution of “misleading content”"
         },
         {
-          "id": "https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak",
+          "id": "https://news.ycombinator.com/item?id=27858013",
           "author": null,
           "description": "Comments",
-          "link": "https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak",
-          "publishedOn": "2021-07-15T17:14:02.000Z",
-          "wordCount": 1386,
-          "title": "Soldiers speak out about being blocked from repairing equipment by contractors"
+          "link": "https://news.ycombinator.com/item?id=27858013",
+          "publishedOn": "2021-07-16T16:32:32.000Z",
+          "wordCount": 3423,
+          "title": "Launch HN: MergeQueue (YC S21) – Automate rebasing and merging for your codebase"
         },
         {
-          "id": "https://www.steamdeck.com/en/",
+          "id": "https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.steamdeck.com/en/",
-          "publishedOn": "2021-07-15T17:03:45.000Z",
-          "wordCount": 530,
-          "title": "Valve Steam Deck"
+          "link": "https://ukdefencejournal.org.uk/classified-challenger-tank-specs-leaked-online-for-videogame/",
+          "publishedOn": "2021-07-16T15:56:57.000Z",
+          "wordCount": 3140,
+          "title": "Classified Challenger tank specs leaked online for videogame"
         },
         {
-          "id": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
+          "id": "https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
-          "publishedOn": "2021-07-15T15:03:59.000Z",
-          "wordCount": 3469,
-          "title": "How many real numbers exist? New proof moves closer to an answer"
+          "link": "https://www.darkreading.com/attacks-breaches/state-dept-to-pay-up-to-$10m-for-information-on-foreign-cyberattacks/d/d-id/1341540",
+          "publishedOn": "2021-07-16T15:36:56.000Z",
+          "wordCount": 1847,
+          "title": "State Department to pay up to $10M for information on foreign cyberattacks"
         },
         {
-          "id": "https://www.bunniestudios.com/blog/?p=6140",
+          "id": "https://www.slowboring.com/p/the-case-for-banning-non-competes",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bunniestudios.com/blog/?p=6140",
-          "publishedOn": "2021-07-15T14:37:37.000Z",
-          "wordCount": 4968,
-          "title": "Building a Curve25519 Hardware Accelerator"
+          "link": "https://www.slowboring.com/p/the-case-for-banning-non-competes",
+          "publishedOn": "2021-07-16T14:31:24.000Z",
+          "wordCount": 2809,
+          "title": "The case for banning non-competes"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27844728",
+          "id": "https://theprintshop.club",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27844728",
-          "publishedOn": "2021-07-15T13:54:23.000Z",
-          "wordCount": 3688,
-          "title": "Launch HN: Weekday (YC W21) – Hire engineers vouched for by other engineers"
+          "link": "https://theprintshop.club",
+          "publishedOn": "2021-07-16T13:28:36.000Z",
+          "wordCount": 96,
+          "title": "The Print Shop Club: Create Apple II Print Shop Printouts in the Browser"
         },
         {
-          "id": "https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html",
+          "id": "https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.axios.com/facebooks-see-no-evil-strategy-6db4e714-ba14-4404-bd41-c4539bc8126e.html",
-          "publishedOn": "2021-07-15T13:35:21.000Z",
-          "wordCount": 1539,
-          "title": "Facebook's “see no evil” strategy"
+          "link": "https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/",
+          "publishedOn": "2021-07-16T13:21:35.000Z",
+          "wordCount": 4440,
+          "title": "Hooking Candiru: Another mercenary spyware vendor comes into focus"
         },
         {
-          "id": "https://redox-os.org/news/rsoc-2021-qemu-1/",
+          "id": "https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix",
           "author": null,
           "description": "Comments",
-          "link": "https://redox-os.org/news/rsoc-2021-qemu-1/",
-          "publishedOn": "2021-07-15T13:29:23.000Z",
-          "wordCount": 1978,
-          "title": "Porting QEMU to RedoxOS"
+          "link": "https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix",
+          "publishedOn": "2021-07-16T12:54:29.000Z",
+          "wordCount": 822,
+          "title": "Hubble telescope has new lease on life after computer swap appears to fix glitch"
         },
         {
-          "id": "https://github.com/esrlabs/josh",
+          "id": "https://github.com/rhardih/cistercian",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/esrlabs/josh",
-          "publishedOn": "2021-07-15T13:25:02.000Z",
-          "wordCount": 1161,
-          "title": "Josh: Get the advantages of a monorepo with multirepo setups"
+          "link": "https://github.com/rhardih/cistercian",
+          "publishedOn": "2021-07-16T04:21:47.000Z",
+          "wordCount": 547,
+          "title": "Show HN: A CLI tool to generate Cistercian numerals"
         },
         {
-          "id": "https://jamiemill.com/blog/elements-of-product-design/",
+          "id": "https://www.alexanderpiano.nz/page/the-alexander-piano",
           "author": null,
           "description": "Comments",
-          "link": "https://jamiemill.com/blog/elements-of-product-design/",
-          "publishedOn": "2021-07-15T10:25:52.000Z",
-          "wordCount": 430,
-          "title": "The Elements of Product Design"
+          "link": "https://www.alexanderpiano.nz/page/the-alexander-piano",
+          "publishedOn": "2021-07-16T00:38:09.000Z",
+          "wordCount": 1482,
+          "title": "The Alexander: Why did you build such a long piano?"
         },
         {
-          "id": "https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman",
+          "id": "https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/",
           "author": null,
           "description": "Comments",
-          "link": "https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman",
-          "publishedOn": "2021-07-15T09:30:38.000Z",
-          "wordCount": 86643,
-          "title": "Prison Memoirs of a Japanese Woman (1926)"
+          "link": "https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/",
+          "publishedOn": "2021-07-15T12:17:17.000Z",
+          "wordCount": 1297,
+          "title": "Ethereum London Mainnet Announcement"
         },
         {
-          "id": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
+          "id": "https://esoteric.codes/blog/fat-dactyls",
           "author": null,
           "description": "Comments",
-          "link": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
-          "publishedOn": "2021-07-15T08:29:12.000Z",
-          "wordCount": 1668,
-          "title": "K: War on Raze"
+          "link": "https://esoteric.codes/blog/fat-dactyls",
+          "publishedOn": "2021-07-15T10:07:12.000Z",
+          "wordCount": 1354,
+          "title": "Fat Dactyls"
         },
         {
-          "id": "https://thebaffler.com/salvos/unexamined-life-omar",
+          "id": "https://www.atlasobscura.com/articles/what-farc-ate-colombia",
           "author": null,
           "description": "Comments",
-          "link": "https://thebaffler.com/salvos/unexamined-life-omar",
-          "publishedOn": "2021-07-15T05:36:28.000Z",
-          "wordCount": 6667,
-          "title": "Unexamined Life: The too many faces of Edward Said"
+          "link": "https://www.atlasobscura.com/articles/what-farc-ate-colombia",
+          "publishedOn": "2021-07-15T09:37:13.000Z",
+          "wordCount": 3001,
+          "title": "Researchers are studying the cooking traditions of the FARC"
         },
         {
-          "id": "https://www.os2museum.com/wp/learn-something-old-every-day/",
+          "id": "https://arstechnica.com/science/2021/07/soil-samples-show-that-britains-rude-man-dates-back-to-medieval-period/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.os2museum.com/wp/learn-something-old-every-day/",
-          "publishedOn": "2021-07-14T19:51:37.000Z",
-          "wordCount": 1364,
-          "title": "Learn Something Old Every Day"
+          "link": "https://arstechnica.com/science/2021/07/soil-samples-show-that-britains-rude-man-dates-back-to-medieval-period/",
+          "publishedOn": "2021-07-15T05:35:54.000Z",
+          "wordCount": 1459,
+          "title": "Archaeologists “flabbergasted” to find Cerne Giant’s origins are medieval"
         },
         {
-          "id": "https://psyche.co/ideas/assertiveness-is-a-virtue-that-anyone-can-develop-with-practice",
+          "id": "https://lp.jetbrains.com/qodana/",
           "author": null,
           "description": "Comments",
-          "link": "https://psyche.co/ideas/assertiveness-is-a-virtue-that-anyone-can-develop-with-practice",
-          "publishedOn": "2021-07-14T15:07:54.000Z",
-          "wordCount": 1690,
-          "title": "Assertiveness is a virtue that anyone can develop with practice"
+          "link": "https://lp.jetbrains.com/qodana/",
+          "publishedOn": "2021-07-15T05:28:42.000Z",
+          "wordCount": 487,
+          "title": "Qodana: Code Quality Monitoring Platform"
         },
         {
-          "id": "https://tonsky.me/blog/icfpc-2021/",
+          "id": "https://github.com/red/red",
           "author": null,
           "description": "Comments",
-          "link": "https://tonsky.me/blog/icfpc-2021/",
-          "publishedOn": "2021-07-14T04:10:40.000Z",
-          "wordCount": 2607,
-          "title": "Zig, Skia, Clojure, Geometry and the Japanese TV Show: ICFP Contest 2021"
+          "link": "https://github.com/red/red",
+          "publishedOn": "2021-07-14T17:05:25.000Z",
+          "wordCount": 2363,
+          "title": "Red: A programming language inspired by REBOL"
         },
         {
-          "id": "https://github.com/inkandswitch/farm",
+          "id": "http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/inkandswitch/farm",
-          "publishedOn": "2021-07-13T17:04:28.000Z",
-          "wordCount": 1352,
-          "title": "Farm – an experiment in distributed peer-to-peer computing"
+          "link": "http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/",
+          "publishedOn": "2021-07-14T10:39:26.000Z",
+          "wordCount": 1713,
+          "title": "Paxos vs. Raft: Have we reached consensus on distributed consensus?"
         }
       ]
     }
