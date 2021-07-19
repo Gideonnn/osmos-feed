@@ -1,305 +1,305 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T00:58:01.446Z</id>
+    <id>urn:2021-07-19T00:56:35.790Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:58:01.446Z</updated>
+    <updated>2021-07-19T00:56:35.790Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Piped: A privacy-friendly YouTube front end which is efficient by design]]></title>
-        <id>https://github.com/TeamPiped/Piped</id>
-        <link href="https://github.com/TeamPiped/Piped"/>
-        <updated>2021-07-17T22:02:50.000Z</updated>
+        <title type="html"><![CDATA[Brain Signals Translated to 18 Words per Minute]]></title>
+        <id>https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis</id>
+        <link href="https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis"/>
+        <updated>2021-07-18T23:36:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nim on the Attack: Process Injection Using Nim and the Windows API]]></title>
-        <id>https://huskyhacks.dev/2021/07/17/nim-exploit-dev/</id>
-        <link href="https://huskyhacks.dev/2021/07/17/nim-exploit-dev/"/>
-        <updated>2021-07-17T21:30:43.000Z</updated>
+        <title type="html"><![CDATA[Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs]]></title>
+        <id>https://news.ycombinator.com/item?id=27877280</id>
+        <link href="https://news.ycombinator.com/item?id=27877280"/>
+        <updated>2021-07-18T22:33:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A man in Egypt keeping a 200-year-old tradition of tile-making [video]]]></title>
-        <id>https://m.youtube.com/watch?v=n5x7GLl-mMo</id>
-        <link href="https://m.youtube.com/watch?v=n5x7GLl-mMo"/>
-        <updated>2021-07-17T21:28:57.000Z</updated>
+        <title type="html"><![CDATA[Racket v8.2]]></title>
+        <id>https://blog.racket-lang.org/2021/07/racket-v8-2.html</id>
+        <link href="https://blog.racket-lang.org/2021/07/racket-v8-2.html"/>
+        <updated>2021-07-18T22:21:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud]]></title>
-        <id>https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud</id>
-        <link href="https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud"/>
-        <updated>2021-07-17T21:14:17.000Z</updated>
+        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
+        <id>https://www.workatastartup.com/jobs/29595</id>
+        <link href="https://www.workatastartup.com/jobs/29595"/>
+        <updated>2021-07-18T21:00:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Solarpunk Manifesto]]></title>
-        <id>http://www.re-des.org/a-solarpunk-manifesto/</id>
-        <link href="http://www.re-des.org/a-solarpunk-manifesto/"/>
-        <updated>2021-07-17T21:13:23.000Z</updated>
+        <title type="html"><![CDATA[Word gap: When money’s tight, parents talk less to kids]]></title>
+        <id>https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/</id>
+        <link href="https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/"/>
+        <updated>2021-07-18T20:51:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mux (YC W16) is hiring devs to contribute to open source players]]></title>
-        <id>https://mux.com/jobs?hnj=oss-players</id>
-        <link href="https://mux.com/jobs?hnj=oss-players"/>
-        <updated>2021-07-17T21:01:07.000Z</updated>
+        <title type="html"><![CDATA[Tesseract OCR]]></title>
+        <id>https://github.com/tesseract-ocr/tesseract</id>
+        <link href="https://github.com/tesseract-ocr/tesseract"/>
+        <updated>2021-07-18T20:27:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What happens in an IPO? – A Beginner's Guide (Part 2/2)]]></title>
-        <id>https://www.simplanations.in/people/2046200-vivek-raju</id>
-        <link href="https://www.simplanations.in/people/2046200-vivek-raju"/>
-        <updated>2021-07-17T20:52:20.000Z</updated>
+        <title type="html"><![CDATA[NOAA: Plant growth surging as CO2 increases]]></title>
+        <id>https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide</id>
+        <link href="https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide"/>
+        <updated>2021-07-18T20:25:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)]]></title>
-        <id>https://undeadly.org/cgi?action=article;sid=20210717141912</id>
-        <link href="https://undeadly.org/cgi?action=article;sid=20210717141912"/>
-        <updated>2021-07-17T20:48:21.000Z</updated>
+        <title type="html"><![CDATA[A plan to rescue the Web from the Internet (2017)]]></title>
+        <id>https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html</id>
+        <link href="https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html"/>
+        <updated>2021-07-18T20:08:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12 Months, 850 Languages, 63 Fonts, No Waiting Or: Thank God for Google Noto]]></title>
-        <id>https://curiousnotions.com/blog/#7/14/2021</id>
-        <link href="https://curiousnotions.com/blog/#7/14/2021"/>
-        <updated>2021-07-17T20:42:22.000Z</updated>
+        <title type="html"><![CDATA[MVT – forensic tool to look for infections on smartphones]]></title>
+        <id>https://github.com/mvt-project/mvt</id>
+        <link href="https://github.com/mvt-project/mvt"/>
+        <updated>2021-07-18T20:03:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week]]></title>
-        <id>https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week</id>
-        <link href="https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week"/>
-        <updated>2021-07-17T19:42:53.000Z</updated>
+        <title type="html"><![CDATA[iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus]]></title>
+        <id>https://twitter.com/billmarczak/status/1416801514685796352</id>
+        <link href="https://twitter.com/billmarczak/status/1416801514685796352"/>
+        <updated>2021-07-18T19:43:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shapecatcher: Draw the Unicode character you want]]></title>
-        <id>http://shapecatcher.com/</id>
-        <link href="http://shapecatcher.com/"/>
-        <updated>2021-07-17T19:35:49.000Z</updated>
+        <title type="html"><![CDATA[GNU Binutlis 2.37 has been released]]></title>
+        <id>https://sourceware.org/pipermail/binutils/2021-July/117384.html</id>
+        <link href="https://sourceware.org/pipermail/binutils/2021-July/117384.html"/>
+        <updated>2021-07-18T18:50:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Maps updates 'dangerous' Ben Nevis route]]></title>
-        <id>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</id>
-        <link href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330"/>
-        <updated>2021-07-17T19:06:08.000Z</updated>
+        <title type="html"><![CDATA[Diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs]]></title>
+        <id>https://github.com/afnanenayet/diffsitter</id>
+        <link href="https://github.com/afnanenayet/diffsitter"/>
+        <updated>2021-07-18T18:41:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HaikuOS running on RISC-V hardware (HiFive Unmatched)]]></title>
-        <id>https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31</id>
-        <link href="https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31"/>
-        <updated>2021-07-17T18:57:52.000Z</updated>
+        <title type="html"><![CDATA[An app for M1 Macs that plays the sound of a fan as CPU usage goes up]]></title>
+        <id>https://fanfan.rambo.codes/</id>
+        <link href="https://fanfan.rambo.codes/"/>
+        <updated>2021-07-18T18:22:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Blurred Lines of Parasocial Relationships]]></title>
-        <id>https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships</id>
-        <link href="https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships"/>
-        <updated>2021-07-17T17:10:09.000Z</updated>
+        <title type="html"><![CDATA[ToyDB: Distributed SQL Database in Rust]]></title>
+        <id>https://github.com/erikgrinaker/toydb</id>
+        <link href="https://github.com/erikgrinaker/toydb"/>
+        <updated>2021-07-18T18:03:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laws of Showrunning (2016) [pdf]]]></title>
-        <id>http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf</id>
-        <link href="http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf"/>
-        <updated>2021-07-17T16:49:30.000Z</updated>
+        <title type="html"><![CDATA[Right or left, you should be worried about big tech censorship]]></title>
+        <id>https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship</id>
+        <link href="https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship"/>
+        <updated>2021-07-18T17:04:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GM has signed an agreement to extract lithium from beneath the Salton Sea]]></title>
-        <id>https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/</id>
-        <link href="https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/"/>
-        <updated>2021-07-17T16:40:49.000Z</updated>
+        <title type="html"><![CDATA[Don’t Let Police Arm Autonomous or Remote-Controlled Robots and Drones]]></title>
+        <id>https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones</id>
+        <link href="https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones"/>
+        <updated>2021-07-18T17:03:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TFTC (TIE Fighter Total Conversion) v1.0]]></title>
-        <id>https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now</id>
-        <link href="https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now"/>
-        <updated>2021-07-17T15:14:32.000Z</updated>
+        <title type="html"><![CDATA[How NSO's Pegasus Is Used to Spy on Journalists]]></title>
+        <id>https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560</id>
+        <link href="https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560"/>
+        <updated>2021-07-18T16:23:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Gorse – An Out-of-the-box open-source Recommender System]]></title>
-        <id>https://gorse.io/</id>
-        <link href="https://gorse.io/"/>
-        <updated>2021-07-17T15:07:04.000Z</updated>
+        <title type="html"><![CDATA[Private Israeli spyware used to hack cellphones of journalists, activists]]></title>
+        <id>https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/</id>
+        <link href="https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/"/>
+        <updated>2021-07-18T16:14:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Short Guide to Iraq (1943)]]></title>
-        <id>https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html</id>
-        <link href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html"/>
-        <updated>2021-07-17T14:30:29.000Z</updated>
+        <title type="html"><![CDATA[Leak uncovers global abuse of cyber-surveillance weapon]]></title>
+        <id>https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus</id>
+        <link href="https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus"/>
+        <updated>2021-07-18T16:05:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elixir protocols vs. Clojure multimethods]]></title>
-        <id>https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/</id>
-        <link href="https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/"/>
-        <updated>2021-07-17T11:47:12.000Z</updated>
+        <title type="html"><![CDATA[About Godot4, Vulkan, GLES3 and GLES2]]></title>
+        <id>https://godotengine.org/article/about-godot4-vulkan-gles3-and-gles2</id>
+        <link href="https://godotengine.org/article/about-godot4-vulkan-gles3-and-gles2"/>
+        <updated>2021-07-18T15:03:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Went Wrong?]]></title>
-        <id>https://queue.acm.org/detail.cfm?id=3475967</id>
-        <link href="https://queue.acm.org/detail.cfm?id=3475967"/>
-        <updated>2021-07-17T11:34:18.000Z</updated>
+        <title type="html"><![CDATA[Matplotlib Gallery]]></title>
+        <id>https://matplotlib.org/stable/gallery/index.html</id>
+        <link href="https://matplotlib.org/stable/gallery/index.html"/>
+        <updated>2021-07-18T14:40:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Synced Blocks]]></title>
-        <id>https://www.notion.so/blog/designing-synced-blocks</id>
-        <link href="https://www.notion.so/blog/designing-synced-blocks"/>
-        <updated>2021-07-17T07:31:39.000Z</updated>
+        <title type="html"><![CDATA[Zig cc: A drop-in replacement for GCC/Clang (2020)]]></title>
+        <id>https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html</id>
+        <link href="https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html"/>
+        <updated>2021-07-18T13:04:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The database ruins all good ideas]]></title>
-        <id>http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/</id>
-        <link href="http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/"/>
-        <updated>2021-07-17T05:59:20.000Z</updated>
+        <title type="html"><![CDATA[Inserting One Billion Rows in SQLite Under a Minute]]></title>
+        <id>https://avi.im/blag/2021/fast-sqlite-inserts/</id>
+        <link href="https://avi.im/blag/2021/fast-sqlite-inserts/"/>
+        <updated>2021-07-18T13:01:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Down on 'The Farm': Learning How to Spy for the CIA (1980)]]></title>
-        <id>https://www.washingtonpost.com/archive/local/1980/02/19/down-on-the-farm-learning-how-to-spy-for-the-cia/fbe2f23c-ab8d-4fba-aab2-1c1da55f1c53/</id>
-        <link href="https://www.washingtonpost.com/archive/local/1980/02/19/down-on-the-farm-learning-how-to-spy-for-the-cia/fbe2f23c-ab8d-4fba-aab2-1c1da55f1c53/"/>
-        <updated>2021-07-16T22:09:12.000Z</updated>
+        <title type="html"><![CDATA[NIL]]></title>
+        <id>http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm</id>
+        <link href="http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm"/>
+        <updated>2021-07-18T12:15:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI disbands its robotics research team]]></title>
-        <id>https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/</id>
-        <link href="https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/"/>
-        <updated>2021-07-16T21:03:45.000Z</updated>
+        <title type="html"><![CDATA[Robot teardown, stripping industrial collaborative robots for good]]></title>
+        <id>https://aliasrobotics.com/robot-teardown.php</id>
+        <link href="https://aliasrobotics.com/robot-teardown.php"/>
+        <updated>2021-07-18T08:42:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speeding Up Reinforcement Learning with a New Physics Simulation Engine]]></title>
-        <id>https://ai.googleblog.com/2021/07/speeding-up-reinforcement-learning-with.html</id>
-        <link href="https://ai.googleblog.com/2021/07/speeding-up-reinforcement-learning-with.html"/>
-        <updated>2021-07-16T18:29:38.000Z</updated>
+        <title type="html"><![CDATA[Chernobyl's 'stalker' subculture]]></title>
+        <id>https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture</id>
+        <link href="https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture"/>
+        <updated>2021-07-18T08:36:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eat like Jane Austen with recipes from her sister-in-law’s cookbook]]></title>
-        <id>https://www.atlasobscura.com/articles/jane-austen-recipes-cookbook</id>
-        <link href="https://www.atlasobscura.com/articles/jane-austen-recipes-cookbook"/>
-        <updated>2021-07-16T17:53:24.000Z</updated>
+        <title type="html"><![CDATA[The Thermocline of Truth]]></title>
+        <id>https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/</id>
+        <link href="https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/"/>
+        <updated>2021-07-18T05:56:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How George Saunders Is Making Sense of the World]]></title>
-        <id>https://www.esquire.com/entertainment/books/a35166045/george-saunders-interview-pandemic-donald-trump-a-swim-in-a-pond-in-the-rain/</id>
-        <link href="https://www.esquire.com/entertainment/books/a35166045/george-saunders-interview-pandemic-donald-trump-a-swim-in-a-pond-in-the-rain/"/>
-        <updated>2021-07-16T17:46:25.000Z</updated>
+        <title type="html"><![CDATA[Cryptographers unearth vulnerabilities in Telegram's encryption protocol]]></title>
+        <id>https://www.cyberscoop.com/telegram-app-security-encryption/</id>
+        <link href="https://www.cyberscoop.com/telegram-app-security-encryption/"/>
+        <updated>2021-07-17T16:36:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To help gamers on Twitch, Dr. K balances mental health advice and medical ethics]]></title>
-        <id>https://www.npr.org/2021/01/13/956315576/psychiatrist-criticized-for-addressing-mental-health-issues-on-twitch</id>
-        <link href="https://www.npr.org/2021/01/13/956315576/psychiatrist-criticized-for-addressing-mental-health-issues-on-twitch"/>
-        <updated>2021-07-16T16:00:28.000Z</updated>
+        <title type="html"><![CDATA[Temeraire: Hugepage-Aware Allocator]]></title>
+        <id>https://google.github.io/tcmalloc/temeraire.html</id>
+        <link href="https://google.github.io/tcmalloc/temeraire.html"/>
+        <updated>2021-07-17T08:47:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WaveFunctionCollapse: Generates bitmaps that are locally similar to the input]]></title>
-        <id>https://github.com/mxgmn/WaveFunctionCollapse</id>
-        <link href="https://github.com/mxgmn/WaveFunctionCollapse"/>
-        <updated>2021-07-16T05:57:15.000Z</updated>
+        <title type="html"><![CDATA[Do Low-Level Optimizations Matter? (2020)]]></title>
+        <id>https://cantrip.org/sortfast.html</id>
+        <link href="https://cantrip.org/sortfast.html"/>
+        <updated>2021-07-17T05:21:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

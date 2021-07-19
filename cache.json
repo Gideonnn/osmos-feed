@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://github.com/TeamPiped/Piped",
+          "id": "https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/TeamPiped/Piped",
-          "publishedOn": "2021-07-17T22:02:50.000Z",
-          "wordCount": 903,
-          "title": "Piped: A privacy-friendly YouTube front end which is efficient by design"
+          "link": "https://www.ucsf.edu/news/2021/07/420946/neuroprosthesis-restores-words-man-paralysis",
+          "publishedOn": "2021-07-18T23:36:02.000Z",
+          "wordCount": 2139,
+          "title": "Brain Signals Translated to 18 Words per Minute"
         },
         {
-          "id": "https://huskyhacks.dev/2021/07/17/nim-exploit-dev/",
+          "id": "https://news.ycombinator.com/item?id=27877280",
           "author": null,
           "description": "Comments",
-          "link": "https://huskyhacks.dev/2021/07/17/nim-exploit-dev/",
-          "publishedOn": "2021-07-17T21:30:43.000Z",
-          "wordCount": 3772,
-          "title": "Nim on the Attack: Process Injection Using Nim and the Windows API"
+          "link": "https://news.ycombinator.com/item?id=27877280",
+          "publishedOn": "2021-07-18T22:33:56.000Z",
+          "wordCount": 3178,
+          "title": "Tell HN: Coming soon – “Meet the Batch” threads for parallel Launch HNs"
         },
         {
-          "id": "https://m.youtube.com/watch?v=n5x7GLl-mMo",
+          "id": "https://blog.racket-lang.org/2021/07/racket-v8-2.html",
           "author": null,
           "description": "Comments",
-          "link": "https://m.youtube.com/watch?v=n5x7GLl-mMo",
-          "publishedOn": "2021-07-17T21:28:57.000Z",
-          "wordCount": 27,
-          "title": "A man in Egypt keeping a 200-year-old tradition of tile-making [video]"
+          "link": "https://blog.racket-lang.org/2021/07/racket-v8-2.html",
+          "publishedOn": "2021-07-18T22:21:30.000Z",
+          "wordCount": 217,
+          "title": "Racket v8.2"
         },
         {
-          "id": "https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud",
+          "id": "https://www.workatastartup.com/jobs/29595",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud",
-          "publishedOn": "2021-07-17T21:14:17.000Z",
-          "wordCount": 1339,
-          "title": "Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud"
+          "link": "https://www.workatastartup.com/jobs/29595",
+          "publishedOn": "2021-07-18T21:00:34.000Z",
+          "wordCount": 610,
+          "title": "Cortex (YC W20) Is Hiring Founding Engineers"
         },
         {
-          "id": "http://www.re-des.org/a-solarpunk-manifesto/",
+          "id": "https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/",
           "author": null,
           "description": "Comments",
-          "link": "http://www.re-des.org/a-solarpunk-manifesto/",
-          "publishedOn": "2021-07-17T21:13:23.000Z",
-          "wordCount": 916,
-          "title": "A Solarpunk Manifesto"
+          "link": "https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/",
+          "publishedOn": "2021-07-18T20:51:44.000Z",
+          "wordCount": 1526,
+          "title": "Word gap: When money’s tight, parents talk less to kids"
         },
         {
-          "id": "https://mux.com/jobs?hnj=oss-players",
+          "id": "https://github.com/tesseract-ocr/tesseract",
           "author": null,
           "description": "Comments",
-          "link": "https://mux.com/jobs?hnj=oss-players",
-          "publishedOn": "2021-07-17T21:01:07.000Z",
-          "wordCount": 426,
-          "title": "Mux (YC W16) is hiring devs to contribute to open source players"
+          "link": "https://github.com/tesseract-ocr/tesseract",
+          "publishedOn": "2021-07-18T20:27:18.000Z",
+          "wordCount": 1533,
+          "title": "Tesseract OCR"
         },
         {
-          "id": "https://www.simplanations.in/people/2046200-vivek-raju",
+          "id": "https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide",
           "author": null,
           "description": "Comments",
-          "link": "https://www.simplanations.in/people/2046200-vivek-raju",
-          "publishedOn": "2021-07-17T20:52:20.000Z",
-          "wordCount": 101,
-          "title": "What happens in an IPO? – A Beginner's Guide (Part 2/2)"
+          "link": "https://www.noaa.gov/news/study-global-plant-growth-surging-alongside-carbon-dioxide",
+          "publishedOn": "2021-07-18T20:25:41.000Z",
+          "wordCount": 694,
+          "title": "NOAA: Plant growth surging as CO2 increases"
         },
         {
-          "id": "https://undeadly.org/cgi?action=article;sid=20210717141912",
+          "id": "https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html",
           "author": null,
           "description": "Comments",
-          "link": "https://undeadly.org/cgi?action=article;sid=20210717141912",
-          "publishedOn": "2021-07-17T20:48:21.000Z",
-          "wordCount": 471,
-          "title": "dhcpleased(8) and resolvd(8) enabled in base, replacing dhclient(8)"
+          "link": "https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html",
+          "publishedOn": "2021-07-18T20:08:21.000Z",
+          "wordCount": 4100,
+          "title": "A plan to rescue the Web from the Internet (2017)"
         },
         {
-          "id": "https://curiousnotions.com/blog/#7/14/2021",
+          "id": "https://github.com/mvt-project/mvt",
           "author": null,
           "description": "Comments",
-          "link": "https://curiousnotions.com/blog/#7/14/2021",
-          "publishedOn": "2021-07-17T20:42:22.000Z",
-          "wordCount": 11208,
-          "title": "12 Months, 850 Languages, 63 Fonts, No Waiting Or: Thank God for Google Noto"
+          "link": "https://github.com/mvt-project/mvt",
+          "publishedOn": "2021-07-18T20:03:42.000Z",
+          "wordCount": 812,
+          "title": "MVT – forensic tool to look for infections on smartphones"
         },
         {
-          "id": "https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week",
+          "id": "https://twitter.com/billmarczak/status/1416801514685796352",
           "author": null,
           "description": "Comments",
-          "link": "https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week",
-          "publishedOn": "2021-07-17T19:42:53.000Z",
-          "wordCount": 1507,
-          "title": "I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week"
+          "link": "https://twitter.com/billmarczak/status/1416801514685796352",
+          "publishedOn": "2021-07-18T19:43:30.000Z",
+          "wordCount": 196,
+          "title": "iOS 14.6 device hacked with a zero-click iMessage exploit to install Pegasus"
         },
         {
-          "id": "http://shapecatcher.com/",
+          "id": "https://sourceware.org/pipermail/binutils/2021-July/117384.html",
           "author": null,
           "description": "Comments",
-          "link": "http://shapecatcher.com/",
-          "publishedOn": "2021-07-17T19:35:49.000Z",
-          "wordCount": 451,
-          "title": "Shapecatcher: Draw the Unicode character you want"
+          "link": "https://sourceware.org/pipermail/binutils/2021-July/117384.html",
+          "publishedOn": "2021-07-18T18:50:49.000Z",
+          "wordCount": 696,
+          "title": "GNU Binutlis 2.37 has been released"
         },
         {
-          "id": "https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330",
+          "id": "https://github.com/afnanenayet/diffsitter",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330",
-          "publishedOn": "2021-07-17T19:06:08.000Z",
-          "wordCount": 1007,
-          "title": "Google Maps updates 'dangerous' Ben Nevis route"
+          "link": "https://github.com/afnanenayet/diffsitter",
+          "publishedOn": "2021-07-18T18:41:35.000Z",
+          "wordCount": 1226,
+          "title": "Diffsitter: A tree-sitter based AST difftool to get meaningful semantic diffs"
         },
         {
-          "id": "https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31",
+          "id": "https://fanfan.rambo.codes/",
           "author": null,
           "description": "Comments",
-          "link": "https://discuss.haiku-os.org/t/my-progress-on-real-risc-v-hardware/10963/31",
-          "publishedOn": "2021-07-17T18:57:52.000Z",
-          "wordCount": 5892,
-          "title": "HaikuOS running on RISC-V hardware (HiFive Unmatched)"
+          "link": "https://fanfan.rambo.codes/",
+          "publishedOn": "2021-07-18T18:22:13.000Z",
+          "wordCount": 67,
+          "title": "An app for M1 Macs that plays the sound of a fan as CPU usage goes up"
         },
         {
-          "id": "https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships",
+          "id": "https://github.com/erikgrinaker/toydb",
           "author": null,
           "description": "Comments",
-          "link": "https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships",
-          "publishedOn": "2021-07-17T17:10:09.000Z",
-          "wordCount": 5531,
-          "title": "The Blurred Lines of Parasocial Relationships"
+          "link": "https://github.com/erikgrinaker/toydb",
+          "publishedOn": "2021-07-18T18:03:11.000Z",
+          "wordCount": 1258,
+          "title": "ToyDB: Distributed SQL Database in Rust"
         },
         {
-          "id": "http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf",
+          "id": "https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship",
           "author": null,
           "description": "Comments",
-          "link": "http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf",
-          "publishedOn": "2021-07-17T16:49:30.000Z",
-          "wordCount": 4876,
-          "title": "Laws of Showrunning (2016) [pdf]"
+          "link": "https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship",
+          "publishedOn": "2021-07-18T17:04:19.000Z",
+          "wordCount": 2536,
+          "title": "Right or left, you should be worried about big tech censorship"
         },
         {
-          "id": "https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/",
+          "id": "https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones",
           "author": null,
           "description": "Comments",
-          "link": "https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/",
-          "publishedOn": "2021-07-17T16:40:49.000Z",
-          "wordCount": 1223,
-          "title": "GM has signed an agreement to extract lithium from beneath the Salton Sea"
+          "link": "https://www.eff.org/deeplinks/2021/07/dont-let-police-arm-autonomous-or-remote-controlled-robots-and-drones",
+          "publishedOn": "2021-07-18T17:03:36.000Z",
+          "wordCount": 2554,
+          "title": "Don’t Let Police Arm Autonomous or Remote-Controlled Robots and Drones"
         },
         {
-          "id": "https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now",
+          "id": "https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560",
           "author": null,
           "description": "Comments",
-          "link": "https://www.moddb.com/mods/tie-fighter-total-conversion-tftc/news/tftc-v10-is-out-now",
-          "publishedOn": "2021-07-17T15:14:32.000Z",
-          "wordCount": 822,
-          "title": "TFTC (TIE Fighter Total Conversion) v1.0"
+          "link": "https://www.haaretz.com/israel-news/tech-news/.premium-how-nso-s-pegasus-is-used-to-spy-on-journalists-1.10010560",
+          "publishedOn": "2021-07-18T16:23:32.000Z",
+          "wordCount": 1566,
+          "title": "How NSO's Pegasus Is Used to Spy on Journalists"
         },
         {
-          "id": "https://gorse.io/",
+          "id": "https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/",
           "author": null,
           "description": "Comments",
-          "link": "https://gorse.io/",
-          "publishedOn": "2021-07-17T15:07:04.000Z",
-          "wordCount": 212,
-          "title": "Show HN: Gorse – An Out-of-the-box open-source Recommender System"
+          "link": "https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/",
+          "publishedOn": "2021-07-18T16:14:12.000Z",
+          "wordCount": 5317,
+          "title": "Private Israeli spyware used to hack cellphones of journalists, activists"
         },
         {
-          "id": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html",
+          "id": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus",
           "author": null,
           "description": "Comments",
-          "link": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/short-guide-to-iraq.html",
-          "publishedOn": "2021-07-17T14:30:29.000Z",
-          "wordCount": 18101,
-          "title": "A Short Guide to Iraq (1943)"
+          "link": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus",
+          "publishedOn": "2021-07-18T16:05:41.000Z",
+          "wordCount": 2669,
+          "title": "Leak uncovers global abuse of cyber-surveillance weapon"
         },
         {
-          "id": "https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/",
+          "id": "https://godotengine.org/article/about-godot4-vulkan-gles3-and-gles2",
           "author": null,
           "description": "Comments",
-          "link": "https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/",
-          "publishedOn": "2021-07-17T11:47:12.000Z",
-          "wordCount": 775,
-          "title": "Elixir protocols vs. Clojure multimethods"
+          "link": "https://godotengine.org/article/about-godot4-vulkan-gles3-and-gles2",
+          "publishedOn": "2021-07-18T15:03:01.000Z",
+          "wordCount": 1213,
+          "title": "About Godot4, Vulkan, GLES3 and GLES2"
         },
         {
-          "id": "https://queue.acm.org/detail.cfm?id=3475967",
+          "id": "https://matplotlib.org/stable/gallery/index.html",
           "author": null,
           "description": "Comments",
-          "link": "https://queue.acm.org/detail.cfm?id=3475967",
-          "publishedOn": "2021-07-17T11:34:18.000Z",
-          "wordCount": 1958,
-          "title": "What Went Wrong?"
+          "link": "https://matplotlib.org/stable/gallery/index.html",
+          "publishedOn": "2021-07-18T14:40:04.000Z",
+          "wordCount": 2153,
+          "title": "Matplotlib Gallery"
         },
         {
-          "id": "https://www.notion.so/blog/designing-synced-blocks",
+          "id": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.notion.so/blog/designing-synced-blocks",
-          "publishedOn": "2021-07-17T07:31:39.000Z",
-          "wordCount": 1855,
-          "title": "Designing Synced Blocks"
+          "link": "https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html",
+          "publishedOn": "2021-07-18T13:04:09.000Z",
+          "wordCount": 4935,
+          "title": "Zig cc: A drop-in replacement for GCC/Clang (2020)"
         },
         {
-          "id": "http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/",
+          "id": "https://avi.im/blag/2021/fast-sqlite-inserts/",
           "author": null,
           "description": "Comments",
-          "link": "http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/",
-          "publishedOn": "2021-07-17T05:59:20.000Z",
-          "wordCount": 1571,
-          "title": "The database ruins all good ideas"
+          "link": "https://avi.im/blag/2021/fast-sqlite-inserts/",
+          "publishedOn": "2021-07-18T13:01:31.000Z",
+          "wordCount": 1592,
+          "title": "Inserting One Billion Rows in SQLite Under a Minute"
         },
         {
-          "id": "https://www.washingtonpost.com/archive/local/1980/02/19/down-on-the-farm-learning-how-to-spy-for-the-cia/fbe2f23c-ab8d-4fba-aab2-1c1da55f1c53/",
+          "id": "http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm",
           "author": null,
           "description": "Comments",
-          "link": "https://www.washingtonpost.com/archive/local/1980/02/19/down-on-the-farm-learning-how-to-spy-for-the-cia/fbe2f23c-ab8d-4fba-aab2-1c1da55f1c53/",
-          "publishedOn": "2021-07-16T22:09:12.000Z",
-          "wordCount": 907,
-          "title": "Down on 'The Farm': Learning How to Spy for the CIA (1980)"
+          "link": "http://www.lispworks.com/documentation/lw50/CLHS/Body/01_dadd.htm",
+          "publishedOn": "2021-07-18T12:15:19.000Z",
+          "wordCount": 285,
+          "title": "NIL"
         },
         {
-          "id": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
+          "id": "https://aliasrobotics.com/robot-teardown.php",
           "author": null,
           "description": "Comments",
-          "link": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
-          "publishedOn": "2021-07-16T21:03:45.000Z",
-          "wordCount": 1730,
-          "title": "OpenAI disbands its robotics research team"
+          "link": "https://aliasrobotics.com/robot-teardown.php",
+          "publishedOn": "2021-07-18T08:42:57.000Z",
+          "wordCount": 389,
+          "title": "Robot teardown, stripping industrial collaborative robots for good"
         },
         {
-          "id": "https://ai.googleblog.com/2021/07/speeding-up-reinforcement-learning-with.html",
+          "id": "https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture",
           "author": null,
           "description": "Comments",
-          "link": "https://ai.googleblog.com/2021/07/speeding-up-reinforcement-learning-with.html",
-          "publishedOn": "2021-07-16T18:29:38.000Z",
-          "wordCount": 3061,
-          "title": "Speeding Up Reinforcement Learning with a New Physics Simulation Engine"
+          "link": "https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture",
+          "publishedOn": "2021-07-18T08:36:42.000Z",
+          "wordCount": 2543,
+          "title": "Chernobyl's 'stalker' subculture"
         },
         {
-          "id": "https://www.atlasobscura.com/articles/jane-austen-recipes-cookbook",
+          "id": "https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/jane-austen-recipes-cookbook",
-          "publishedOn": "2021-07-16T17:53:24.000Z",
-          "wordCount": 3799,
-          "title": "Eat like Jane Austen with recipes from her sister-in-law’s cookbook"
+          "link": "https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/",
+          "publishedOn": "2021-07-18T05:56:41.000Z",
+          "wordCount": 4910,
+          "title": "The Thermocline of Truth"
         },
         {
-          "id": "https://www.esquire.com/entertainment/books/a35166045/george-saunders-interview-pandemic-donald-trump-a-swim-in-a-pond-in-the-rain/",
+          "id": "https://www.cyberscoop.com/telegram-app-security-encryption/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.esquire.com/entertainment/books/a35166045/george-saunders-interview-pandemic-donald-trump-a-swim-in-a-pond-in-the-rain/",
-          "publishedOn": "2021-07-16T17:46:25.000Z",
-          "wordCount": 5177,
-          "title": "How George Saunders Is Making Sense of the World"
+          "link": "https://www.cyberscoop.com/telegram-app-security-encryption/",
+          "publishedOn": "2021-07-17T16:36:36.000Z",
+          "wordCount": 593,
+          "title": "Cryptographers unearth vulnerabilities in Telegram's encryption protocol"
         },
         {
-          "id": "https://www.npr.org/2021/01/13/956315576/psychiatrist-criticized-for-addressing-mental-health-issues-on-twitch",
+          "id": "https://google.github.io/tcmalloc/temeraire.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.npr.org/2021/01/13/956315576/psychiatrist-criticized-for-addressing-mental-health-issues-on-twitch",
-          "publishedOn": "2021-07-16T16:00:28.000Z",
-          "wordCount": 1755,
-          "title": "To help gamers on Twitch, Dr. K balances mental health advice and medical ethics"
+          "link": "https://google.github.io/tcmalloc/temeraire.html",
+          "publishedOn": "2021-07-17T08:47:41.000Z",
+          "wordCount": 2179,
+          "title": "Temeraire: Hugepage-Aware Allocator"
         },
         {
-          "id": "https://github.com/mxgmn/WaveFunctionCollapse",
+          "id": "https://cantrip.org/sortfast.html",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/mxgmn/WaveFunctionCollapse",
-          "publishedOn": "2021-07-16T05:57:15.000Z",
-          "wordCount": 3579,
-          "title": "WaveFunctionCollapse: Generates bitmaps that are locally similar to the input"
+          "link": "https://cantrip.org/sortfast.html",
+          "publishedOn": "2021-07-17T05:21:17.000Z",
+          "wordCount": 3998,
+          "title": "Do Low-Level Optimizations Matter? (2020)"
         }
       ]
     }
