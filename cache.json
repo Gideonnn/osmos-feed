@@ -6,274 +6,274 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "http://www.ariadne.ac.uk/issue/46/rusbridge/",
+          "id": "https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs",
           "author": null,
           "description": "Comments",
-          "link": "http://www.ariadne.ac.uk/issue/46/rusbridge/",
-          "publishedOn": "2021-07-19T23:54:14.000Z",
-          "wordCount": 4359,
-          "title": "Excuse Me… Some Digital Preservation Fallacies? (2006)"
+          "link": "https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/84922/diffs",
+          "publishedOn": "2021-07-20T21:59:11.000Z",
+          "wordCount": 396,
+          "title": "Gitlab: Support for team members who are mistreated in their country"
         },
         {
-          "id": "https://arxiv.org/abs/2107.07513",
+          "id": "https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications",
           "author": null,
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2107.07513",
-          "publishedOn": "2021-07-19T23:29:22.000Z",
-          "wordCount": 639,
-          "title": "Optimal Stopping Methodology for the Secretary Problem with Random Queries"
+          "link": "https://www.ycombinator.com/companies/agilemd/jobs/iF08Jgy-software-engineering-manager-platform-and-applications",
+          "publishedOn": "2021-07-20T21:00:16.000Z",
+          "wordCount": 923,
+          "title": "AgileMD (YC S11) Is Hiring an Engineering Manager"
         },
         {
-          "id": "https://www.bryanjohnson.co/articles/i-fired-myself",
+          "id": "https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data",
           "author": null,
           "description": "Comments",
-          "link": "https://www.bryanjohnson.co/articles/i-fired-myself",
-          "publishedOn": "2021-07-19T23:09:23.000Z",
-          "wordCount": 397,
-          "title": "I Fired Myself"
+          "link": "https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data",
+          "publishedOn": "2021-07-20T20:50:12.000Z",
+          "wordCount": 2516,
+          "title": "Emmanuel Macron identified in leaked Pegasus project data"
         },
         {
-          "id": "https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/",
+          "id": "https://forem.dev/foremteam/introducing-forem-self-host-246k",
           "author": null,
           "description": "Comments",
-          "link": "https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/",
-          "publishedOn": "2021-07-19T22:38:42.000Z",
-          "wordCount": 6958,
-          "title": "On Leaving California and the Silicon Valley"
+          "link": "https://forem.dev/foremteam/introducing-forem-self-host-246k",
+          "publishedOn": "2021-07-20T20:15:45.000Z",
+          "wordCount": 1680,
+          "title": "Forem Self-Host"
         },
         {
-          "id": "https://www.nature.com/articles/s42003-020-01530-y",
+          "id": "https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill",
           "author": null,
           "description": "Comments",
-          "link": "https://www.nature.com/articles/s42003-020-01530-y",
-          "publishedOn": "2021-07-19T21:25:51.000Z",
-          "wordCount": 18797,
-          "title": "The Antimicrobial Potential of Cannabidiol"
+          "link": "https://maps.org/news/media/9270-maps-celebrates-california-senate-passage-of-groundbreaking-psychedelic-reform-bill",
+          "publishedOn": "2021-07-20T20:12:36.000Z",
+          "wordCount": 1073,
+          "title": "MAPS Celebrates California Senate Passage of Psychedelic Reform Bill"
         },
         {
-          "id": "https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/",
+          "id": "https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html",
           "author": null,
           "description": "Comments",
-          "link": "https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/",
-          "publishedOn": "2021-07-19T21:14:44.000Z",
-          "wordCount": 2410,
-          "title": "Don’t Wanna Pay Ransom Gangs? Test Your Backups"
+          "link": "https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html",
+          "publishedOn": "2021-07-20T19:33:23.000Z",
+          "wordCount": 2927,
+          "title": "Reverse-Engineering the Mali G78"
         },
         {
-          "id": "https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer",
+          "id": "https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer",
-          "publishedOn": "2021-07-19T21:00:15.000Z",
-          "wordCount": 777,
-          "title": "Draftbit (YC W18) Is Hiring Senior Engineers (Reason, React Native, GraphQL)"
+          "link": "https://blog.cryptographyengineering.com/2021/07/20/a-case-against-security-nihilism/",
+          "publishedOn": "2021-07-20T19:18:11.000Z",
+          "wordCount": 2092,
+          "title": "A case against security nihilism"
         },
         {
-          "id": "http://dstrohmaier.com/sudoku-prolog/",
+          "id": "https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda",
           "author": null,
           "description": "Comments",
-          "link": "http://dstrohmaier.com/sudoku-prolog/",
-          "publishedOn": "2021-07-19T20:06:04.000Z",
-          "wordCount": 811,
-          "title": "Using Prolog for Sudoku Variants"
+          "link": "https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda",
+          "publishedOn": "2021-07-20T18:21:15.000Z",
+          "wordCount": 427,
+          "title": "Show HN: Headless Recorder v1.0, get Playwright/Puppeteer scripts without coding"
         },
         {
-          "id": "https://www.jetbrains.com/lp/devecosystem-2021/cpp/",
+          "id": "https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.jetbrains.com/lp/devecosystem-2021/cpp/",
-          "publishedOn": "2021-07-19T19:47:18.000Z",
-          "wordCount": 628,
-          "title": "C++ Dev Ecosystem 2021"
+          "link": "https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/",
+          "publishedOn": "2021-07-20T17:09:01.000Z",
+          "wordCount": 436,
+          "title": "Our lawsuit against ChessBase"
         },
         {
-          "id": "https://lwn.net/Articles/863459/",
+          "id": "https://github.com/varbhat/torpar",
           "author": null,
           "description": "Comments",
-          "link": "https://lwn.net/Articles/863459/",
-          "publishedOn": "2021-07-19T19:34:52.000Z",
-          "wordCount": 6116,
-          "title": "A GPIO Driver in Rust"
+          "link": "https://github.com/varbhat/torpar",
+          "publishedOn": "2021-07-20T16:45:54.000Z",
+          "wordCount": 727,
+          "title": "Torpar: TUI Client for Torrent Paradise (Distributed Torrent Search)"
         },
         {
-          "id": "https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations",
+          "id": "https://optimismpbc.medium.com/retroactive-public-goods-funding-33c9b7d00f0c",
           "author": null,
           "description": "Comments",
-          "link": "https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations",
-          "publishedOn": "2021-07-19T19:10:08.000Z",
-          "wordCount": 1894,
-          "title": "Edward Snowden calls for spyware trade ban amid Pegasus revelations"
+          "link": "https://optimismpbc.medium.com/retroactive-public-goods-funding-33c9b7d00f0c",
+          "publishedOn": "2021-07-20T16:07:27.000Z",
+          "wordCount": 1262,
+          "title": "Retroactive Public Goods Funding"
         },
         {
-          "id": "https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/",
+          "id": "https://writtenrealms.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/",
-          "publishedOn": "2021-07-19T19:04:57.000Z",
-          "wordCount": 1811,
-          "title": "Linux 5.0 shown to boot on ESP32 processor"
+          "link": "https://writtenrealms.com/",
+          "publishedOn": "2021-07-20T15:26:23.000Z",
+          "wordCount": 17,
+          "title": "Show HN: WrittenRealms – a modern platform for text-based games"
         },
         {
-          "id": "https://rawgraphs.io/",
+          "id": "http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/",
           "author": null,
           "description": "Comments",
-          "link": "https://rawgraphs.io/",
-          "publishedOn": "2021-07-19T18:57:35.000Z",
-          "wordCount": 384,
-          "title": "RAWGraphs: missing link between spreadsheets and data visualization"
+          "link": "http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/",
+          "publishedOn": "2021-07-20T15:12:34.000Z",
+          "wordCount": 1573,
+          "title": "Clojure builds as an amalgamation of orthogonal parts"
         },
         {
-          "id": "https://en.wikipedia.org/wiki/Bouba/kiki_effect",
+          "id": "https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate",
           "author": null,
           "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Bouba/kiki_effect",
-          "publishedOn": "2021-07-19T18:21:04.000Z",
-          "wordCount": 1935,
-          "title": "Bouba/Kiki Effect"
+          "link": "https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate",
+          "publishedOn": "2021-07-20T15:04:47.000Z",
+          "wordCount": 1497,
+          "title": "Restaurant workers quit at record rate"
         },
         {
-          "id": "https://www.sciencemag.org/news/2021/07/giant-tsunami-dino-killing-asteroid-impact-revealed-fossilized-megaripples",
+          "id": "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.sciencemag.org/news/2021/07/giant-tsunami-dino-killing-asteroid-impact-revealed-fossilized-megaripples",
-          "publishedOn": "2021-07-19T18:16:06.000Z",
-          "wordCount": 1046,
-          "title": "Giant tsunami from dino-killing asteroid impact revealed in fossilized ripples"
+          "link": "https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/",
+          "publishedOn": "2021-07-20T14:43:52.000Z",
+          "wordCount": 1652,
+          "title": "How Bell’s Theorem proved ‘spooky action at a distance’ is real"
         },
         {
-          "id": "https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf",
+          "id": "https://www.nature.com/articles/d41586-021-01954-4",
           "author": null,
           "description": "Comments",
-          "link": "https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf",
-          "publishedOn": "2021-07-19T17:11:16.000Z",
-          "wordCount": 26172,
-          "title": "Math Problems for children from 5 to 15 (2004) [pdf]"
+          "link": "https://www.nature.com/articles/d41586-021-01954-4",
+          "publishedOn": "2021-07-20T14:40:55.000Z",
+          "wordCount": 2117,
+          "title": "Astronomers push for global debate on giant satellite swarms"
         },
         {
-          "id": "https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/",
+          "id": "https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/",
           "author": null,
           "description": "Comments",
-          "link": "https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/",
-          "publishedOn": "2021-07-19T16:12:34.000Z",
-          "wordCount": 1998,
-          "title": "Time to assume that health research is fraudulent until proven otherwise?"
+          "link": "https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/",
+          "publishedOn": "2021-07-20T13:50:51.000Z",
+          "wordCount": 5447,
+          "title": "GPU Architecture Types Explained"
         },
         {
-          "id": "https://github.com/brython-dev/brython",
+          "id": "https://sioyek.info/",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/brython-dev/brython",
-          "publishedOn": "2021-07-19T15:59:28.000Z",
+          "link": "https://sioyek.info/",
+          "publishedOn": "2021-07-20T13:16:53.000Z",
           "wordCount": 1301,
-          "title": "Brython: an implementation of Python 3 running in the browser"
+          "title": "Show HN: Sioyek – PDF viewer for reading research papers and technical documents"
         },
         {
-          "id": "https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/",
+          "id": "https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022",
           "author": null,
           "description": "Comments",
-          "link": "https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/",
-          "publishedOn": "2021-07-19T15:51:00.000Z",
-          "wordCount": 3955,
-          "title": "New Shape Opens ‘Wormhole’ Between Numbers and Geometry"
+          "link": "https://artbma.org/about/press/release/bma-security-officers-take-center-stage-as-guest-curators-of-a-new-exhibition-opening-in-march-2022",
+          "publishedOn": "2021-07-20T13:12:56.000Z",
+          "wordCount": null,
+          "title": "Baltimore Museum of Art will host an exhibition curated by the museum's guards"
         },
         {
-          "id": "https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c",
+          "id": "https://squareup.com/us/en/banking",
           "author": null,
           "description": "Comments",
-          "link": "https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c",
-          "publishedOn": "2021-07-19T15:42:26.000Z",
-          "wordCount": 3678,
-          "title": "Thread Pools on the JVM"
+          "link": "https://squareup.com/us/en/banking",
+          "publishedOn": "2021-07-20T13:12:37.000Z",
+          "wordCount": 1100,
+          "title": "Square Banking"
         },
         {
-          "id": "https://nebulus.dev",
+          "id": "https://news.ycombinator.com/item?id=27893182",
           "author": null,
           "description": "Comments",
-          "link": "https://nebulus.dev",
-          "publishedOn": "2021-07-19T14:56:02.000Z",
-          "wordCount": 111,
-          "title": "Nebulus: An IPFS-Less IPFS"
+          "link": "https://news.ycombinator.com/item?id=27893182",
+          "publishedOn": "2021-07-20T13:00:58.000Z",
+          "wordCount": 5194,
+          "title": "Launch HN: Bedrock AI (YC S21) – Using ML to identify red flags in SEC filings"
         },
         {
-          "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+          "id": "https://www.openwall.com/lists/oss-security/2021/07/20/1",
           "author": null,
           "description": "Comments",
-          "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-          "publishedOn": "2021-07-19T14:20:37.000Z",
-          "wordCount": 2893,
-          "title": "How to Learn Stuff Quickly"
+          "link": "https://www.openwall.com/lists/oss-security/2021/07/20/1",
+          "publishedOn": "2021-07-20T13:00:55.000Z",
+          "wordCount": 2399,
+          "title": "size_t-to-int vulnerability in Linux’s filesystem layer"
         },
         {
-          "id": "https://culturehustle.com/products/black-3-0-the-worlds-blackest-black-acrylic-paint-150ml",
+          "id": "https://buttondown.email/hillelwayne/archive/i-ing-hate-science/",
           "author": null,
           "description": "Comments",
-          "link": "https://culturehustle.com/products/black-3-0-the-worlds-blackest-black-acrylic-paint-150ml",
-          "publishedOn": "2021-07-19T13:33:33.000Z",
-          "wordCount": 1317,
-          "title": "Black 3.0 – The blackest black acrylic paint"
+          "link": "https://buttondown.email/hillelwayne/archive/i-ing-hate-science/",
+          "publishedOn": "2021-07-20T11:52:04.000Z",
+          "wordCount": 2132,
+          "title": "Software engineering research is a train wreck"
         },
         {
-          "id": "https://shouldigetahouse.com/",
+          "id": "https://nodered.org/blog/2021/07/20/version-2-0-released",
           "author": null,
           "description": "Comments",
-          "link": "https://shouldigetahouse.com/",
-          "publishedOn": "2021-07-19T13:22:09.000Z",
-          "wordCount": 482,
-          "title": "Show HN: Should I Get a House? a better rent vs. buy calculator"
+          "link": "https://nodered.org/blog/2021/07/20/version-2-0-released",
+          "publishedOn": "2021-07-20T10:59:13.000Z",
+          "wordCount": 1996,
+          "title": "Node-RED 2.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27882350",
+          "id": "https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/",
           "author": null,
           "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27882350",
-          "publishedOn": "2021-07-19T13:21:31.000Z",
-          "wordCount": 3134,
-          "title": "Launch HN: Hypercontext (YC S21) – Meeting notes, actions, and OKRs in one app"
+          "link": "https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/",
+          "publishedOn": "2021-07-20T10:34:28.000Z",
+          "wordCount": 11454,
+          "title": "Your idea is brilliant, your idea is worthless (2016)"
         },
         {
-          "id": "https://en.wikipedia.org/wiki/Senet",
+          "id": "https://www.atlasobscura.com/articles/sun-glint-remote-sensing",
           "author": null,
           "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Senet",
-          "publishedOn": "2021-07-19T12:54:22.000Z",
-          "wordCount": 1444,
-          "title": "Senet"
+          "link": "https://www.atlasobscura.com/articles/sun-glint-remote-sensing",
+          "publishedOn": "2021-07-20T06:26:32.000Z",
+          "wordCount": 2136,
+          "title": "Sun Glint, Bane of Scientists, Has a Silver Lining"
         },
         {
-          "id": "https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/",
+          "id": "https://advances.sciencemag.org/content/7/29/eabc0776",
           "author": null,
           "description": "Comments",
-          "link": "https://dewitters.com/i-had-to-give-a-wrong-answer-to-get-the-job/",
-          "publishedOn": "2021-07-19T11:17:32.000Z",
-          "wordCount": 812,
-          "title": "I had to give a wrong answer to get the job (2017)"
+          "link": "https://advances.sciencemag.org/content/7/29/eabc0776",
+          "publishedOn": "2021-07-20T05:11:49.000Z",
+          "wordCount": null,
+          "title": "An ancestral recombination graph of human, Neanderthal, and Denisovan genomes"
         },
         {
-          "id": "https://lab6.com/0",
+          "id": "https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL%20PDF.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://lab6.com/0",
-          "publishedOn": "2021-07-19T10:22:24.000Z",
-          "wordCount": 47230,
-          "title": "Deurbanising the Web [pdf]"
+          "link": "https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL%20PDF.pdf",
+          "publishedOn": "2021-07-19T18:21:33.000Z",
+          "wordCount": 42263,
+          "title": "Pisa 2018: Insights and Interpretations [pdf]"
         },
         {
-          "id": "https://therecord.media/windows-hello-bypassed-using-infrared-image/",
+          "id": "https://barbeau.medium.com/measuring-gnss-accuracy-on-android-devices-6824492a1389",
           "author": null,
           "description": "Comments",
-          "link": "https://therecord.media/windows-hello-bypassed-using-infrared-image/",
-          "publishedOn": "2021-07-19T05:55:09.000Z",
-          "wordCount": 566,
-          "title": "Windows Hello bypassed using infrared image"
+          "link": "https://barbeau.medium.com/measuring-gnss-accuracy-on-android-devices-6824492a1389",
+          "publishedOn": "2021-07-19T08:48:33.000Z",
+          "wordCount": 1697,
+          "title": "Measuring GNSS accuracy on Android devices (2019)"
         },
         {
-          "id": "https://blog.janestreet.com/how-to-build-an-exchange/",
+          "id": "https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/",
           "author": null,
           "description": "Comments",
-          "link": "https://blog.janestreet.com/how-to-build-an-exchange/",
-          "publishedOn": "2021-07-19T04:20:56.000Z",
-          "wordCount": 711,
-          "title": "How to Build an Exchange (2017) [video]"
+          "link": "https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/",
+          "publishedOn": "2021-07-19T08:23:14.000Z",
+          "wordCount": 1806,
+          "title": "JVM Anatomy Quark #26: Identity Hash Code"
         }
       ]
     }
